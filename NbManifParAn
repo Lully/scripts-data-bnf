@@ -7,7 +7,16 @@ import csv as csv
 
 
 person = input("URI de la personne dont il faut recuperer les dates des manifestations : ")
-directory = input("Répertoire où créer le fichier CSV en sortie")
+directory = input("Repertoire ou creer le fichier CSV en sortie : ")
+
+#Correction sur la valeur du directory : ajout d'un antislash à la fin s'il n'y en a pas deja un
+if (directory[len(directory)-1] == "\\" or directory[len(directory)-1] == "/"):
+    directory = directory
+else:
+    if (directory.find("\\") == -1):
+        directory = directory + "/"
+    else:
+        directory = directory + "\\"
 
 personFOAF = "<" + person + "#foaf:Person>"
 personID = person.replace("http://data.bnf.fr/ark:/12148/","")
