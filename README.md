@@ -1,2 +1,2 @@
 # scripts-data-bnf
-Scripts Python pour manipuler les données de data.bnfr.fr
+ Scritps Python (ou autres) autour de l'application data.bnf.fr
