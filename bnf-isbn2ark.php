@@ -5,6 +5,7 @@ Récupération des n° ARK et NNB à partir d'une requête par ISBN
 Principe : parser la page HTML, ouvrir chaque notice résultat (de la première page de résultats, donc <= 10 résultats) et récupérer l'ARK
 version: 0.1 - 20160401
 author : Etienne Cavalié - Lully
+Exemple URL : https://scripts-lully.c9.io/bnf-isbn2ark.php?isbn=2-07-037026-7
 */
 
 header('Content-Type: text/xml');
