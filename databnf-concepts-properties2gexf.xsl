@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Feuille de style qui récupère un fichier en sortie du script Python databnf-concepts-properties.py
 et en fait un fichier GEXF importable dans Gephi
-Au passage, cette feuille de style XSL nettoie les espaces de nom de databnf en les remplaçant par leurs préfixes-->
+Au passage, cette feuille de style XSL nettoie les espaces de nom de databnf en les remplaçant par leurs préfixes
+Certains noeuds, liés uniquement à la déclaration de l'ontologie elle-même (et non au contenu des ressources dans data.bnf.fr
+sont filtrées pour ne pas être envoyées dans Gephi-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 <xsl:output indent="yes"/>
 
