@@ -14,9 +14,8 @@ sparqlEndpoint = "http://data.bnf.fr/sparql"
 # Pour chaque ARK récupéré, interrogation de l'API ark2marc pour avoir la valeur du 041
 
 directory = input("Repertoire de destination : ")
-#directory = "D:/BNF0017855/Documents/Catalogue - ADCAT/Chantiers corrections/"
 nomStr = input("Nom du fichier")
-#nomStr = "records-sans-code-langue-008.xml"
+
 
 
 #Correction sur la valeur du directory : ajout d'un antislash à la fin s'il n'y en a pas deja un
@@ -28,55 +27,6 @@ else:
     else:
         directory = directory + "\\"
 
-longNamespaces = ['http://www.w3.org/2002/07/owl#',
-'http://www.w3.org/2001/XMLSchema#',
-'http://purl.org/dc/dcmitype/',
-'http://www.w3.org/2004/02/skos/core#',
-'http://www.w3.org/2000/01/rdf-schema#',
-'http://rdvocab.info/uri/schema/FRBRentitiesRDA/',
-'http://www.w3.org/2003/01/geo/wgs84_pos#',
-'http://data.bnf.fr/ontology/bnf-onto/',
-'http://rdvocab.info/RDARelationshipsWEMI/',
-'http://isni.org/ontology#',
-'http://www.w3.org/1999/02/22-rdf-syntax-ns#',
-'http://www.w3.org/TR/owl-time/',
-'http://www.loc.gov/standards/mads/rdf/v1.html#',
-'http://id.loc.gov/vocabulary/relators/',
-'http://www.w3.org/XML/1998/namespace',
-'http://purl.org/dc/terms/',
-'http://purl.org/ontology/bibo/',
-'http://rdvocab.info/ElementsGr2/',
-'http://data.bnf.fr/vocabulary/roles/',
-'http://xmlns.com/foaf/0.1/"']
-
-shortNamespaces = ['owl',
-'xsd',
-'dcmitype',
-'skos',
-'rdfs',
-'frbr-rda',
-'geo',
-'bnf-onto',
-'rdarelationships',
-'isni',
-'rdf',
-'owl-time',
-'madsrdf',
-'marcrel',
-'xml',
-'dcterms',
-'bibo',
-'rdagroup2elements',
-'bnf-roles',
-'foaf']
-
-Namespaces = {'http://www.w3.org/2002/07/owl#':'owl','http://www.w3.org/2001/XMLSchema#':'xsd','http://purl.org/dc/dcmitype/':'dcmitype','http://www.w3.org/2004/02/skos/core#':'skos','http://www.w3.org/2000/01/rdf-schema#':'rdfs','http://rdvocab.info/uri/schema/FRBRentitiesRDA/':'frbr-rda','http://www.w3.org/2003/01/geo/wgs84_pos#':'geo','http://data.bnf.fr/ontology/bnf-onto/':'bnf-onto','http://rdvocab.info/RDARelationshipsWEMI/':'rdarelationships','http://isni.org/ontology#':'isni','http://www.w3.org/1999/02/22-rdf-syntax-ns#':'rdf','http://www.w3.org/TR/owl-time/':'owl-time','http://www.loc.gov/standards/mads/rdf/v1.html#':'madsrdf','http://id.loc.gov/vocabulary/relators/':'marcrel','http://www.w3.org/XML/1998/namespace':'xml','http://purl.org/dc/terms/':'dcterms','http://purl.org/ontology/bibo/':'bibo','http://rdvocab.info/ElementsGr2/':'rdagroup2elements','http://data.bnf.fr/vocabulary/roles/':'bnf-roles','http://xmlns.com/foaf/0.1/"':'foaf'}
-
-def SearchReplace(texte,listeSearch,listeReplace):
-    i=0
-    for element1 in listeSearch:
-        texte.replace(element1,listeReplace[i])
-        i=i+1
 
 sparql = SPARQLWrapper(sparqlEndpoint)
 
