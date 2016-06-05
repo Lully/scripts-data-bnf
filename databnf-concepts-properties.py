@@ -9,9 +9,10 @@ import io
 
 sparqlEndpoint = "http://data.bnf.fr/sparql"
 
-# Requête SPARQL qui récupère les notices sans mention de langue en champ codé 008 (pos. 31-33)
-# et qui ont la chaîne de caractères " p." dans la zone de description
-# Pour chaque ARK récupéré, interrogation de l'API ark2marc pour avoir la valeur du 041
+# Requête SPARQL qui récupère la liste des classes dans data.bnf.fr
+# et compte le nombre d'instances pour ces classes.
+# la sortie est un fichier XML qui, associé à un fichier XSL (https://github.com/Lully/scripts-data-bnf/blob/master/databnf-concepts-properties2gexf.xsl)
+# permet de générer du GEXF (importable dans Gephi)
 
 directory = input("Repertoire de destination : ")
 nomStr = input("Nom du fichier")
