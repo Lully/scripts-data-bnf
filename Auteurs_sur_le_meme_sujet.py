@@ -29,6 +29,8 @@ datedebut = input("A partir de (Ne prendre en compte que les publications poster
 datefin = input("Jusqu'a (Ne prendre en compte que les publications anterieures a cette date)")
 limit = input("Nb max d'occurrences des mots-clés dans la base (si vide : 10000)")
 
+urldata = "http://data.bnf.fr/sparql"
+
 
 #Si l'identifiant "Person" n'a pas été renseigné en entrée (pour aller plus vite lors de tests)
 # on affecte l'URI de René Girard
@@ -77,7 +79,7 @@ personID = person.replace("http://data.bnf.fr/ark:/12148/","")
 #Requête pour récupérer le nom de la personne, afin de nommer le fichier CSV en sortie
 #On récupère au passage la date de naissance et de mort (si elles figurent dans data.bnf.fr)
 # pour éventuellement générer des filtres par défaut lors de la requête
-sparqlNom = SPARQLWrapper("http://data.bnf.fr/sparql")
+sparqlNom = SPARQLWrapperurldata
 
 sparqlNom.setQuery("""PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 select ?nom ?dateNaissance ?dateMort  where {
@@ -151,7 +153,7 @@ else:
 
 
 #On récupère la liste des sujets traités par un auteur.
-sparqlSujets = SPARQLWrapper("http://data.bnf.fr/sparql")
+sparqlSujets = SPARQLWrapperurldata
 
 sparqlSujets.setQuery("""DEFINE input:same-as "yes"
 PREFIX dcterms: <http://purl.org/dc/terms/>
@@ -169,7 +171,7 @@ ListeNbSujetsAuteur = []
 for el in Sujets:
     ListeSujetsAuteur.append(el.get("sujet").get("value"))
 
-sparqlNbSujets = SPARQLWrapper("http://data.bnf.fr/sparql")
+sparqlNbSujets = SPARQLWrapperurldata
 
 #Pour chaque sujet traité par cet auteur, on récupère le nombre de manifs indexées à ce sujet
 for sujet in ListeSujetsAuteur:
@@ -214,7 +216,7 @@ for el in ListeNbSujetsAuteur:
         #soit les dates 2000-9999 par défaut
 
 for sujet in ListeNbSujetsAuteurFiltree:
-    sparql = SPARQLWrapper("http://data.bnf.fr/sparql")
+    sparql = SPARQLWrapperurldata
     
     sparqlQuery = """PREFIX marcrel: <http://id.loc.gov/vocabulary/relators/>
     PREFIX owl: <http://www.w3.org/2002/07/owl#>
