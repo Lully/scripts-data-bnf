@@ -51,7 +51,7 @@ def auteur2collabSPARQL(ark):
 def collaboration(nomAuteur1,nomAuteur2):
     nomAuteur1 = nomAuteur1.replace('"',"'").replace(';',",")
     nomAuteur2  = nomAuteur2.replace('"',"'").replace(';',",")
-    collab = sorted([nomAuteur1,nomAuteur2])
+    collab = [nomAuteur1,nomAuteur2]
     collab = "\"" + collab[0] + "\";\"" + collab[1] + "\""
     listeCollaborations.append(collab)
     listeCollaborations_file.write(collab + "\n")
@@ -71,12 +71,14 @@ def auteur2collab(ark):
             nomAuteur2 = unidecode(nomAuteur2)
             collaboration(nomAuteur1,nomAuteur2)
             arkCollaborateur = result["collaborateur"]["value"].replace("http://data.bnf.fr/","").replace("#foaf:Person","").replace("#about","").replace("#foaf:Organization","")
-            dicArk2Nom[arkCollaborateur] = result["nomCollaborateur"]["value"]
+            dicArk2Nom[arkCollaborateur] = unidecode(result["nomCollaborateur"]["value"])
     
     #Pour chaque collaborateur trouvé à l'auteur principal, on 
     #relance la requête pour récupérer ses co-auteurs. On ne garde ceux-ci que s'ils sont dans la premièr eliste
     i = 1
     nbKeysdicArk2Nom = len(dicArk2Nom)
+    FichierCollaborateurs = open("collaborateurs.txt","w")
+    FichierCollaborateurs.write(str(dicArk2Nom))
     for ark in dicArk2Nom:
         print(str(i) + "/" + str(nbKeysdicArk2Nom) + ". " + ark + " : " + dicArk2Nom[ark])
         i = i+1
