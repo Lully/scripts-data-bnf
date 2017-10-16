@@ -40,8 +40,8 @@ def auteur2collabSPARQL(ark):
         ?ressource ?URIrole2 ?collaborateur.
         ?collaborateur foaf:familyName ?nomCollaborateur.
         OPTIONAL {?collaborateur foaf:givenName ?prenomCollaborateur.}
-        FILTER (contains(str(?URIrole1),"bnf.fr"))
-        FILTER (contains(str(?URIrole2),"bnf.fr"))}"""
+        ?URIrole1 skos:inScheme <http://data.bnf.fr/vocabulary/roles>.
+        ?URIrole2 skos:inScheme <http://data.bnf.fr/vocabulary/roles>.}"""
     sparql = SPARQLWrapper("http://data.bnf.fr/sparql")
     sparql.setQuery(req)
     sparql.setReturnFormat(JSON)
