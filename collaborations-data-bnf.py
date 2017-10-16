@@ -85,9 +85,17 @@ def auteur2collab(ark):
         lienscollaborateurs = auteur2collabSPARQL(ark)
         for result in lienscollaborateurs["results"]["bindings"]:
             if (result["nomAuteur"]["value"] != result["nomCollaborateur"]["value"]):
-                arkCollaborateur = result["collaborateur"]["value"].replace("http://data.bnf.fr/","").replace("#foaf:Person","")
+                arkCollaborateur = result["collaborateur"]["value"].replace("http://data.bnf.fr/","").replace("#foaf:Person","").replace("#about","").replace("#foaf:Organization","")
                 if (arkCollaborateur in dicArk2Nom):
-                    collaboration(unidecode(result["nomAuteur"]["value"]),unidecode(result["nomCollaborateur"]["value"]))
+                    nomAuteur1 = result["nomAuteur"]["value"]
+                    if (result["prenomAuteur"]["value"] != ""):
+                        nomAuteur1 += " " + result["prenomAuteur"]["value"]
+                    nomAuteur1 = unidecode(nomAuteur1)
+                    nomAuteur2 = result["nomCollaborateur"]["value"]
+                    if (result["prenomCollaborateur"]["value"] != ""):
+                        nomAuteur2 += " " + result["prenomCollaborateur"]["value"]
+                    nomAuteur2 = unidecode(nomAuteur2)
+                    collaboration(nomAuteur1,nomAuteur2)
         
         
 auteur2collab(entree)
