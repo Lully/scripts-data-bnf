@@ -33,11 +33,13 @@ def auteur2collabSPARQL(ark):
         PREFIX bnf-onto: <http://data.bnf.fr/ontology/bnf-onto/>
         PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
         PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-        select distinct ?nomAuteur ?ressource ?collaborateur ?nomCollaborateur where {
-        ?ressource ?URIrole1 <http://data.bnf.fr/""" + ark + """#foaf:Person>.
-        <http://data.bnf.fr/""" + ark + """#foaf:Person> foaf:name ?nomAuteur.
+        select distinct ?nomAuteur ?prenomAuteur ?ressource ?collaborateur ?nomCollaborateur ?prenomCollaborateur where {
+        ?ressource ?URIrole1 <http://data.bnf.fr/""" + ark + """#about>.
+        <http://data.bnf.fr/""" + ark + """#about> foaf:familyName ?nomAuteur.
+        OPTIONAL {<http://data.bnf.fr/""" + ark + """#about> foaf:givenName ?prenomAuteur.}
         ?ressource ?URIrole2 ?collaborateur.
-        ?collaborateur foaf:name ?nomCollaborateur.
+        ?collaborateur foaf:familyName ?nomCollaborateur.
+        OPTIONAL {?collaborateur foaf:givenName ?prenomCollaborateur.}
         FILTER (contains(str(?URIrole1),"bnf.fr"))
         FILTER (contains(str(?URIrole2),"bnf.fr"))}"""
     sparql = SPARQLWrapper("http://data.bnf.fr/sparql")
@@ -59,7 +61,15 @@ def auteur2collab(ark):
     for result in req_sparql["results"]["bindings"]:
         #éviter les cas où l'auteur est collaborateur de lui-même (c'est-à-dire intervient à plusieurs titres sur un même document)
         if (result["nomAuteur"]["value"] != result["nomCollaborateur"]["value"]):
-            collaboration(unidecode(result["nomAuteur"]["value"]),unidecode(result["nomCollaborateur"]["value"]))
+            nomAuteur1 = result["nomAuteur"]["value"]
+            if (result["prenomAuteur"]["value"] != ""):
+                nomAuteur1 += " " + result["prenomAuteur"]["value"]
+            nomAuteur1 = unidecode(nomAuteur1)
+            nomAuteur2 = result["nomCollaborateur"]["value"]
+            if (result["prenomCollaborateur"]["value"] != ""):
+                nomAuteur2 += " " + result["prenomCollaborateur"]["value"]
+            nomAuteur2 = unidecode(nomAuteur2)
+            collaboration(nomAuteur1,nomAuteur2)
             arkCollaborateur = result["collaborateur"]["value"].replace("http://data.bnf.fr/","").replace("#foaf:Person","").replace("#about","").replace("#foaf:Organization","")
             dicArk2Nom[arkCollaborateur] = result["nomCollaborateur"]["value"]
     
@@ -69,6 +79,7 @@ def auteur2collab(ark):
     nbKeysdicArk2Nom = len(dicArk2Nom)
     for ark in dicArk2Nom:
         print(str(i) + "/" + str(nbKeysdicArk2Nom) + ". " + ark + " : " + dicArk2Nom[ark])
+        i = i+1
         lienscollaborateurs = auteur2collabSPARQL(ark)
         for result in lienscollaborateurs["results"]["bindings"]:
             if (result["nomAuteur"]["value"] != result["nomCollaborateur"]["value"]):
