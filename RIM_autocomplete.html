@@ -3,6 +3,11 @@
 <meta charset="UTF-8"/>
 <title>RIM : Liste des zones / sous-zones</title>
 </head>
+<style type="text/css">
+.acces_rim {
+display: none;
+}
+</style>
 <body>
 
 <h1 id="RIM_B">Bibliographique : Liste des zones / sous-zones du format Intermarc (B)</h1>
@@ -2397,7 +2402,7 @@
 <option value="999" label="999$y Sous-zone $y de la source"/>
 <option value="999" label="999$z Sous-zone $z de la source"/>
 </datalist>
-<input type="submit" value="Ouvrir la page"/>
+<input type="submit" value="Ouvrir la page" id="acces_rim_b" class="acces_rim"/>
 </form>
 
 <h1 id="RIM_A">Autorités : Liste des zones / sous-zones du format Intermarc (A)</h1>
@@ -3633,7 +3638,7 @@
 <option value="999" label="999$x Zone et contenu des données mises en erreur lors du passage du programme de conversion"/>
 </datalist>
 
-<input type="submit" value="Ouvrir la page"/>
+<input type="submit" value="Ouvrir la page" id="acces_rim_a" class="acces_rim"/>
 </form>
 </body>
 </html>
