@@ -19,8 +19,10 @@ if (urlroot == ""):
 #URI test page Auteur
 URIaut = "11896834/christine_de_pisan/"
 ARKaut = "ark:/12148/cb11896834h"
-#URI manifestation
-ARKmanif = "ark:/12148/cb357071723"
+#URI manifestation pour tests Expression, Oeuvre, Concept
+ARKmanif = "ark:/12148/cb45281463d"
+#URI manifestation pour test relation sujet
+ARKmanifSujet = "ark:/12148/cb357071723"
 
 resultats = defaultdict(bool)
 
@@ -94,12 +96,13 @@ def checkRDFManifSujet(ARKmanif):
     URImanifRDFXML = urlroot + ARKmanif
     page = etree.parse(request.urlopen(URImanifRDFXML))
     path = "//rdf:Description[@rdf:about='" + urlroot + ARKmanif + "#about']/dcterms:subject[contains(@rdf:resource,'ark')]"
-    resultats["Manif_lien_oeuvre"] = func_test_generique(page,path)        
+    resultats["Manif_Sujet"] = func_test_generique(page,path)        
 
 
 def checkAll():
     checkRDFAuthor(URIaut,ARKaut)
     checkRDFManif(ARKmanif)
+    checkRDFManifSujet(ARKmanifSujet)
     
 if __name__ == '__main__':
     checkAll()
