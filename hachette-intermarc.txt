@@ -1,0 +1,1581 @@
+000    00951c0 m 2200027   45a 
+001    FRBNF444051790000000
+008    150827s 2015                 frfre     b  001 
+009    a  d               
+015    $a01565337       
+020    $a978-2-213-68619-6 $brel. $d36 EUR 
+038    $a9782213686196 
+100    $312094651 $w.0..b..... $aLaurens $mHenry $d1954-.... $40070 
+245 1  $aLa question de Palestine $u05 $hTome cinquième $i1982-2001, la paix impossible $dTexte imprimé $fHenry Laurens 
+260    $a[Paris] $cFayard $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (878 p.-[8] p. de pl.) $cill. en coul. $d24 cm 
+300    $aBibliogr. p. 865-871. Index 
+460    $336946548 $tLa question de Palestine $v5 
+606    $312047729 $aConflit israélo-arabe 
+606    $311967290 $aPalestiniens $xPolitique et gouvernement $z+* 1948......- 9900......+:1948-....: 
+607    $311996008 $aIsraël $xPolitique et gouvernement $z+* 1977......- 1993......+:1977-1993: 
+607    $312435312 $aIsraël $xPolitique et gouvernement $z+* 1993......- 9900......+:1993-....: 
+676    $313591774 $i956.940 5 $v22 
+680 0  $a940 $b940 
+950    $a101860 $bC1 
+
+000    02232c0 m 2200027   45a 
+001    FRBNF444203030000008
+008    150923s 2015                 frfre     b  001 
+009    a  d               
+015    $a01563449       
+020    $a978-2-213-63103-5 $bbr. $d23 EUR 
+038    $a9782213631035 
+044    $cd20150923          
+100    $312003250 $w.0..b..... $aKastoryano $mRiva $d1952-.... $40070 
+245 1  $aQue faire des corps des djihadistes ? $dTexte imprimé $eterritoire et identité $fRiva Kastoryano 
+260    $aParis $cFayard $dDL 2015 
+270    $a58-Clamecy $cImpr. Laballery 
+280    $a1 vol. (334 p.) $cill. $d24 cm 
+300    $aBibliogr. p. 307-331 
+606    $316927619 $aDjihadistes $312091777 $xIdentité collective $312432924 $z+* 1990......- 9900......+:1990-....: 
+606    $313611562 $aCadavres $311975856 $xAspect politique $312432924 $z+* 1990......- 9900......+:1990-....: 
+606    $311936756 $aInhumation $311975856 $xAspect politique $312432924 $z+* 1990......- 9900......+:1990-....: 
+676    $316942084 $i320.557 0922 $v22 
+680 0  $a320 $b320 
+830    $a&lt;p style='text-align: justify;'&gt;Que faire des restes de corps des auteurs des attentats suicides de New York (2001), de Madrid (2004) et de Londres (2005) ? Cet ouvrage analyse la réponse apportée à cette question par les États-Unis, l'Espagne et la Grande-Bretagne à partir des rapports officiels qui retracent les trajectoires de ces djihadistes entre 2001 et 2005 en Occident, mais aussi d'entretiens menés dans chacun des pays avec des autorités publiques, des acteurs locaux, des représentants des communautés locales dans le pays d'immigration et dans le pays d'origine. Pour ces États, l'enterrement des bombes humaines explosées sur leur territoire n'est pas un enjeu : ni juridique, ni politique, ni diplomatique. Leur réaction vis-à-vis de ces corps a une portée symbolique et morale. Elle renvoie à la légitimité de l'ennemi et à la reconnaissance de sa cause comme de sa mort.&lt;br/&gt;L'enterrement de ces jeunes qui, animés par une narration identitaire sur leur appartenance à l'Oumma – une nation globale sans frontières –, rejettent tout attachement à une terre, pose la question du territoire comme appartenance. Les trois cas étudiés ici renvoient en fait à la notion de guerre non territoriale, avec le corps comme arme échappant au contrôle de l'État et rendant la justice inapplicable.&lt;br/&gt; &lt;/p&gt; $2éditeur 
+950    $a101861 $bC1 
+
+000    00569c0 m 2200027   45a 
+001    FRBNF444205340000005
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559449       
+020    $a978-2-8203-2057-5 $brel. $d24,99 EUR 
+038    $a9782820320575 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $314620262 $w.0.2bx.... $aMizushiro $mSetona $d1971-.... $40070 
+142 10 $aKyuso wa cheese no yume wo miru $eshinsoban $mfrançais 
+245 1  $aLe jeu du chat et de la souris $dTexte imprimé $eintégrale $fSetona Mizushiro 
+260    $aParis $cAsuka $dDL 2015 
+270    $aimpr. en CE 
+280    $a1 vol. (non paginé [ca 500] p.) $cill. en coul. $d25 cm 
+680 0  $a805 $b805 
+
+000    00636c0 m 2200027   45a 
+001    FRBNF444209020000003
+008    150924s 2015                 frfre     b  001 
+009    a  d   j           
+015    $a01559581       
+020    $a978-2-7459-7225-5 $brel. $d14,90 EUR 
+038    $a9782745972255 
+041 1  $afre $ceng 
+044    $cd20150923          
+100    $316272973 $w.0..b..... $aFranceschelli $mChristopher $40070 
+142 10 $aAlphablock $mfrançais 
+245 1  $aEn toutes lettres $dTexte imprimé $fChristopher Franceschelli $g[illustrations de] Peskimo 
+260    $aToulouse $cMilan $dDL 2015 
+270    $aimpr. en Chine 
+280    $a1 vol. (non paginé [ca 102] p.) $cill. en coul. $d17 cm 
+300    $aLivre cartonné 
+680 0  $a809 $b809 
+700    $316798686 $w.0.2b..... $aPeskimo $40440 
+950    $a101862 $bC1 
+
+000    01169c0 m 2200027   45a 
+001    FRBNF444201500000007
+008    150923s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559426       
+020    $a978-2-344-00911-6 $bbr. $d9,15 EUR 
+038    $a9782344009116 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $314512890 $w.0..bxjpn. $aKibayashi $mShin $d1962-.... $40070 
+245 1  $aLes gouttes de Dieu $h39 $dTexte imprimé $fscénario, Tadashi Agi $gdessins, Shu Okimoto 
+260    $aGrenoble $cGlénat $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (205 p.) $cill. $d18 cm 
+295 1  $aSeinen manga 
+300    $aTrad. du japonais 
+410    $338992210 $tSeinen manga $x1761-2276 $d2015 
+460    $341277043 $tLes gouttes de Dieu $v39 
+680 0  $a805 $b805 
+700    $315682991 $w.0..bx.... $aOkimoto $mShū $40440 
+830    $a&lt;p&gt;Le vainqueur de la 11&lt;sup&gt;e&lt;/sup&gt; manche est déclaré et Tomine n'est guère ravi du résultat. Mais la vie continue et, si Shizuku en sait un peu plus sur les difficultés qui l'attendent, il ne doit pas se relâcher pour autant. Le chef Kawarage a en effet décidé du nouveau projet du département Vins : un set de crus japonais ! Fujieda emmène donc l'équipe au complet dans le Tohoku, pour en découvrir les vins et les vignobles de leur pays…&lt;/p&gt; $2éditeur 
+950    $a101863 $bC1 
+
+000    01835c0 m 2200027   45a 
+001    FRBNF444206610000008
+008    150924s 2015                 frfre     b  001 
+009    a  db              
+015    $a01565146       
+020    $a978-2-7234-9958-3 $brel. $d25,50 EUR 
+038    $a9782723499583 
+044    $cd20150923          
+100    $313557787 $w.0..b..... $aBollée $mLaurent-Frédéric $d1967-.... $40070 
+245 1  $aMatsumoto $dTexte imprimé $fLF Bollée &amp; Philippe Nicloux 
+260    $aGrenoble $cGlénat $dDL 2015 
+270    $a85-Luçon $cImpr. Pollina 
+280    $a1 vol. (189 p.) $cill. en coul. $d28 cm 
+295 1  $a1000 feuilles 
+300    $aBibliogr., 1 p. Vidéogr., 1 p. 
+410    $341449757 $t1000 feuilles (Grenoble) $x2101-0862 $d2015 
+600    $314978446 $aAsahara $mShoko $d1955-.... $311931019 $xBandes dessinées 
+610    $312545060 $aAum Shinri-kyo $311931019 $xBandes dessinées 
+676    $313632982 $i209.092 $v22 
+680 0  $a920 $b920 
+700    $315777852 $w.0..b..... $aNicloux $mPhilippe $d1972-.... $40070 
+830    $a&lt;p&gt;&lt;b&gt;La tragédie secrète du Japon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1994, dans la petite ville de Matsumoto, Japon. Shoko Asahara est le PDG de Aum Inc., un consortium regroupant plus de trente sociétés dont certaines sont cotées à la Bourse de Tokyo. Mais pour ses fidèles, il est la réincarnation de la déesse hindoue Shiva et donc un authentique gourou... Son but secret : provoquer « l'Armageddon » et renverser le gouvernement japonais. Pour cela, il a mis sur pied une production massive de gaz sarin, et Matsumoto sera la première étape de ce plan diabolique et à peine croyable... Une sorte de "répétition" qui se soldera, un an plus tard, en mars 1995, par la célèbre attaque au gaz dans le métro de Tokyo...&lt;/p&gt;&lt;p&gt;Après &lt;i&gt;Terra Australis&lt;/i&gt;, LF Bollée et Philippe Nicloux livrent un nouveau roman graphique choc et en couleurs. Le récit vrai de l'attentat de Matsumoto et des agissements de la tristement célèbre secte Aum, pour se souvenir et tenter de comprendre l'incompréhensible...&lt;/p&gt; $2éditeur 
+950    $a101864 $bC1 
+
+000    01711c0 m 2200027   45a 
+001    FRBNF444207420000008
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01564866       
+020    $a978-2-344-00384-8 $brel. $d22 EUR 
+038    $a9782344003848 
+044    $cd20150923          
+100    $314407520 $w.0..b..... $aOtéro $mNicolas $d1975-.... $40070 
+245 1  $aLe roman de Boddah $dTexte imprimé $ecomment j'ai tué Kurt Cobain $fOtero 
+260    $aGrenoble $cGlénat $dDL 2015 
+270    $a85-Luçon $cImpr. Pollina 
+280    $a1 vol. (149 p.) $cill. en coul. $d28 cm 
+295 1  $a1000 feuilles 
+300    $aAdapté du "Roman de Boddah" d'Héloïse Guay de Bellissen 
+410    $341449757 $t1000 feuilles (Grenoble) $x2101-0862 $d2015 
+680 0  $a805 $b805 
+700    $316090951 $w.0..b..... $aGuay de Bellissen $mHéloïse $d1981-.... $40072 
+830    $aUn album rock, puissant et référencé, sur l'icône du mouvement grunge&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Génie tourmenté et leader du groupe Nirvana, Kurt Cobain est probablement l'une des personnalités musicales les plus influentes de la fin du XX&lt;sup&gt;e&lt;/sup&gt; siècle. Boddah l'a bien connu. C'était son meilleur ami... Du coup de foudre entre Kurt et Courtney Love à leurs pires engueulades ; de la découverte de l'héroïne aux cures de désintox ; des tournées triomphales au célèbre live intimiste de l'émission « MTV unplugged », Boddah a tout vu, tout entendu. Au cœur des amplis et des guitares cassées, il a été le témoin privilégié d'une vie hors du commun et fulgurante faite de musique, de dope et d'amour fou.&lt;/p&gt;&lt;p&gt;Mêlant scènes réelles et imaginaires, conversations authentiques et dialogues inventés, Nicolas Otéro adapte &lt;i&gt;Le roman de Boddah&lt;/i&gt; d'Héloïse Guay de Belissen et retrace le parcours hors du commun de Kurt Cobain, chanteur de Nirvana et icône de toute une génération.&lt;/p&gt; $2éditeur 
+950    $a101865 $bC1 
+
+000    01074c0 m 2200027   45a 
+001    FRBNF44425848000000XX
+      
+008    151002s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559497       
+020    $a978-2-344-00931-4 $bbr. $d13,25 EUR 
+038    $a9782344009314 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $316203392 $w.0..bx.... $aShimizu $mEiichi $d1978-.... $40070 
+142 10 $aKurogane no Linebarrels $u11-12 $hVolumes 11-12 $mfrançais 
+245 1  $aKurogane no Linebarrels $h11-12 $dTexte imprimé $fEiichi Shimizu, Tomohiro Shimoguchi 
+260    $aGrenoble $cGlénat $dDL 2015 
+270    $aimpr. en Espagne 
+280    $a1 vol. (363 p.) $cill. $d18 cm 
+295 1  $aShonen manga 
+410    $338992207 $tShonen manga $x1761-2268 $d2015 
+460    $342202550 $tKurogane no Linebarrels $v11-12 
+680 0  $a805 $b805 
+700    $316203395 $w.0..bx.... $aShimoguchi $mTomohiro $d1978-.... $40070 
+830    $a&lt;p&gt;Face à l'organisation Kato qui se déchaîne, Koichi Hayase prend une nouvelle résolution pour contrer Hisataka Kato, l'oppresseur du monde. Et c'est dans un nouvel univers qu'il se retrouve précipité !&lt;br/&gt;Avec en exclusivité les aventures de Rachel, scientifique de génie et sexy en bonus !&lt;/p&gt; $2éditeur 
+950    $a101866 $bC1 
+
+000    01080c0 m 2200027   45a 
+001    FRBNF444201510000004
+008    150923s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559504       
+020    $a978-2-344-00352-7 $bbr. $d6,90 EUR 
+038    $a9782344003527 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $316988982 $w.0..bx.... $aSuzumaru $mReiji $40070 
+142 10 $aJigokuren love in the hell $u02 $hVolume 2 $mfrançais 
+245 1  $aLove in the hell $u02 $h2 $dTexte imprimé $fReiji Suzumaru 
+260    $aGrenoble $cGlénat $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (157 p.) $cill. $d18 cm 
+295 1  $aErotic 
+410    $343812856 $tErotic (Grenoble) $x2273-4635 $d2015 
+460    $344410399 $tLove in the hell $v2 
+680 0  $a805 $b805 
+830    $a&lt;p&gt;Rintaro Senkawa, le damné accidentel (de son point de vue, du moins) poursuit ses tribulations en Enfer, condamné à expier ses péchés par des souffrances atroces. Il y découvre de nouveaux aspects de la société infernale (surtout les moins reluisants) dans autant de mésaventures qui l'amèneront à faire face à ses responsabilités. Un peu. Peut-être. Enfin, c'est un début. Le chemin de la rédemption est encore long…&lt;/p&gt; $2éditeur 
+950    $a101867 $bC1 
+
+000    01122c0 m 2200027   45a 
+001    FRBNF444201340000003
+008    150923s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559461       
+020    $a978-2-344-00874-4 $bbr. $d7,60 EUR 
+038    $a9782344008744 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $315808674 $w.0..bx.... $aNogizaka $mTarō $40070 
+142 10 $aYureito $u08 $hVolume 8 $mfrançais 
+245 1  $aLa tour fantôme $u08 $h8 $dTexte imprimé $fTaro Nogizaka $gd'après "Yureito" de Ruiko Kuroiwa 
+260    $aGrenoble $cGlénat $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (non paginé [ca 212] p.) $cill. $d18 cm 
+295 1  $aSeinen manga 
+410    $338992210 $tSeinen manga $x1761-2276 $d2015 
+460    $343802632 $tLa tour fantôme $v8 
+680 0  $a805 $b805 
+690    $aUnivJeun0 
+700    $316671504 $w.0.2bx.... $aKuroiwa $mRuikō $d1862-1920 $40072 
+830    $a&lt;p&gt;Au plus profond de la Tour fantôme, une pièce circulaire avec douze portes, dont une seule conduit à la salle du trésor. Taïchi a-t-il choisi la bonne ? A-t-il distancé l'horloge de la mort ?&lt;br/&gt;Taïchi n'est plus le même qu'au début de son aventure, mais sa résolution nouvelle sera-t-elle suffisante face à ce terrible ennemi ?&lt;/p&gt; $2éditeur 
+833    $lJnBDessi 
+950    $a101868 $bC1 
+
+000    00659c0 m 2200027   45a 
+001    FRBNF444245060000009
+008    150930s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559419       
+020    $a978-2-344-00830-0 $bbr. $d7,60 EUR 
+038    $a9782344008300 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $316968480 $w.0..bx.... $aHorio $mSeita $40070 
+142 10 $aKokkoku $mfrançais 
+245 1  $aKokkoku $u04 $h4 $dTexte imprimé $fSeita Horio 
+260    $aGrenoble $cGlénat $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (223 p.) $cill. $d18 cm 
+295 1  $aSeinen manga $x1253-1928 [sic] 
+300    $aISSN exact : 1761-2276 
+410    $338992210 $tSeinen manga $x1761-2276 $d2015 
+460    $344344229 $tKokkoku $v4 
+680 0  $a805 $b805 
+690    $aUnivJeun0 
+833    $lJnBDessi 
+950    $a101869 $bC1 
+
+000    01661c0 m 2200027   45a 
+001    FRBNF444201380000002
+008    150923s 2015                 frfre     b  001 
+009    a  f               
+015    $a01559626       
+020    $a978-2-344-00331-2 $bbr. $d6,90 EUR 
+038    $a9782344003312 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $314427704 $w.0..bx.... $aOda $mEiichirō $d1975-.... $40070 
+142 10 $aOne piece in Logue Town $mfrançais 
+245 1  $aOne piece $dTexte imprimé $eLogue Town $fEiichiro Oda, Tatsuya Hamazaki $g[traduction du japonais, Julien Favereau] 
+260    $aGrenoble $cGlénat $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (178 p.-[1 dépl.) $cill. $d18 cm 
+295 1  $aShonen manga 
+410    $338992207 $tShonen manga $x1761-2268 $d2015 
+680 0  $a809 $b809 
+700    $314541732 $w 0  bx.... $aHamazaki $mTatsuya $40070 
+700    $316786667 $w.0..b..... $aFavereau $mJulien $40680 
+750    $aLogue Town 
+830    $a&lt;p&gt;&lt;b&gt;La suite de Gyanzack !&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Après la parution en 2013 du premier roman One Piece (&lt;i&gt;À bas Gyanzack&lt;/i&gt;), voici sa suite directe, &lt;i&gt;One Piece : Logue Town&lt;/i&gt;. Le récit prend place au cœur de la trame développée lors de l'arc Logue Town pour la série de dessin animé.&lt;/p&gt;&lt;p&gt;L'équipage de Luffy accoste sur une île de la cité de Logue Town, lieu de naissance (et d'exécution) du fameux pirate Gol D. Roger afin de se ravitailler. Les ennuis ne vont alors pas tarder à se montrer. Cela les mettra-t-il sur la piste du trésor de Gol D. Roger ?&lt;/p&gt;&lt;p&gt;Cette partie du récit est inédite dans le manga, Oda confiant qu'il manquait jadis de place pour en faire un élément à part entière de sa saga. Il place en effet dans ce récit un personnage pourtant fondamental pour le manga : Dragon, qui s'avère, on le sait désormais, être le père de Luffy !&lt;/p&gt; $2éditeur 
+950    $a101870 $bC1 
+
+000    01627c0 m 2200027   45a 
+001    FRBNF444204880000000
+008    150924s 2015                 frfre     b  001 
+009    a  d               
+015    $a01557886       
+020    $a978-2-344-01004-4 $brel. $d19,99 EUR 
+038    $a9782344010044 
+044    $cd20150923          
+100    $314557924 $w 0  b      $aBalança $mErwan $d1972-.... $40070 
+245 1  $aCanards sauvages $dTexte imprimé $fErwan Balança, Matthieu Guillemain 
+260    $aGrenoble $cGlénat $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (190 p.) $cill. en coul. $d20 cm 
+606    $312076805 $aAnatidés $311931305 $yEurope de l'Ouest 
+676    $313693896 $i598.410 94 $v22 
+680 0  $a590 $b590 
+700    $316995683 $w 0  b      $aGuillemain $mMatthieu $d1972-.... $40070 
+830    $a&lt;p&gt;&lt;b&gt;Une immersion dans le monde passionnant des canards sauvages !&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Des canards, nous connaissons surtout le colvert, omniprésent sur nos plans d'eau, à la campagne comme en ville. Sa familiarité dans les endroits urbanisés, ainsi que la présence d'autres espèces d'ornement, peut nous faire quelque peu oublier que les canards sont avant tout des oiseaux sauvages. Qu'ils sont beaux, passionnants à observer, et, pour certains, menacés. Très prisés par les ornithologues et les chasseurs, les canards comptent aussi parmi les animaux les plus étudiés et dont les populations sont les mieux suivies. Erwan Balança, photographe de talent, et Matthieu Guillemain, spécialiste des anatidés, vous invitent à pénétrer dans l'univers des canards sauvages, à découvrir leur diversité, à les suivre au fil des saisons, et à comprendre l'importance des recherches dont ils font l'objet, pour leur préservation et celle des milieux humides dont ils dépendent.&lt;/p&gt; $2éditeur 
+950    $a101871 $bC1 
+
+000    01153n9 m 2200027   45r 
+001    FRBNF450954690000004
+008    160809s 2015                 frfre     b  001 
+009    a                  
+020    $a978-2-344-00980-2 
+028    $d8,39 EUR 
+038    $a9782344009802 
+044    $gb20160809          $cd20150923          
+050    $aa06 $n001 
+050    $ag03 $n001 
+051    $atxt $bn 
+051    $azzz $bs 
+245 1  $aUne nuit bizarre, bizarre... $dMultimédia multisupport $ePour faire aimer la musique de Bach $fMarlène Jobert, auteur du texte 
+260    $aGRENOBLE CEDEX  $cGLENAT (EDITIONS) $d2015 
+280    $avol. 
+280    $adisque compact 
+295 1  $aContes et grandes musiques 
+830    $aPour faire aimer la musique de Bach Bizarre, cette voix qui monte des caves du château… bizarre, cet orgue immense qui poursuit les personnages… bizarres, ces violons qui jouent seuls du Bach… L'odieuse famille Bouze qui comptait passer une nuit de Noël tranquille va être punie de la manière la plus drôle qui soit.Par qui et comment ? Mystère !L'interprétation pleine d'humour va captiver et amuser les enfants, dès 5 ans. Les petits extraits musicaux habilement intégrés par Marlène Jobert dans l'intrigue leur feront découvrir, tout en se distrayant, le grand Jean-Sébastien Bach. $2éditeur 
+950    $a101872 $bC1 
+
+000    01893c0 m 2200027   45a 
+001    FRBNF444205160000007
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01562372       
+020    $a978-2-344-00060-1 $brel. $d14,95 EUR 
+038    $a9782344000601 
+044    $cd20150923          
+100    $312525572 $w.0..b..... $aAdam $mÉric $d1966-.... $40070 
+245 1  $aVaincre ou mourir $dTexte imprimé $fscénario, Éric Adam, Pierre Boisserie, Didier Convard $gd'après un concept original de Gilles Chaillet $gdessin, Luca Erbetta $gcouleur, Gaétan Georges 
+260    $aGrenoble $cGlénat $dDL 2015 
+270    $aimpr. en Belgique 
+280    $a1 vol. (55 p.) $cill. en coul. $d33 cm 
+290 1  $aRoma $v2 
+460    $344316363 $tRoma $v2 
+680 0  $a805 $b805 
+700    $313537446 $w.0..b..... $aBoisserie $mPierre $d1964-.... $40070 
+700    $311897574 $w.0..b..... $aConvard $mDidier $d1950-.... $40070 
+700    $311895872 $w 0  b      $aChaillet $mGilles $d1946-2011 $40072 
+700    $312547830 $w.0..b..... $aErbetta $mLuca $d1979-.... $40440 
+830    $a&lt;p&gt;&lt;b&gt;Une ville immortelle. Une damnation éternelle.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;217 avant Jésus Christ. Rome est devenue l'une des premières puissances de la Méditerranée. Seule Carthage contrarie son hégémonie. Hannibal conduit ses armées en Italie où il défait les légions de la République romaine à plusieurs reprises. Furius Léo, descendant de Léonidas, espère briser la Malédiction qui accable sa famille en remettant le Palladium à Hannibal, avec la promesse que l'icône lui apporterait gloire et pouvoir éternels. Furius est prêt à tout sacrifier pour parvenir à ses fins. Il n'imagine pas que le Palladium retournera son plan contre lui, sur fond de guerres puniques et de luttes de pouvoir, dans un combat opposant les Dieux aux hommes et le Bien au Mal...&lt;/p&gt;&lt;p&gt;À peine 6 mois après la parution du premier volume, la grande saga &lt;i&gt;Roma&lt;/i&gt; se poursuit avec ce tome 2 formidablement mis en images par Luca Erbetta. La malédiction du Palladium se poursuit au coeur de la cité éternelle. &lt;/p&gt; $2éditeur 
+950    $a101873 $bC1 
+
+000    01867c0 m 2200027   45a 
+001    FRBNF444209470000005
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01562393       
+020    $a978-2-7234-8531-9 $brel. $d14,50 EUR 
+038    $a9782723485319 
+044    $cd20150923          
+100    $311897574 $w.0..b..... $aConvard $mDidier $d1950-.... $40070 
+245 1  $aLes douze $dTexte imprimé $fscénario, Didier Convard, Éric Adam $gdessin et couleurs, Fred Vignaux 
+260    $aGrenoble $cGlénat $dDL 2015 
+270    $aimpr. en Belgique 
+280    $a1 vol. (53 p.) $cill. en coul. $d32 cm 
+290 1  $aNeige origines $v1 
+300    $aD'après les personnages créés par Christian Gine et Didier Convard 
+460    $344435106 $tNeige origines $v1 
+680 0  $a805 $b805 
+700    $312525572 $w.0..b..... $aAdam $mÉric $d1966-.... $40070 
+700    $315568317 $w.0..b..... $aVignaux $mFrédéric $d1972-.... $40440 
+830    $a&lt;p&gt;&lt;b&gt;On ne nait pas héros. On le devient.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Dans un monde gelé et dévasté par le terrible mal d'Orion, les Douze forment une confrérie réfléchissant aux moyens de sauver l'Europe. Leur chef, Northman, a recueilli quelques années plus tôt un jeune garçon qu'il destine à devenir leur sauveur. Il l'a nommé Neige. Mais pour l'heure, une menace plane : un dénommé Bohort veut ouvrir une brèche dans le mur, la paroi qui sépare l'Europe du reste du monde. L'extérieur pourrait en profiter pour envahir le vieux continent et ruiner le plan des Douze. Pour contrer le dessein de cet ennemi qu'il semble bien connaître, Northman demande l'aide de l'ancien maître d'arme de Bohort : le redoutable Agravain l'Orgueilleux. Ensemble, ils se rendent à Rome, là où règne l'Empapereur...&lt;/p&gt;&lt;p&gt;Après &lt;i&gt;Neige – Fondation&lt;/i&gt;, découvrez la jeunesse du héros de la série culte de Gine et Convard ! Éric Adam et Frédéric Vignaux rejoignent ce prestigieux casting pour nous ramener dans le monde glacé de cette Europe dévastée. Cet album forme une intrigue auto-conclusive.&lt;/p&gt; $2éditeur 
+950    $a101874 $bC1 
+
+000    02012c0 m 2200027   45a 
+001    FRBNF444206480000006
+008    150924s 2015                 frfre     b  001 
+009    a  db              
+015    $a01559916       
+020    $a978-2-344-00929-1 $brel. $d13,90 EUR 
+038    $a9782344009291 
+044    $cd20150923          
+100    $316960665 $w 0  b      $aPerna $mPatrice $40070 
+245 1  $aAu nom de l'humanité $dTexte imprimé $fscénario, Patrice Perna $gdessin, Fabien Bedouel $gcouleurs, Florence Fantini 
+260    $aGrenoble $cGlénat $dDL 2015 
+270    $a85-Luçon $cImpr. Pollina 
+280    $a1 vol. (47 p.) $cill. en coul. $d32 cm 
+290 1  $aKersten, médecin d'Himmler $v2 
+460    $344317532 $tKersten, médecin d'Himmler $v2 
+600    $315076054 $aKersten $mFelix $d1898-1960 $311931019 $xBandes dessinées 
+676    $314508744 $i940.548 743092 $v22 
+680 0  $a920 $b920 
+690    $aUnivJeun0 
+700    $316162857 $w.0..b..... $aBedouel $mFabien $40440 
+830    $a&lt;p&gt;&lt;b&gt;L'Histoire oublie parfois ses héros...&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Le 4 juin 1942, Reinhard Heydrich, adjoint de Himmler, est assassiné à Prague par des miliciens tchèques. Enfin débarrassé de celui qui se méfiait le plus de lui, le docteur Félix Kersten croit pouvoir enfin mener à bien sa périlleuse mission auprès de Himmler et monnayer des vies en échange de soins. Mais le remplaçant d'Heydrich va s'avérer être un ennemi encore plus dangereux et sournois... Constamment surveillé, épié, Kersten s'adonne à un véritable numéro d'équilibriste entre son marchandage au chevet de Himmler et sa coopération avec les Alliés. Il ne sera jamais vraiment à l'abri, pas même lorsque la guerre sera finie. Car dès 1948, Kersten, installé en Suède, devient la cible d'une enquête qui lui reproche sa proximité avec l'un des pires criminels nazis...&lt;/p&gt;&lt;p&gt;En faisant monter la tension crescendo, Patrice Perna et Fabien Bedouel terminent en beauté ce polar historique haletant basé sur l'incroyable histoire du médecin particulier de Himmler. Personnage injustement oublié de l'Histoire, Félix Kersten sauva pourtant des milliers de prisonniers des camps de la mort durant la seconde guerre mondiale...&lt;/p&gt; $2éditeur 
+833    $lJnBDessi 
+950    $a101875 $bC1 
+
+000    02149c0 m 2200027   45a 
+001    FRBNF444258410000009
+008    151002s 2015                 frfre     b  001 
+009    a  d               
+015    $a01563460       
+020    $a978-2-213-68739-1 $bbr. $d15 EUR 
+038    $a9782213687391 
+044    $cd20150923          
+100    $312039533 $w.0..b..... $aPasqua $mCharles $d1927-2015 $40070 
+245 1  $aPetit manuel de survie pour la droite $dTexte imprimé $eles primaires à la française $fCharles Pasqua, Pierre Monzani 
+260    $a[Paris] $cFayard $dDL 2015 
+270    $a18-Saint-Amand-Montrond $cImpr. CPI Bussière 
+280    $a1 vol. (171 p.) $d22 cm 
+300    $aContient des reproductions de documents d'archives ayant appartenus à Charles Pasqua 
+606    $311933461 $aDroite $gscience politique $311931476 $yFrance $312432924 $z+* 1990......- 9900......+:1990-....: 
+606    $313318741 $aÉlections primaires $311931476 $yFrance $312432924 $z+* 1990......- 9900......+:1990-....: 
+676    $316143339 $i324.244 0154 $v22 
+680 0  $a320 $b320 
+700    $312529584 $w.0..b..... $aMonzani $mPierre $d1958-.... $40070 
+830    $a&lt;div style='text-align: justify;'&gt;Dès la fin des années 1980, face aux divisions de la droite, Charles Pasqua invente les « primaires à la française ». Il y voit le seul moyen d'enrayer la « machine à perdre ».&lt;br/&gt;Plus de vingt ans plus tard, ce ténor de la vie politique française réactive cette idée pour que la France sorte de sa crise politique &lt;span style='line-height: 1.6;'&gt;mortifère. &lt;/span&gt;&lt;br/&gt;&lt;span style='line-height: 1.6;'&gt;Ce texte, défense et illustration des primaires, est aussi une&lt;/span&gt;  fresque sans concession du paysage politique et de la droite française.&lt;/div&gt;&lt;br/&gt;Charles Pasqua, Résistant, fidèle parmi les fidèles du général de Gaulle, député puis sénateur des Hauts-de-Seine, fut deux fois ministre de l'Intérieur et homme-clef du RPR. Disparu le 29 juin 2015, il n'aura pu voir la publication de cet ouvrage, qu'il avait souhaité léguer à ses amis politiques.&lt;br/&gt;&lt;br/&gt;Pierre Monzani, ancien élève de l'ENS et de l'ENA, agrégé d'histoire, a partagé bien des combats avec Charles Pasqua, de la place Beauvau au Parlement européen, du RPR au RPF, et des Hauts-de-Seine à « Demain la France ».&lt;br/&gt;  $2éditeur 
+909    $aHomonymie, mél pauvel/fayard, BFL/SG, 2015-11-09 
+950    $a101876 $bC1 
+
+000    01919c0 m 2200027   45a 
+001    FRBNF444209040000008
+008    150924s 2015                 frfre     b  001 
+009    a  d               
+015    $a01558477       
+020    $a978-2-7555-0753-9 $bbr. $d4 EUR 
+038    $a9782755507539 
+044    $cd20150923          
+100    $312449353 $w.0..b..... $aAlbalat $mAntoine $d1856-1935 $40070 
+245 1  $aComment il ne faut pas écrire $dTexte imprimé $fAntoine Albalat $gédition établie, annotée et postfacée par Yannis Constantinidès 
+260    $aParis $cÉditions Mille et une nuits $dimpr. 2015 
+270    $a58-Clamecy $cImpr. Laballery 
+280    $a1 vol. (123 p.) $d15 cm 
+295 1  $aMille et une nuits $vn° 650 
+300    $aBibliogr., 2 p. 
+410    $334282612 $tMille et une nuits $x1251-6465 $v650 
+606    $311934764 $aArt d'écrire 
+606    $311960106 $aErreurs et bévues littéraires 
+606    $311935375 $aFrançais $glangue $311976573 $xStylistique 
+676    $313715736 $i808 $v22 
+680 0  $a800 $b800 
+700    $313752849 $w.0..b..... $aConstantinidès $mYannis $40360 
+750  4 $aComment il faut écrire 
+830    $a&lt;div style='text-align: justify;'&gt;Antoine Albalat (1856-1935) est un grand critique littéraire, injustement oublié. Il s'en prend ici à ce qui est devenu &lt;em&gt;le&lt;/em&gt; mal de notre siècle, ce « mal d'écrire » qui commençait déjà à faire des ravages à son époque : « La littérature a été le refuge de ceux qui pensaient que tout le monde pouvait écrire, puisque tout le monde avait pu s'instruire. » Or, il ne suffit pas, pour s'autoriser à écrire, d'avoir quelque chose à dire ! La forme importe autant, sinon plus, que le fond.&lt;/div&gt;&lt;div style='text-align: justify;'&gt;Albalat relève impitoyablement tous les tics d'écriture, y compris ceux des grands auteurs, mais c'est le style en apparence profond et savant qui l'irrite le plus, tout particulièrement le jargon innommable qu'affectionnent psychologues et philosophes. Avant donc d'enseigner à bien écrire, il convient de montrer &lt;em&gt;Comment il ne faut pas écrire&lt;/em&gt;. Une leçon de mots qui est aussi une leçon de choses !&lt;/div&gt; $2éditeur 
+950    $a101877 $bC1 
+
+000    02770c0 m 2200027   45a 
+001    FRBNF444202810000009
+008    150923s 2015                 frfre     b  001 
+009    a  dy  s           
+015    $a01557199       
+020    $a978-2-213-67189-5 $bbr. $d22 EUR 
+038    $a9782213671895 
+044    $cd20150923          
+100    $312185303 $w.0..b..... $aKlein-Gousseff $mCatherine $40070 
+245 1  $aÉchanger les peuples $dTexte imprimé $ele déplacement des minorités aux confins polono-soviétiques, 1944-1947 $fCatherine Gousseff 
+260    $a[Paris] $cFayard $dDL 2015 
+270    $a95-Domont $cDupli-print 
+280    $a1 vol. (414 p.) $cill. $d24 cm 
+300    $aBibliogr. p. 385-408 
+328 0  $kTexte remainé de $aHabilitation à diriger des recherches $bHistoire $cParis 1 $d2012 $tDépayser les peuples : l'histoire d'un échange de populations aux nouvelles frontières polono-soviétiques, 1944-1947 
+606    $311977882 $aTransferts de population $311937898 $yUkraine $311976947 $z+* 1945......- 1970......+:1945-1970: 
+606    $311977882 $aTransferts de population $311932825 $yPologne $311976947 $z+* 1945......- 1970......+:1945-1970: 
+607    $312009520 $aPologne $xFrontières $311939738 $yURSS $311976947 $z+* 1945......- 1970......+:1945-1970: 
+676    $316994790 $i947.000 9044 $v22 
+680 0  $a940 $b940 
+751  3 $aDépayser les peuples $el'histoire d'un échange de populations aux nouvelles frontières polono-soviétiques, 1944-1947 
+830    $a&lt;div style='text-align: justify;'&gt;En 1944, alors que les Allemands entament leur retraite généralisée du front oriental, le pouvoir soviétique décide d'un transfert massif de populations pour faire concorder la carte ethnique avec les nouvelles frontières à l'Est. Il s'agit d'échanger les populations ukrainiennes vivant dans les limites de la nouvelle Pologne avec les Polonais des territoires de l'Ukraine redessinée. De 1944 à 1946, près de deux millions de personnes désemparées se croisent, en route vers leur « patrie ». Face aux groupes nationalistes armés, aux nombreux réfractaires au départ, les représentants des autorités tant polonaises que soviétiques sont tiraillés entre les ordres d'en haut et les réalités locales. Comment a-t-on procédé pour engager, sur une base théoriquement volontaire et bilatérale, ce chassé-croisé de minorités ?&lt;/div&gt;&lt;div style='text-align: justify;'&gt;À partir d'archives et de témoignages inédits, Catherine Gousseff nous raconte cette histoire étonnante, peu connue et souvent poignante qui mêle l'expérience humaine des migrations « ethniques » de sortie de guerre à leur conception et leur mise en œuvre.&lt;/div&gt; &lt;br/&gt;Catherine Gousseff est directrice de recherche au CNRS. Spécialiste de l'histoire des migrations dans l'espace soviétique et est-européen au xx&lt;sup&gt;e&lt;/sup&gt; siècle, elle est l'auteur, notamment, de &lt;em&gt;L'Exil russe (1920-1939) : la fabrique du réfugié apatride&lt;/em&gt; (CNRS-Éditions, 2008).&lt;div style='text-align: justify;'&gt; &lt;/div&gt; $2éditeur 
+950    $a101878 $bC1 
+
+000    00536c0 m 2200027   45a 
+001    FRBNF444205130000005
+008    150924s 2015                 frfre     b  001 
+009    a  f   j           
+015    $a01562616       
+020    $a978-2-7459-7346-7 $brel. $d14,90 EUR 
+038    $a9782745973467 
+044    $cd20150923          
+100    $313550285 $w.0..b..... $aManceau $mÉdouard $d1969-.... $40070 
+245 1  $aCP, ça veut dire quoi ? $dTexte imprimé $fÉdouard Manceau 
+260    $aToulouse $cMilan $dDL 2015 
+270    $a85-Luçon $cImpr. Pollina 
+280    $a1 vol. (non paginé [ca 72] p.) $cill. en coul. $d31 cm 
+680 0  $a809 $b809 
+690    $aUnivJeun0 
+833    $lJnAlbum 
+950    $a101879 $bC1 
+
+000    02117c0 m 2200027   45a 
+001    FRBNF444202860000005
+008    150923s 2015                 frfre     b  001 
+009    a  d               
+015    $a01565219       
+020    $a978-2-246-80680-6 $bbr. $d20,90 EUR 
+038    $a9782246806806 
+044    $cd20150923          
+100    $312504687 $w.0..b..... $aHeymann $mFlorence $40070 
+245 1  $aLes déserteurs de Dieu $dTexte imprimé $eces ultra-orthodoxes qui sortent du ghetto $fFlorence Heymann 
+260    $aParis $cBernard Grasset $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (376p.) $d21 cm 
+300    $aBibliogr., 9 p. Glossaire 
+606    $314432912 $aJudaïsme ultra-orthodoxe $311975691 $xAspect social $311934249 $yIsraël $312432924 $z+* 1990......- 9900......+:1990-....: $311976851 $xRécits personnels 
+676    $315982158 $i296.309 22 $v22 
+680 0  $a920 $b920 
+830    $a&lt;p style='text-align: justify'&gt;On les appelle les « sortants vers la question », ces hommes et ces femmes issus des milieux utra-orthodoxes israéliens qui, un jour, décident de rejoindre la vie laïque. Ce choix douloureux les plonge dans un univers inconnu où ils sont coupés de leur famille, souvent sans ressources et sans éducation autre que religieuse. Là d'où ils viennent, la vie est réglée de façon précise et immuable, soumise à une loi implacable mais rassurante. Là où ils vont, ils sont seuls face à eux-mêmes.&lt;br/&gt;Au sein d'une association d'aide aux sortants, à Jérusalem, Florence Heymann a rencontré beaucoup de ces déserteurs. Elle restitue leurs cheminements chaotiques à travers des portraits intimes et attachants : des dissidents, des « apostats sortis du placard », des suicidaires, des marginaux, des « kippas roses », des voyous… Autant d'individus réclamant simplement le droit de choisir leur vie, loin de leur monde religieux d'origine, ultra sectaire, dans lequel même le sexe et le téléphone sont estampillés cashers. Parfois réussies, parfois tragiques, ces sorties du « ghetto » sont toujours un voyage fascinant, un apprentissage de la liberté semé d'embûches et de doutes.&lt;br/&gt;Un travail totalement inédit qui nous donne à découvrir le monde fermé des ultra-religieux et les parcours poignants d'êtres en quête de leur vérité.&lt;/p&gt; $2éditeur 
+950    $a101880 $bC1 
+
+000    02724c0 m 2200027   45a 
+001    FRBNF444209450000000
+008    150924s 2015                 frfre     b  001 
+009    a  d               
+015    $a01568356       
+020    $a978-2-234-07757-7 $bbr. $d21,50 EUR 
+038    $a9782234077577 
+041 1  $afre $ceng 
+044    $cd20150923          
+100    $317007786 $w 1  b      $aLee $mHyeonseo $d1980-.... $40070 
+142 10 $aMy escape from North Korea $mfrançais 
+245 1  $aLa fille aux sept noms $dTexte imprimé $el'histoire d'une transfuge nord-coréenne $fHyeonseo Lee $gavec David John $gtraduit de l'anglais par Carole Hanna 
+260    $aParis $cStock $dDL 2015 
+270    $a72-La Flèche $cImpr. CPI Brodard et Taupin 
+280    $a1 vol. (351 p.) $d22 cm 
+607    $311938542 $aCorée $gRépublique populaire démocratique $311965815 $xConditions sociales $312432924 $z+* 1990......- 9900......+:1990-....: $311976851 $xRécits personnels 
+607    $311938542 $aCorée $gRépublique populaire démocratique $311932512 $xMoeurs et coutumes $312432924 $z+* 1990......- 9900......+:1990-....: $311976851 $xRécits personnels 
+676    $313728435 $i951.930 43092 $v22 
+680 0  $a920 $b920 
+700    $317007796 $w 0  b      $aJohn $mDavid $d19..-.... $erewriter $40170 
+700    $316143055 $w 0  b      $aHanna $mCarole $40680 
+830    $a&lt;div style='text-align: justify;'&gt;«Quand on quitte la Corée du Nord, on ne quitte pas un pays mais plutôt une autre galaxie. Je sais que je n'en serai jamais vraiment libérée où que j'aille.» &lt;br/&gt;&lt;br/&gt;Hyeonseo a passé son enfance en Corée du Nord, piégée comme des millions d'autres par l'une des plus secrètes et brutales dictatures. Elle grandit dans la ville de Hyesan près d'une rivière qui trace une frontière naturelle avec la Chine, un autre monde insaisissable. &lt;br/&gt;Au milieu des années 1990, la famine s'abat sur le pays. Chaque jour témoin de la répression et de la pauvreté, elle comprend que sa patrie ne peut être «le meilleur des mondes» qu'on lui vante depuis toujours.À 17 ans, au coeur de l'hiver, Hyeonseo décide de traverser la rivière gelée. Elle ne peut imaginer alors qu'elle ne reverra pas les siens avant longtemps. C'est un voyage sans retour. Elle apprend à survivre clandestinement en Chine, échappant à la police et aux trafi quants, grâce à un esprit de débrouillardise et une témérité incroyables.&lt;br/&gt;Douze ans plus tard, et presque autant de vies, elle revient à la frontière pour une mission plus périlleuse encore: faire sortir du pays sa mère et son frère et les conduire jusqu'en Corée du Sud…&lt;br/&gt;&lt;br/&gt;« &lt;em&gt;Hyeonseo témoigne du lourd tribut humain résultant de l'inaction du&lt;br/&gt;monde vis-à-vis de la Corée du Nord. Envers et contre tout, elle s'est&lt;br/&gt;échappée, a survécu, et a eu le courage de parler. »&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;Samantha Power, représentante permanente des États-Unis à l'ONU.&lt;br/&gt;&lt;br/&gt;Traduit de l'anglais par Carole Hanna&lt;/div&gt; $2éditeur 
+950    $a101881 $bC1 
+
+000    02773c0 m 2200027   45a 
+001    FRBNF444202900000008
+008    150923s 2015                 frfre     b  001 
+009    a  d               
+015    $a01557604       
+020    $a978-2-7096-4939-1 $bbr. $d18 EUR 
+038    $a9782709649391 
+044    $cd20150923          
+100    $316998519 $w.0..b..... $aTubiana $mJérôme $d1946-.... $40070 
+245 1  $aLa saga Danone $dTexte imprimé $eson projet économique et social à l'épreuve des faits $fJérôme Tubiana $gpréface de Franck Riboud 
+260    $a[Paris] $cJC Lattès $dimpr. 2015 
+270    $a18-Saint-Amand-Montrond $cImpr. CPI Bussière 
+280    $a1 vol. (345 p.) $d22 cm 
+606    $311936430 $aIndustrie laitière $311931476 $yFrance $312433520 $z+* 1945......- 9900......+:1945-....: 
+610    $311991255 $aDanone $311934444 $xHistoire 
+676    $313669098 $i338.763 70944 $v22 
+680 0  $a330 $b330 
+830    $aPatron visionnaire, Antoine Riboud, puis ensuite son fils Franck, ont fait de Danone une entreprise profondément singulière, affichant une ambition sociale,  creuset de multiples initiatives innovantes.&lt;br/&gt;C'est à Marseille en 1972 qu'Antoine Riboud, à la stupéfaction du patronat de l'époque, prononce un discours quasi révolutionnaire qui tente de réconcilier dans un même projet la réussite économique et financière d'une entreprise et sa responsabilité vis-à-vis des salariés et de la collectivité.&lt;br/&gt; Pour passer du discours aux actes, Antoine Riboud décide  la création d'un laboratoire d'innovations sociales. L'expression des salariés et l'auto-organisation sont mises en œuvre  dans les usines mais sont questionnées par la crise pétrolière. Les restructurations, la productivité et l'emploi deviennent alors les enjeux majeurs.&lt;br/&gt;BSN contribue à transformer le dialogue social en France en signant de nombreux accords de modernisation  qui inspirent le rapport &lt;em&gt;Modernisation Mode d'emploi&lt;/em&gt; … rédigé en 1987 à la demande du Premier Ministre Jacques Chirac.&lt;br/&gt;La mondialisation de Danone au cours des années 90 puis la crise autour de la restructuration de LU sont autant de mise à l'épreuve de l'ambition sociale de l'entreprise.&lt;br/&gt;En 2006, Franck Riboud lance avec Muhammad Yunus, prix Nobel de la paix, le fonds danone.communities dédié à la création de social business. En 2009, en réponse à la crise, est créé le fonds Danone écosystème. Son objet est de renforcer les acteurs vulnérables de l'environnement proche des sociétés de Danone comme les petits producteurs de lait ou le petit commerce informel dans les pays émergents. En 2015, est signé l'accord Livelihoods pour l'agriculture familiale avec l'entreprise Mars pour aider l'agriculture durable en Afrique, Asie et Amérique latine.&lt;br/&gt;Jérôme Tubiana nous plonge dans cette histoire riche et mouvementée qui se lit comme une saga industrielle des XXe et XXIe siècles où les frottements, les conflits et les... $2éditeur 
+950    $a101882 $bC1 
+
+000    02124c0 m 2200027   45a 
+001    FRBNF444202870000002
+008    150923s 2015                 frfre     b  001 
+009    a  d               
+015    $a01565515       
+020    $a978-2-7096-3835-7 $bbr. $d12 EUR 
+038    $a9782709638357 
+041 1  $afre $ceng 
+044    $cd20150923          
+100    $316588049 $w.0..b..... $aCrary $mElizabeth $40070 
+142 10 $aDealing with disappointment $mfrançais 
+245 1  $aJe veux, maintenant ! $dTexte imprimé $eaider les enfants à tolérer frustrations et déceptions $fElizabeth Crary $gtraduit de l'anglais par Isabelle Filliozat 
+260    $aParis $cJC Lattès $dDL 2015 
+270    $a18-Saint-Amand-Montrond $cImpr. CPI Bussière 
+280    $a1 vol. (287 p.) $d20 cm 
+295 1  $aCollection Parent + 
+300    $aBibliogr. et webliogr., 1 p. 
+410    $342642926 $tParent + (Paris) $x2259-2709 $d2015 
+606    $312202902 $aÉmotions chez l'enfant 
+606    $311941483 $aÉducation des enfants 
+676    $316747164 $i155.408 5 $v22 
+680 0  $a150 $b150 
+700    $312124643 $w.0..b..... $aFilliozat $mIsabelle $40680 
+830    $a« C'est pas juste ! » « C'est trop dur ! » « Pourquoi je peux pas… ? »&lt;br/&gt;Les choses ne vont pas toujours comme on le voudrait ! Les enfants ont parfois du mal à l'admettre. Quand la moindre frustration prend des proportions énormes, quand toute déception déclenche une crise de larme, le quotidien peut devenir éprouvant. La tolérance à la frustration est un des paramètres du bonheur et de la réussite dans la vie adulte. C'est aussi une des conditions d'un vivre ensemble plus agréable pour les enfants comme pour les parents. Elizabeth Crary nous propose des attitudes efficaces pour éviter les crises. Reconnaître les sentiments de nos enfants n'est pas suffisant, vous découvrirez ce dont ils ont besoin en plus. Ainsi que comment enseigner aux enfants à comprendre leurs propres sentiments et respecter ceux des autres, savoir se calmer, réguler leurs émotions et résoudre les problèmes. Le parent y trouvera aussi des techniques pour l'aider à retrouver son calme quand ses enfants perdent le leur ! Nous cherchons trop à contenter à tout prix. Une autre voie est d'enseigner à tolérer les inévitables frustrations.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Traduit de l'anglais par Isabelle Filliozat&lt;/i&gt; $2éditeur 
+950    $a101883 $bC1 
+
+000    01106c0 m 2200027   45a 
+001    FRBNF444282390000001
+008    151006s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01562374       
+020    $a978-2-7560-5696-8 $bbr. $d6,99 EUR 
+038    $a9782756056968 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $314436939 $w.0.2bx.... $aAraki $mHirohiko $d1960-.... $40070 
+245 1  $aD4C, dirty deeds done dirt cheap $dTexte imprimé $fHirohiko Araki 
+260    $aParis $cÉditions Delcourt $dDL 2015 
+270    $a86-Ligugé $cAubin impr. 
+280    $a1 vol. (non paginé [ca 213] p.) $cill. $d17 cm 
+290 1  $aSteel ball run $vvol. 17 
+295 1  $aShonen manga 
+300    $aTrad. du japonais 
+410    $339216696 $tShonen (Montreuil) $x1768-7837 $d2015 
+460    $343600653 $tSteel ball run $v17 
+680 0  $a805 $b805 
+750    $aDirty deeds done dirt cheap 
+830    $aJayro et Johnny se lancent à la poursuite de Dio dans le but de lui prendre « l'oeil » du cadavre. Mais alors qu'ils tentent de lui tendre une embuscade, Johnny est abattu par un inconnu. Au moment où Jayro se précipite pour venir en aide à son ami, il se heurte à un manieur de stand au pouvoir mystérieux, faisant apparaître une étrange marelle sous ses pieds... $2éditeur 
+950    $a101884 $bC1 
+
+000    00684c0 m 2200027   45a 
+001    FRBNF444206540000003
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01564896       
+020    $a978-2-7316-8707-1 $brel. $d17,95 EUR 
+038    $a9782731687071 
+044    $cd20150923          
+100    $313326153 $w.0..b..... $aThirault $mPhilippe $d1967-.... $40070 
+245 1  $aArène des Balkans $dTexte imprimé $f[scénario], Philippe Thirault $g[d'après une idée originale de Darko Macan] $g[dessin], Jorge Miguel 
+260    $a[Paris] $cles Humanoïdes associés $dDL 2015 
+270    $aimpr. en Chine 
+280    $a1 vol. (112 p.) $cill. en coul. $d30 cm 
+680 0  $a805 $b805 
+700    $312570902 $w.0..bxhrv. $aMacan $mDarko $40070 
+700    $316742744 $w.0..b..... $aMiguel $mJorge $d1963-.... $40440 
+950    $a101885 $bC1 
+
+000    01540c0 m 2200027   45a 
+001    FRBNF444207340000006
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01564794       
+020    $a978-2-7316-2725-1 $brel. $d24 EUR 
+038    $a9782731627251 
+044    $cd20150923          
+100    $311897680 $w.0..b..... $aCorgiat $mSylviane $d1955-.... $40070 
+245 1  $aLes épées de verre $dTexte imprimé $eintégrale $f[scénario], Sylviane Corgiat $g[dessin], Laura Zuccheri 
+250    $aNouvelle éd. 40 ans 
+260    $a[Paris] $cles Humanoïdes associés $dDL 2015 
+270    $aimpr. en Chine 
+280    $a1 vol. (206 p.) $cill. en coul. $d27 cm 
+300    $aRéunit : "Yama" ; "Ilango" ; "Tigran" ; "Dolmon" 
+680 0  $a805 $b805 
+690    $aUnivJeun0 
+700    $316166807 $w.0..b..... $aZuccheri $mLaura $d1971-.... $40440 
+833    $lJnBDessi $mJAg1399 $nAviC5 $aSur une planète condamnée par l'extinction prochaine de son soleil, quatre épées de verre sont apparues. Une prophétie dit que celles-ci, une fois réunies, pourront sauver le monde. Mais seuls les élus peuvent toucher les épées, tous les autres candidats étant impitoyablement changés en statues. La jeune Yama fait partie des élus... Une très belle histoire ajoutant à la quête d'heroic fantasy « classique » le passage à l'âge adulte d'une jeune fille obsédée par la vengeance. Les protagonistes ont des motivations diverses et bien développées, souvent loin d'être glorieuses. Beau dessin réaliste des personnages, décors grandioses, variés et riches en détails et bestiaire original. Une réédition en intégrale, publiée pour les 40 ans des Humanoïdes associés, à découvrir. $d20160201    $fWM $t1RLPE $v287 
+950    $a101886 $bC1 
+
+000    00486c0 m 2200027   45a 
+001    FRBNF444206420000002
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559438       
+020    $a978-2-7316-9121-4 $brel. $d15,99 EUR 
+038    $a9782731691214 
+044    $cd20150923          
+100    $312017890 $w 0 2b..... $aMalès $mMarc $d1954-.... $40070 
+245 1  $aL'autre laideur, l'autre folie $dTexte imprimé $fMarc Malès 
+260    $a[Paris] $cles Humanoïdes associés $dDL 2015 
+270    $aimpr. en Chine 
+280    $a1 vol. (127 p.) $cill. $d27 cm 
+680 0  $a805 $b805 
+950    $a101887 $bC1 
+
+000    00753c0 m 2200027   45a 
+001    FRBNF444205700000001
+008    150924s 2015                 frfre     b  004 
+009    a  fb              
+015    $a01562470       
+020    $a978-2-8203-2187-9 $brel. $d29,99 EUR 
+038    $a9782820321879 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $316698755 $w.0.2bx.... $aYū $d19..-.... $emangaka $40070 
+142 10 $aOokami komodo $eno Ame to Yuki $mfrançais 
+245 1  $aLes enfants loups $eAme &amp; Yuki $dTexte imprimé $eintégrale $fadaptation en manga, Yû $goeuvre originale, Mamoru Hosoda $gcharacter design original, Yoshiyuki Sadamoto 
+260    $aParis $cKazé $dDL 2015 
+270    $aimpr. en CE 
+280    $a1 vol. (528 p.) $cill. en coul. $d23 cm 
+295 1  $aKazé ultimate 
+410    $343719230 $tKazé ultimate $x2270-700X $d2015 
+680 0  $a805 $b805 
+700    $315785740 $w.0..bx.... $aHosoda $mMamoru $d1967-.... $40072 
+
+000    00591c0 m 2200027   45a 
+001    FRBNF444201550000003
+008    150923s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559452       
+020    $a978-2-8203-2180-0 $bbr. $d7,99 EUR 
+038    $a9782820321800 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $316583275 $w.0..bx.... $aMori $mKōji $d1966-.... $40070 
+142 10 $aJisatsutou $mfrançais 
+245 1  $aSuicide Island $h13 $dTexte imprimé $fKouji Mori 
+260    $aParis $cKazé $dDL 2015 
+270    $aimpr. en CE 
+280    $a1 vol. (non paginé [ca 202] p.) $cill. $d19 cm 
+295 1  $aSeinen 
+410    $339953540 $tSeinen (Paris) $x1773-8288 $d2015 
+460    $342627645 $tSuicide Island $v13 
+680 0  $a805 $b805 
+
+000    00556c0 m 2200027   45a 
+001    FRBNF444258440000000
+008    151002s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559453       
+020    $a978-2-8203-2179-4 $bbr. $d7,99 EUR 
+038    $a9782820321794 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $316796543 $w.0..bx.... $aMorimoto $mKozueko $40070 
+142 10 $aGokusen $mfrançais 
+245 1  $aGokusen $h15 $dTexte imprimé $fKozueko Morimoto 
+260    $aParis $cKazé $dDL 2015 
+270    $aimpr. en CE 
+280    $a1 vol. (244 p.) $cill. $d21 cm 
+295 1  $aSeinen 
+410    $339953540 $tSeinen (Paris) $x1773-8288 $d2015 
+460    $344244966 $tGokusen $v15 
+680 0  $a805 $b805 
+
+000    00850c0 m 2200027   45a 
+001    FRBNF444244950000003
+008    150930s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559493       
+020    $a978-2-302-04699-3 $bbr. $d6,99 EUR 
+038    $a9782302046993 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $316943855 $w.0.2bx.... $aSawada $mYukio $d1953-.... $40070 
+142 10 $aSuper Mario-kun $u06 $h6 $mfrançais 
+245 1  $aSuper Mario $emanga adventures $u06 $h6 $dTexte imprimé $fYukio Sawada 
+260    $aToulon $aParis $cSoleil $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (191 p.) $cill. $d18 cm 
+295 1  $aSoleil manga $ej-vidéo 
+410    $339947826 $tSoleil manga $x1772-6077 $d2015 
+460    $344271834 $tSuper Mario $v6 
+680 0  $a805 $b805 
+830    $aGénial ! Les aventures de Super Mario sans même allumer sa console ! Luigi, Bowser, Yoshi et tous leurs amis vous donnent rendez-vous dans ce manga aux histoires hilarantes. Here we go ! $2éditeur 
+950    $a101888 $bC1 
+
+000    01183c0 m 2200027   45a 
+001    FRBNF444279920000002
+008    151006s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01564855       
+020    $a978-2-302-04698-6 $bbr. $d7,99 EUR 
+038    $a9782302046986 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $316933336 $w.0..bx.... $aMizuno $mKeiya $d1976-.... $40070 
+142 10 $aLove riron $u05 $hVolume 5 $mfrançais 
+245 1  $aYakuza love theory $u05 $h5 $dTexte imprimé $fscénario, Keiya Mizuno $gdessin, Masaki Satou 
+260    $aToulon $cSoleil $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (non paginé [ca 192] p.) $cill. $d18 cm 
+295 1  $aSoleil manga $eseinen 
+410    $339947826 $tSoleil manga $x1772-6077 $d2015 
+460    $344244961 $tYakuza love theory $v5 
+680 0  $a805 $b805 
+700    $316933339 $w.0..bx.... $aSatō $mMasaki $d1976-.... $40440 
+830    $aKanji Yarahata, 20 ans, ne fait pas partie des garçons qui ont la côte auprès des filles, et c'est à peine s'il ose leur parler. C'est là qu'intervient un fantôme aux allures de yakuza, avec un message de la part du grand-père du jeune homme depuis l'au-delà : si d'ici un an Kanji n'a toujours pas de copine, la lignée des Yarahata s'éteindra ! Kanji sera-t-il en mesure de trouver une petite amie en moins d'un an ?! $2éditeur 
+950    $a101889 $bC1 
+
+000    01121c0 m 2200027   45a 
+001    FRBNF444279860000005
+008    151006s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01567802       
+020    $a978-2-302-04697-9 $bbr. $d6,99 EUR 
+038    $a9782302046979 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $316735842 $w.0..bx.... $aYoshinobu $mYamada $40070 
+142 10 $aEden no ori $u13 $hTome 13 $mfrançais 
+245 1  $aCage of Eden $h13 $dTexte imprimé $fYamada Yoshinobu 
+260    $aParis $aToulon $cSoleil $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (non paginé [ca 181] p.) $cill. $d18 cm 
+295 1  $aSoleil manga $eseinen 
+410    $339947826 $tSoleil manga $x1772-6077 $d2015 
+460    $343744307 $tCage of Eden $v13 
+680 0  $a805 $b805 
+830    $aAprès le crash de leur avion, Akira et ses camarades de classe se réveillent sur une île habitée par des espèces que l'on croyait éteintes depuis des millions d'années. La situation devient de plus en plus désespérée ; certains de ses camarades sont dévorés vivants par des bêtes sauvages, tandis que d'autres tuent en désespoir de cause. Maintenant, Akira et quelques compagnons d'infortune vont tenter de survivre à ce qui paraît être un horrible cauchemar... $2éditeur 
+950    $a101890 $bC1 
+
+000    00718c0 m 2200027   45a 
+001    FRBNF444195900000001
+008    150922s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01556566       
+020    $a978-2-30204-696-2 $bbr. $d7,99 € 
+038    $a9782302046962 
+041 1  $afre $cjpn 
+100    $315820882 $w.0..bx.... $aMurata $mShin'ya $d1983-.... $40070 
+142 10 $aArachnido $u03 $hVol. 3 $mfrançais 
+245 1  $aArachnid $u03 $h3 $dTexte imprimé $fscénario, Shinya Murata $gdessin, Shinsen Ifuji 
+260    $aToulon $cSoleil $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (207 p.) $cill. $d19 cm 
+295 1  $aSoleil manga $eseinen 
+410    $339947826 $tSoleil manga $x1772-6077 $d2015 
+460    $344349816 $tArachnid $v3 
+680 0  $a805 $b805 
+690    $aUnivJeun0 
+700    $316970127 $w.0.2bx.... $aIfuji $mShinsen $40440 
+833    $lJnBDessi 
+950    $a101891 $bC1 
+
+000    01083c0 m 2200027   45a 
+001    FRBNF44427967000000XX
+      
+008    151006s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01567589       
+020    $a978-2-7560-6926-5 $bbr. $d6,99 EUR 
+038    $a9782756069265 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $314436939 $w.0.2bx.... $aAraki $mHirohiko $d1960-.... $40070 
+245 1  $aDiamond is unbreakable $eJojo's bizarre aventure $u02 $h2 $dTexte imprimé $fHirohiko Araki 
+260    $aParis $cÉditions Delcourt $dDL 2015 
+270    $a86-Ligugé $cAubin impr. 
+280    $a1 vol. (184 p.) $cill. $d17 cm 
+295 1  $aShonen manga 
+300    $aTrad. du japonais 
+410    $339216696 $tShonen (Montreuil) $x1768-7837 $d2015 
+460    $344410413 $tDiamond is unbreakable $v2 
+680 0  $a805 $b805 
+830    $aKoichi a été frappé par « l'arc et la flèche », l'artefact que recherche Jotaro. Pour lui venir en aide, Josuke n'a d'autres choix que d'affronter Okuyasu Nijimura et son stand « The Hand ». Il est capable de tronquer une parcelle de l'espace et de la projeter dans une autre dimension. Josuke parvient cependant à survivre et pénètre dans la vieille masure où se cache le frère aîné d'Okuyasu. $2éditeur 
+950    $a101892 $bC1 
+
+000    01087c0 m 2200027   45a 
+001    FRBNF444279960000001
+008    151006s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01562467       
+020    $a978-2-7560-6916-6 $bbr. $d9,35 EUR 
+038    $a9782756069166 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $316805799 $w.0.2bx.... $aYabuguchi $mKuroko $40070 
+142 10 $aShirayukime to schichinin no shujin $mfrançais 
+245 1  $aSeven $eSnow White and the seven dwarfs $u05 $h5 $dTexte imprimé $fKuroko Yabuguchi 
+260    $aParis $cÉditions Delcourt $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (non paginé [ca 217] p.) $cill. $d19 cm 
+295 1  $aYoung 
+410    $342168845 $tYoung (Paris) $x2108-5730 $d2015 
+460    $343912072 $tSeven $v5 
+680 0  $a805 $b805 
+830    $aTakeru et sa bande sont enfin entrés dans la mairie de Shinjuku. Takeru se retrouve face à son grand frère Shakudô avec lequel il va se battre ! Le combat tourne à l'avantage de ce dernier, qui s'apprête à mettre fin à la vie de Takeru. À cet instant fatidique, Takeru se rappelle enfin : c'est après avoir mangé une pomme empoisonnée que sa mémoire s'est effacée et qu'il s'est endormi pendant deux ans... $2éditeur 
+950    $a101893 $bC1 
+
+000    01048c0 m 2200027   45a 
+001    FRBNF444216860000001
+008    150925s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559489       
+020    $a978-2-7560-7182-4 $bbr. $d7,99 EUR 
+038    $a9782756071824 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $313528379 $w 0  bx.... $aSaruwatari $mTetsuya $40070 
+245 1  $aLock up $epro-wrestling $u04 $h4 $dTexte imprimé $fTetsuya Saruwatari 
+260    $aParis $cÉditions Delcourt $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (non paginé [ca 217] p.) $cill. $d19 cm 
+295 1  $aYoung manga 
+300    $aTrad. du japonais 
+410    $342168845 $tYoung (Paris) $x2108-5730 $d2015 
+460    $344258971 $tLock up $v4 
+680 0  $a805 $b805 
+830    $aBien qu'atteint d'un cancer, Samson Takaki dirige une petite équipe de catcheurs. Grâce à une collaboration avec une organisation concurrente, Samson a enfin réussi à monter un grand spectacle de catch dans la prestigieuse salle du « Ryogoku Kokugikan ». Après le combat de Sho Kisaragi, le règlement de compte entre Samson Takaki et Akio Wada aura lieu, mettant ainsi un terme leur intense rivalité $2éditeur 
+950    $a101894 $bC1 
+
+000    00979c0 m 2200027   45a 
+001    FRBNF444244820000005
+008    150930s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559415       
+020    $a978-2-7560-7175-6 $bbr. $d7,99 EUR 
+038    $a9782756071756 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $314577930 $w.0..bx.... $aHirano $mKōta $40070 
+245 1  $aDrifters $u04 $h4 $dTexte imprimé $fKohta Hirano 
+260    $aParis $cÉditions Delcourt $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (224 p.) $cill. $d19 cm 
+295 1  $aYoung 
+300    $aTrad. du japonais 
+410    $342168845 $tYoung (Paris) $x2108-5730 $d2015 
+460    $342453012 $tDrifters $v4 
+680 0  $a805 $b805 
+830    $aSaint-Germi a décidé de vendre le pays d'Orte à Toyohisa pour sauver sa peau. Mais Raspoutine, l'allié du Roi Noir, prend connaissance de son plan de coup d'État et les prend de vitesse. Une énorme bataille éclate alors entre les armées de Raspoutine, Hijikata, et celle des Drifters. Entre temps, le terrible Akechi, meurtrier historique de Nobunaga, a rejoint le Roi Noir. $2éditeur 
+950    $a101895 $bC1 
+
+000    01239c0 m 2200027   45a 
+001    FRBNF444206260000009
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01562423       
+020    $a978-2-7560-6239-6 $brel. $d14,95 EUR $a978-2-7560-7420-7 $béd. complète 
+038    $a9782756062396 
+038    $a9782756074207 $béd. complète 
+044    $cd20150923          
+100    $316249084 $w.0..b..... $aHanna $mHerik $d1977-.... $40070 
+245 1  $aMartin Bec $dTexte imprimé $ela cour silencieuse $fscénario, Herik Hanna $gdessin, Thomas Labourot $gcouleur, Lou 
+260    $a[Paris] $cDelcourt $dDL 2015 
+270    $aimpr. en Belgique 
+280    $a1 vol. (55 p.) $cill. en coul. $d32 cm 
+290 1  $aDétectives $vtome 4 
+460    $343871573 $tDétectives $v4 
+680 0  $a805 $b805 
+700    $314470851 $w.0..b..... $aLabourot $mThomas $40440 
+830    $aParis, 1932. Une femme est retrouvée défenestrée, étendue sans vie dans la cour de son immeuble. Les soupçons se portent sur un vieux clochard du quartier, coupable idéal que tout accable. Un peu trop au goût du plus célèbre commissaire du Quai des Orfèvres. Perdu dans le brouillard parisien, à moins que ce ne soit dans les volutes de sa pipe, il devra redoubler de malice pour enfin lever le voile sur une affaire aussi sombre que stupéfiante. $2éditeur 
+909    $aL'édition complète sous blister n'est pas conservée au DL. 
+950    $a101896 $bC1 
+
+000    01734c0 m 2200027   45a 
+001    FRBNF444206130000000
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01556633       
+020    $a978-2-7560-5390-5 $brel. $d12,50 EUR 
+038    $a9782756053905 
+044    $cd20150923          
+100    $314606040 $w.0.2b..... $aValp $d1979-.... $40070 
+245 1  $aKheropis $dTexte imprimé $fscénario, dessin &amp; couleur, Valp 
+260    $a[Paris] $cDelcourt $dDL 2015 
+280    $a1 vol. (55 p.) $cill. en coul. $d30 cm 
+290 1  $aLes fantômes de Neptune $v1 
+460    $344424505 $tLes fantômes de Neptune $v1 
+680 0  $a805 $b805 
+690    $aUnivJeun0 
+830    $a1890, l'Europe connaît un essor industriel et scientifique considérable. Une équipe d'exoarchéologues découvre une statuette provenant d'une civilisation mythique aujourd'hui disparue qui colonisa autrefois le système solaire. Le Kaiser veut mettre la main sur cet objet aussi dangereux que mystérieux et dépêche la troublante Loreleï à Alexandrie. La jeune Meena, 20 ans, va tenter de s'y opposer. $2éditeur 
+833    $lJnBDessi $mJAg1199 $nAviC5 $aEn 1890, l'Europe connaît un essor industriel et scientifique considérable, permettant notamment l'exploration du système solaire. La découverte par la Fondation d'une mystérieuse sphère de l'ancienne civilisation extra-terrestre Kheropis va entraîner l'intervention des forces prussiennes, prêtes à tout pour s'en emparer... L'univers est original, métissant steampunk et science-fiction sur fond de Guerre froide. Le scénario est bien construit, alternant séquences d'action et d'explication, et le suspense est maintenu jusqu'à la dernière page. Le dessin est réussi, dynamique et riche en détails. Le trait et les couleurs rappellent le style de Sylvain Chomet ou d'autres dessins animés. Un début prometteur. $d20160201    $fWM $t1RLPE $v287 
+950    $a101897 $bC1 
+
+000    01119c0 m 2200027   45a 
+001    FRBNF444209570000001
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01556564       
+020    $a978-2-7560-6485-7 $brel. $d14,50 EUR 
+038    $a9782756064857 
+044    $cd20150923          
+100    $312950081 $w.0..b..... $aMorvan $mJean-David $d1969-.... $40070 
+245 1  $aPsycholocauste $dTexte imprimé $fscénario, Jean-David Morvan $gdessin et couleur, Philippe Buchet 
+260    $a[Paris] $cDelcourt $dDL 2015 
+270    $aimpr. en Belgique 
+280    $a1 vol. (46 p.) $cill. en coul. $d32 cm 
+290 1  $aSillage $v18 
+295 1  $aNéopolis 
+410    $334280292 $tNeopolis (Paris) $x1248-5152 $d2015 
+460    $336133793 $tSillage $v18 
+680 0  $a805 $b805 
+700    $313205924 $w.0..b..... $aBuchet $mPhilippe $d1962-.... $40440 
+830    $aIl y a un second être humain officiel à bord de Sillage et le conseil doit voter s'il lui accorde ou non la citoyenneté sillienne. Nävis l'espère vivement et prend ses responsabilités pour le convaincre. Mais très rapidement, cette préoccupation devient secondaire car un virus extrêmement puissant provenant de l'ornosphère convoité par le Magister et récupéré par Bobo libère un virus destructeur. $2éditeur 
+950    $a101898 $bC1 
+
+000    00956c0 m 2200027   45a 
+001    FRBNF44420497000000XX
+      
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01556474       
+020    $a978-2-7560-5463-6 $bbr. $d15,95 EUR 
+038    $a9782756054636 
+044    $cd20150923          
+100    $316718470 $w.0..b..... $aGriffon $mÉlise $d1978?-.... $40070 
+245 1  $aPeau neuve $dTexte imprimé $fÉlise Griffon 
+260    $aParis $cÉditions Delcourt $dimpr. 2015 
+270    $a86-Ligugé $cAubin impr. 
+280    $a1 vol. (127 p.) $cill. en coul. $d23 cm 
+680 0  $a805 $b805 
+830    $aAvec ses vacances naturistes, Laura attire la curiosité malsaine des élèves... Dans un système normé, elle comprend vite qu'il vaut mieux porter l'armure que se montrer tel qu'on est. Laura se remémore son dernier été d'enfance et de liberté, deux mois plus tôt. Juste avant de subir une mutation physique : le passage à l'âge adulte. Finalement, n'est-ce pas l'occasion de faire « peau neuve » ? Un récit subtil et délicat sur les affres de l'adolescence. $2éditeur 
+950    $a101899 $bC1 
+
+000    00904c0 m 2200027   45a 
+001    FRBNF444209410000001
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01562389       
+020    $a978-2-7560-4776-8 $brel. $d23,95 EUR 
+038    $a9782756047768 
+044    $cd20150923          
+100    $316257333 $w.0..b..... $aBoutle $mArnaud $40070 
+245 1  $aNefer $dTexte imprimé $echants &amp; contes des premières terres $fscénario, dessin &amp; couleur, Arnaud Boutle 
+260    $a[Paris] $cDelcourt $dDL 2015 
+280    $a1 vol. (139 p.) $cill. en coul. $d30 cm 
+680 0  $a805 $b805 
+830    $aNefer s'est échappée. La princesse des Hommes fourmis a enfin pu s'arracher à la cruelle emprise de son mari, le roi des Hommes pâles, et elle fuit à travers le désert. C'est ainsi qu'elle va croiser la route d'êtres mythiques, les Anciens, ces immenses tours d'argile investies des esprits des plus grands chamans d'une époque si lointaine qu'elle est presque effacée de la mémoire des hommes. $2éditeur 
+950    $a101900 $bC1 
+
+000    01049c0 m 2200027   45a 
+001    FRBNF444204700000006
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01567734       
+020    $a978-2-302-04757-0 $brel. $d14,95 EUR 
+038    $a9782302047570 
+044    $cd20150923          
+100    $315815270 $w.0..b..... $aPiatzszek $mStéphane $40070 
+245 1  $aLe chevalier à la licorne $dTexte imprimé $fscénario, Stéphane Piatzszek $gdessins et couleurs, Guillermo G. Escalada 
+260    $aToulon $cQuadrants astrolabe $dDL 2015 
+270    $aimpr. en Belgique 
+280    $a1 vol. (55 p.) $cill. en coul. $d32 cm 
+680 0  $a805 $b805 
+690    $aUnivJeun0 
+700    $317008311 $w 0  b      $aEscalada $mGuillermo G. $40440 
+830    $a1346, la bataille de Crécy. Juan de la Heredia, chevalier Hospitalier, offre son cheval au roi de France en mauvaise posture. Cerné d'Anglais, il ôte son armure dans un sursaut de fougue, libérant ses mouvements et sa rage. La folie meurtrière qui l'envahit le garde en vie, mais Juan est désormais son captif. Le voilà qui se lance à la poursuite d'une licorne, comme on poursuit une chimère... $2éditeur 
+833    $lJnBDessi 
+950    $a101901 $bC1 
+
+000    01236c0 m 2200027   45a 
+001    FRBNF444209320000002
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559390       
+020    $a978-2-302-04763-1 $brel. $d14,50 EUR 
+038    $a9782302047631 
+044    $cd20150923          
+100    $316573573 $w.0..b..... $aClerjeaud $mJean-Luc $40070 
+245 1  $aRetrouvailles $dTexte imprimé $fscénario, Jean-Luc Clerjeaud $gdessin, Christophe Picaud $gcouleurs, François Cerminaro... $gadapté de l'oeuvre de Robin Hobb 
+260    $aToulon $aParis $cSoleil $dDL 2015 
+280    $a1 vol. (47 p.) $cill. en coul. $d33 cm 
+290 1  $aL'assassin royal $vvolume 9 
+295 1  $aCherche futurs 
+410    $341378829 $tCherche futurs $x1968-8466 $d2015 
+460    $341377827 $tL'assassin royal $v9 
+680 0  $a805 $b805 
+700    $313629860 $w.0..b..... $aPicaud $mChristophe $40440 
+700    $313343129 $w 0 2b..... $aHobb $mRobin $d1952-.... $40072 
+830    $aFait prisonnier par les gardes de Royal, Fitz parvient à s'échapper grâce à Astérie-Chant-d'Oiseau, Caudron et OEil-de-Nuit, son loup. Mais, gravement blessé au cours de sa fuite, c'est presque mourant qu'il arrive enfin au Royaume des montagnes. Après une longue convalescence, c'est avec bonheur et étonnement qu'il retrouvera le Fou, métamorphosé ! Le Catalyseur et le Prophète blanc sont de nouveau réunis ! $2éditeur 
+950    $a101902 $bC1 
+
+000    01108c0 m 2200027   45a 
+001    FRBNF444204610000007
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01556497       
+020    $a978-2-302-04745-7 $brel. $d15,50 EUR 
+038    $a9782302047457 
+044    $cd20150923          
+100    $313573340 $w.0..b..... $aIstin $mJean-Luc $d1970-.... $40440 
+245 1  $aKastennroc $dTexte imprimé $fscénario, J. L. Istin $gdessin, Duarte $gcouleurs, Héban 
+260    $aToulon $cSoleil $dDL 2015 
+280    $a1 vol. (62 p.) $cill. en coul. $d33 cm 
+290 1  $aElfes $v11 
+295 1  $aUne série dirigée par Jean-Luc Istin 
+410    $342675250 $tUne Série dirigée par Jean-Luc Istin $d2015 
+460    $343592707 $tElfes $v11 
+680 0  $a805 $b805 
+700    $316915658 $w 0  b      $aDuarte $d1975-.... $40440 
+830    $aKastennroc est une forteresse légendaire et imprenable. Les Elfes bleus et les Yrlanais tentent d'y piéger l'Elfe noire Lah'saa qui cherche, forte d'une armée de goules de cent mille têtes, à envahir les terres d'Arran. L'armée des Elfes bénéficie du pouvoir du crystal bleu et d'un des plus puissants guerriers d'Arran : Redwin le nain. La guerre embrase Kastennroc et nul ne sait qui en sortira vainqueur. $2éditeur 
+950    $a101903 $bC1 
+
+000    01193c0 m 2200027   45a 
+001    FRBNF444209440000003
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559457       
+020    $a978-2-302-04772-3 $brel. $d14,50 EUR 
+038    $a9782302047723 
+044    $cd20150923          
+100    $312240894 $w 0 2b..... $aMosdi $mThomas $40070 
+245 1  $aXue Dan $dTexte imprimé $fscénario, Thomas Mosdi $gdessin et couleurs, Marco Dominici $gd'après un univers créé par Thomas Mosdi et Laurent Paturaud 
+260    $aToulon $aParis $cSoleil $dDL 2015 
+280    $a1 vol. (37 p.) $cill. en coul. $d33 cm 
+290 1  $aSuccubes $v6 
+295 1  $aSecrets du Vatican 
+410    $341203826 $tSecrets du Vatican $x1962-1159 $d2015 
+460    $342004993 $tSuccubes $v6 
+680 0  $a805 $b805 
+700    $316766840 $w.0..b..... $aDominici $mMarco $40440 
+700    $314474045 $w.0..b..... $aPaturaud $mLaurent $d1969-.... $40072 
+830    $aPartie de Lisbonne, Cidália arrive dans la chaleur moite de Macao au printemps 1706. La ville est gouvernée conjointement par les Portugais et la dynastie mandchoue, nouveaux maîtres de la Chine. C'est dans ce contexte trouble et de corruption que Cidália fait la connaissance de Xue Dan. Chacune d'elles a une difficile mission à remplir. Leur vient alors une idée audacieuse pleine de dangers ! $2éditeur 
+950    $a101904 $bC1 
+
+000    01306c0 m 2200027   45a 
+001    FRBNF444209370000009
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01556502       
+020    $a978-2-302-04764-8 $brel. $d14,95 EUR 
+038    $a9782302047648 
+044    $cd20150923          
+100    $313572281 $w.0..b..... $aJarry $mNicolas $d1976-.... $40070 
+245 1  $aOrdo du Talion $dTexte imprimé $fscénario, Nicolas Jarry $gdessin, Stéphane Créty $gcouleurs, Digikore studios 
+260    $aToulon $cSoleil $dDL 2015 
+270    $aimpr. en Belgique 
+280    $a1 vol. (40 p.) $cill. en coul. $d33 cm 
+290 1  $aNains $v2 
+295 1  $aUne série dirigée par Jean-Luc Istin 
+300    $aGlossaire 
+410    $342675250 $tUne Série dirigée par Jean-Luc Istin $d2015 
+460    $344383842 $tNains $v2 
+680 0  $a805 $b805 
+690    $aUnivJeun0 
+700    $314482232 $w.0..b..... $aCréty $mStéphane $40440 
+830    $aOrdo est maudit... Né le sixième jour de la sixième lune, il est le sixième enfant d'une fratrie de l'ordre du Talion. Le jour de ses six ans, son père l'abandonne aux instructeurs de la Loge noire, une branche secrète de l'ordre qui forme des assassins destinés à éliminer tous ceux qui s'opposent au dessein du Talion. Trente ans plus tard, Ordo est devenu un maître de l'ombre. Le moment est venu pour lui de se venger de tous ceux qui l'ont trahi et qui l'ont fait tant souffrir. Son objectif : les ruiner. $2éditeur 
+833    $lJnBDessi 
+950    $a101905 $bC1 
+
+000    00960c0 m 2200027   45a 
+001    FRBNF444205330000008
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01556451       
+020    $a978-2-302-04756-3 $brel. $d14,50 EUR 
+038    $a9782302047563 
+044    $cd20150923          
+100    $315086915 $w.0.2b..... $aDjief $d1971-.... $40070 
+245 1  $aBroadway $eune rue en Amérique $u02 $hTome 2 $dTexte imprimé $fun récit écrit et illustré par Djief 
+260    $a[Toulon] $cQuadrants $dDL 2015 
+270    $aimpr. en Belgique 
+280    $a1 vol. (47 p.) $cill. en coul. $d32 cm 
+460    $344201346 $tBroadway $v2 
+680 0  $a805 $b805 
+830    $aLe Chapman's Paradise est anéanti : le minable directeur artistique a causé l'effondrement de la scène en pleine représentation. Les danseuses sont au chômage, et les frères Chapman, en plein désarroi. Pourtant, la grande rue blanche continue de les hypnotiser. Il faudrait juste trouver une idée de spectacle vraiment nouvelle... et trouver de l'argent. Peut-être en revendant l'usine familiale... ? $2éditeur 
+950    $a101906 $bC1 
+
+000    01034c0 m 2200027   45a 
+001    FRBNF444206300000001
+008    150924s 2015                 frfre     b  001 
+009    a  fb  j           
+015    $a01556425       
+020    $a978-2-302-04767-9 $brel. $d10,95 EUR 
+038    $a9782302047679 
+044    $cd20150923          
+100    $315725149 $w.0..b..... $aBauthian $mIsabelle $40070 
+245 1  $aLa théorie de l'attraction $dTexte imprimé $fscénario, Isabelle Bauthian $gdessin, Rebecca Morse $gcouleurs, Hélène Lenoble 
+260    $aToulon $cSoleil $dDL 2015 
+280    $a1 vol. (45 p.) $cill. en coul. $d30 cm 
+290 1  $aAlyssa $v3 
+460    $343760291 $tAlyssa $v3 
+680 0  $a805 $b805 
+690    $aUnivJeun0 
+700    $316516831 $w.0..b..... $aMorse $mRebecca $d1983-.... $40440 
+830    $aAlyssa, intello infiltrée auprès de collégiennes fans de shopping, se faisait à sa nouvelle vie. Mais l'arrivée de Damien a changé la donne. Doit-elle continuer à mentir ? Entre drôles de quiproquos et vrais dilemmes moraux, Alyssa doit choisir. Il est peut-être temps de se montrer telle qu'elle est réellement. Un voyage de classe en Angleterre : c'est l'occasion ! $2éditeur 
+833    $lJnBDessi 
+950    $a101907 $bC1 
+
+000    01140c0 m 2200027   45a 
+001    FRBNF444209500000000
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01556496       
+020    $a978-2-302-04762-4 $brel. $d14,95 EUR 
+038    $a9782302047624 
+044    $cd20150923          
+100    $313573340 $w.0..b..... $aIstin $mJean-Luc $d1970-.... $40070 
+245 1  $aLe tueur en moi $dTexte imprimé $fscénario, Jean-Luc Istin $gdessin, Zivorad Radivojevic $gcouleurs, Jean Bastide 
+260    $aToulon $cSoleil $dDL 2015 
+270    $aimpr. en Belgique 
+280    $a1 vol. (51 p.) $cill. en coul. $d33 cm 
+290 1  $aAlice Matheson $v2 
+295 1  $aAnticipation 
+410    $342254836 $tAnticipation (Toulon) $x2110-9095 $d2015 
+460    $344346917 $tAlice Matheson. Saison 1 $v2 
+680 0  $a805 $b805 
+700    $316153431 $w.0..b..... $aRadivojević $mŽivorad $d1965-.... $40440 
+830    $aEntre le Docteur Barry qui se montre de plus en plus entreprenant, l'infirmière Alexandra Paynes qui l'a surprise en train de tuer une patiente et ce type étrange dénommé Harold Butler qui dit l'avoir connue autrefois, Alice traverse une mauvaise passe qui lui en ferait presque oublier les zombies. Reste que la cause de l'épidémie viendrait de l'hôpital lui-même... $2éditeur 
+950    $a101908 $bC1 
+
+000    01054c0 m 2200027   45a 
+001    FRBNF444206190000004
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01567732       
+020    $a978-2-302-04759-4 $brel. $d14,95 EUR 
+038    $a9782302047594 
+044    $cd20150923          
+100    $312702732 $w.0..b..... $aPécau $mJean-Pierre $40070 
+245 1  $aLe grand déménagement $dTexte imprimé $fscénario, Jean-Pierre Pécau $gdessin, Jovan Ukropina $gcouleurs, Tanja Cinna 
+260    $aToulon $cSoleil $dDL 2015 
+270    $aimpr. en Belgique 
+280    $a1 vol. (55 p.) $cill. en coul. $d33 cm 
+290 1  $a1940 $v1 
+460    $344452268 $t1940 $v1 
+680 0  $a805 $b805 
+700    $316257668 $w.0..b..... $aUkropina $mJovan $d1980-.... $40440 
+830    $aEt si la France avait continué la guerre ? 1940, le gouvernement français refuse la défaite et choisit de continuer la lutte contre l'envahisseur nazi, à partir de l'Afrique du Nord. Trois amis pilotes, Marianne, Yvon et Jules, pris dans la tourmente, vont accompagner la retraite de l'armée française à travers la France. Le récit d'une Seconde Guerre mondiale qui n'a pas été, mais qui aurait pu être... $2éditeur 
+950    $a101909 $bC1 
+
+000    00631c0 m 2200027   45a 
+001    FRBNF444244660000001
+008    150930s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559443       
+020    $a978-2-8203-2211-1 $bbr. $d9,99 EUR 
+038    $a9782820322111 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $315031001 $w.0..bx.... $aMase $mMotorō $d1969-.... $40070 
+142 10 $aIkigami $u01-02 $hVol. 1-2 $mfrançais 
+245 1  $aIkigami $epréavis de mort $u01 $h1 $dTexte imprimé $fMotorô Mase 
+260    $aParis $cKazé $dDL 2015 
+270    $aimpr. en CE 
+280    $a1 vol. (421 p.) $cill. $d19 cm 
+295 1  $aUltimate 
+410    $343719230 $tKazé ultimate $x2270-700X $d2015 
+460    $344431482 $tIkigami $v1 
+680 0  $a805 $b805 
+690    $aUnivJeun0 
+833    $lJnBDessi 
+
+000    00602c0 m 2200027   45a 
+001    FRBNF444201450000007
+008    150923s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01559442       
+020    $a978-2-8203-2210-4 $bbr. $d8,29 EUR 
+038    $a9782820322104 
+041 1  $afre $cjpn 
+044    $cd20150923          
+100    $315031001 $w.0..bx.... $aMase $mMotorō $d1969-.... $40070 
+245 1  $aDémokratía $u03 $h3 $dTexte imprimé $fMotorô Mase 
+260    $aParis $cKazé $dDL 2015 
+270    $aimpr. en CE 
+280    $a1 vol. (162 p.) $cill. $d19 cm 
+295 1  $aSeinen 
+300    $aTrad. du japonais 
+410    $339953540 $tSeinen (Paris) $x1773-8288 $d2015 
+460    $344285098 $tDémokratía $v3 
+680 0  $a805 $b805 
+690    $aUnivJeun0 
+833    $lJnBDessi 
+
+000    00784c0 m 2200027   45a 
+001    FRBNF438350040000004
+008    140605s 2014                 frfre     b  001 
+009    a  fb              
+015    $a01445200       
+020    $a978-2-7560-3497-3 $bbr. $d14,95 EUR $a978-2-7560-7420-7 $béd. complète 
+038    $a9782756034973 
+038    $a9782756074207 $béd. complète 
+044    $cd20140507          
+100    $316249084 $w.0..b..... $aHanna $mHerik $d1977-.... $40070 
+245 1  $aMiss Crumble $dTexte imprimé $ele monstre botté $fscénario, Herik Hanna $gdessin, Sylvain Guinebaud $gcouleur, Lou 
+260    $a[Paris] $cDelcourt $dimpr. 2014 
+270    $aimpr. en Belgique 
+280    $a1 vol. (63 p.) $cill. en coul., couv. ill. en coul. $d32 cm 
+290 1  $aDétectives $vtome 1 
+460    $343871573 $tDétectives $v1 
+680 0  $a805 $b805 
+700    $314404292 $w 0  b      $aGuinebaud $mSylvain $40440 
+909    $aL'édition complète sous blister n'est pas conservée au DL. 
+
+000    01239c0 m 2200027   45a 
+001    FRBNF444206260000009
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01562423       
+020    $a978-2-7560-6239-6 $brel. $d14,95 EUR $a978-2-7560-7420-7 $béd. complète 
+038    $a9782756062396 
+038    $a9782756074207 $béd. complète 
+044    $cd20150923          
+100    $316249084 $w.0..b..... $aHanna $mHerik $d1977-.... $40070 
+245 1  $aMartin Bec $dTexte imprimé $ela cour silencieuse $fscénario, Herik Hanna $gdessin, Thomas Labourot $gcouleur, Lou 
+260    $a[Paris] $cDelcourt $dDL 2015 
+270    $aimpr. en Belgique 
+280    $a1 vol. (55 p.) $cill. en coul. $d32 cm 
+290 1  $aDétectives $vtome 4 
+460    $343871573 $tDétectives $v4 
+680 0  $a805 $b805 
+700    $314470851 $w.0..b..... $aLabourot $mThomas $40440 
+830    $aParis, 1932. Une femme est retrouvée défenestrée, étendue sans vie dans la cour de son immeuble. Les soupçons se portent sur un vieux clochard du quartier, coupable idéal que tout accable. Un peu trop au goût du plus célèbre commissaire du Quai des Orfèvres. Perdu dans le brouillard parisien, à moins que ce ne soit dans les volutes de sa pipe, il devra redoubler de malice pour enfin lever le voile sur une affaire aussi sombre que stupéfiante. $2éditeur 
+909    $aL'édition complète sous blister n'est pas conservée au DL. 
+950    $a101896 $bC1 
+
+000    00763c0 m 2200027   45a 
+001    FRBNF444203280000007
+008    150923s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01564825       
+020    $a978-2-7316-7543-6 $brel. $d16 EUR 
+038    $a9782731675436 
+044    $cd20150923          
+100    $311908875 $w.0..b..... $aJodorowsky $mAlexandro $d1929-.... $40070 
+245 1  $aAnibal 5 $dTexte imprimé $f[scénario], Jodorowsky $g[dessin], Bess 
+250    $aNouvelle éd. 40 ans 
+260    $a[Paris] $cHumanoïdes associés $dDL 2015 
+270    $aimpr. en Chine 
+280    $a1 vol. (128 p.) $cill. en coul. $d27 cm 
+300    $aRéunit : "Dix femmes avant de mourir" ; "Chair d'orchidée pour le cyborg" 
+680 0  $a805 $b805 
+700    $312077283 $w.0..b..... $aBess $mGeorges $d1947-.... $40070 
+748    $aDix femmes avant de mourir 
+748    $aChair d'orchidée pour le cyborg 
+750    $aAnibal cinq 
+950    $a101912 $bC1 
+
+000    00790c0 m 2200027   45a 
+001    FRBNF444206400000008
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01564869       
+020    $a978-2-7316-4306-0 $brel. $d24 EUR 
+038    $a9782731643060 
+044    $cd20150923          
+100    $312244084 $w.0..b..... $aPerrissin $mChristian $d1964-.... $40070 
+245 1  $aCap Horn $dTexte imprimé $eintégrale $fscénario, Christian Perrissin $gdessin, Enea Riboldi $gcouleur, Studio KMZéro, Diego d'Aquila, Sébastien Lamirand... [et al.] 
+260    $a[Paris] $cles Humanoïdes associés $dDL 2015 
+270    $aimpr. en Chine 
+280    $a1 vol. (228 p.) $cill. en coul. $d27 cm 
+300    $aRéunit : "La baie tournée vers l'est" ; "Dans le sillage des cormorans" ; "L'ange noir du Paramo" ; "Le prince de l'âme" 
+680 0  $a805 $b805 
+700    $312634823 $w.0..b..... $aRiboldi $mEnea $d1954-.... $40440 
+950    $a101913 $bC1 
+
+000    00643c0 m 2200027   45a 
+001    FRBNF44420719000000XX
+      
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01564792       
+020    $a978-2-7316-7915-1 $brel. $d28 EUR 
+038    $a9782731679151 
+044    $cd20150923          
+100    $311895895 $w 0  b.fre. $aChaland $mYves $d1957-1990 $40070 
+245 1  $aFreddy Lombard $dTexte imprimé $fChaland 
+250    $aNouvelle éd. 40 ans 
+260    $aParis $cles Humanoïdes associés $dDL 2015 
+270    $aimpr. en RPC 
+280    $a1 vol. (230 p.) $cill. en coul. $d27 cm 
+300    $aRéunit : "Le testament de Godefroid de Bouillon" ; "Le cimetière des éléphants" ; "La comète de Carthage" ; "Vacances à Budapest" ; "F.52" 
+680 0  $a805 $b805 
+950    $a101914 $bC1 
+
+000    01663c0 m 2200027   45a 
+001    FRBNF444205020000001
+008    150924s 2015                 frfre     b  001 
+009    a  f               
+015    $a01561752       
+020    $a978-2-253-18953-4 $bbr. $d16,90 EUR 
+038    $a9782253189534 
+044    $cd20150923          
+100    $313340415 $w.0..b..... $aClaudel $mPhilippe $d1962-.... $40070 
+245 1  $aTrilogie de l'homme devant la guerre $dTexte imprimé $bsuivie de Jean-Bark $fPhilippe Claudel 
+260    $aParis $cle Livre de poche $dDL 2015 
+270    $aimpr. en Italie 
+280    $a1 vol. (788 p.) $d19 cm 
+300    $aLa trilogie réunit : "Les âmes grises" ; "La petite fille de monsieur Linh" ; "Le rapport de Brodeck" 
+680 0  $a803 $b803 
+748    $aLes âmes grises 
+748    $aLa petite fille de monsieur Linh 
+748    $aLe rapport de Brodeck 
+748    $aJean-Bark 
+830    $aLes âmes grises, Prix Renaudot 2003, Grand Prix des lectrices de Elle 2004, Meilleur livre de l'année 2003 pour le magazine Lire. «Exempte du moindre pathos, l'écriture de Philippe Claudel est d'une virtuosité et d'une beauté stupéfiantes. Son propos humaniste n'en est que plus fort.» Delphine Peras, L'Express. La petite fille de monsieur Linh, Prix Européen Euregio 2006. « Une réussite unique et flagrante.» Gilles Pudlowski, Le Point. Le rapport de Brodeck, Prix Goncourt des lycéens 2007, Prix des libraires du Québec 2008,Prix des lecteurs du Livre de Poche 2009, Independent Foreign Fiction Prize 2010. « Avec un art certain du récit oral et du suspense, Philippe Claudel excelle à rendre les mille bassesses humaines et les mille nuances de la nature, dans un style charnel, terrien. » David Fontaine, Le Canard enchaîné. Ainsi que JEAN-BARK, l'hommage de l'auteur à son éditeur disparu, Jean-Marc Roberts. $2éditeur 
+950    $a101915 $bC1 
+
+000    01674c0 m 2200027   45a 
+001    FRBNF444262410000000
+008    151002s 2015                 frfre     b  001 
+009    a  f               
+015    $a01562021       
+020    $a978-2-253-00653-4 $bbr. $d2 EUR 
+038    $a9782253006534 
+044    $cd19740827          
+100    $311915226 $w.0..b..... $aMaupassant $mGuy de $d1850-1893 $40070 
+245 1  $aMiss Harriet $dTexte imprimé $fGuy de Maupassant $gpréface, commentaires et notes de Louis Forestier 
+260    $aParis $cle Livre de poche $dDL 2015 
+280    $a1 vol. (236 p.) $d18 cm 
+295 1  $aLes classiques de poche 
+300    $aBibliogr. p. 233-236 
+395 1  $aLe livre de poche $v1962 
+410    $334228560 $tLe Livre de poche $x0248-3653 $v1962 
+410    $334236150 $tLe Livre de poche. Classique $x1144-7877 $d2015 
+680 0  $a803 $b803 
+700    $311903113 $w.0..b..... $aForestier $mLouis $d1931-.... $40360 
+830    $aDes contes de Maupassant surgit un pays, la Normandie de son adolescence. é Ces coins du monde délicieux qui ont pour ses yeux un charme sensuel que sont les falaises du Pays de Caux, la jetée du port du Havre, un lever de soleil éclatant sur la mer, les rives de la Seine. Ces paysages sont animés : paysans, bourgeois, fonctionnaires y vivent et meurent de trop aimer ou d'être mal aimés. Ils traînent comme des boulets leurs regrets ou leur avarice. L'égoïsme est roi. Le peintre en admiration devant Bénouville ne s'aperçoit pas de l'amour qui mine le coeur de Miss Harriet. On renvoie le beau Maze, quand on a obtenu de lui ce que l'on voulait : un enfant, pour hériter.&lt;br/&gt;Chaque conte est un drame. L'issue n'est pas toujours malheureuse, mais la conscience de chacun a été mise à nue avec l'ironie et la lucidité des grands conteurs.&lt;br/&gt;&lt;i&gt;Edition établie, commentée et annotée par Louis Forestier.&lt;/i&gt; $2éditeur 
+
+000    02152c0 m 2200027   45a 
+001    FRBNF444202830000003
+008    150923s 2015                 frfre     b  001 
+009    a  f               
+015    $a01558917       
+020    $a978-2-7021-5863-0 $bbr. $d18 EUR 
+038    $a9782702158630 
+041 1  $afre $ceng 
+044    $cd20150923          
+100    $312057458 $w.0..b..... $aHorowitz $mAnthony $d1955-.... $40070 
+142 10 $aTrigger mortis $mfrançais 
+245 1  $aDéclic mortel $dTexte imprimé $eJames Bond 007 $fAnthony Horowitz $gincluant des notes de Ian Fleming $gtraduit de l'anglais (Royaume-Uni) par Annick Le Goyat 
+260    $aParis $cCalmann-Lévy $dDL 2015 
+270    $a72-La Flèche $cImpr. CPI Brodard et Taupin 
+280    $a1 vol. (330 p.) $d22 cm 
+680 0  $a803 $b803 
+700    $311902905 $w.0..b..... $aFleming $mIan $d1908-1964 $40072 
+700    $312071975 $w.0..b..... $aLe Goyat $mAnnick $40680 
+750    $aJames Bond 007 
+830    $a&lt;strong&gt;L'ESPION LE PLUS CÉLÈBRE DU MONDE REVIENT&lt;br/&gt;À L'APOGÉE DE SA GLOIRE, DANS LES ANNÉES 50&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;James Bond vient de gagner son combat contre le cerveau du crime,&lt;br/&gt;Auric Goldfinger, mais déjà une nouvelle menace se profile. Rentré&lt;br/&gt;d'Amérique avec la divine Pussy Galore à son bras, et souvent dans son&lt;br/&gt;lit, il apprend que le SMERSH, agence de contre-espionnage soviétique,&lt;br/&gt;prévoit de saboter un Grand Prix international de course automobile.&lt;br/&gt;Alors que l'agent 007 fait tout pour les en empêcher, il croise la route&lt;br/&gt;de Jason Sin, un homme d'affaires coréen en apparence passionné&lt;br/&gt;de sport mécanique mais qui s'avère être un dangereux adversaire&lt;br/&gt;assoiffé de vengeance.&lt;br/&gt;Cett e rencontre va propulser James Bond dans une autre course poursuite&lt;br/&gt;: la course à l'espace entre les États-Unis et l'URSS. Aux côtés&lt;br/&gt;de Jeopardy Lane, nouvelle James Bond Girl oeuvrant dans les services&lt;br/&gt;secrets américains, 007 va mener jusqu'à New York une enquête&lt;br/&gt;haletante dont les enjeux pourraient bien changer la face du monde.&lt;br/&gt;Entre voitures de course, sublimes créatures et criminels impitoyables,&lt;br/&gt;&lt;em&gt;Déclic mortel&lt;/em&gt; contient toutes les marques de fabrique d'une intrigue&lt;br/&gt;originale de Ian Fleming.&lt;br/&gt;&lt;br/&gt;INCLUANT DES NOTES JAMAIS PUBLIÉES DU CRÉATEUR DE 007&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; &lt;br/&gt; &lt;br/&gt;  $2éditeur 
+950    $a101916 $bC1 
+
+000    00821c0 m 2200027   45a 
+001    FRBNF444201410000008
+008    150923s 2015                 frfre     b  001 
+009    a  f   j           
+015    $a01562637       
+020    $a978-2-7459-7540-9 $bbr. $d11,90 EUR 
+038    $a9782745975409 
+041 1  $afre $ceng 
+044    $cd20150923          
+100    $316998425 $w.0..b..... $aPounder $mSibéal $40070 
+142 10 $aWitch wars $mfrançais 
+245 1  $aConcours à Canal sorcière $dTexte imprimé $ftexte de Sibéal Pounder $gillustrations de Laura Ellen Anderson $gtraduit de l'anglais par Christelle Gourdeau 
+260    $aToulouse $cMilan $dDL 2015 
+270    $aimpr. en Espagne 
+280    $a1 vol. (253 p.) $cill. $d20 cm 
+290 1  $aMalicia Peps 
+460    $344434796 $tMalicia Peps $d2015 
+680 0  $a809 $b809 
+690    $aUnivJeun0 
+700    $316998430 $w.0..b..... $aAnderson $mLaura Ellen $40440 
+700    $316778325 $w.0..b..... $aGourdeau $mChristelle $d19..-.... $eangliciste $40680 
+833    $lJnRoman $mJAg0999 $nAviC3 
+
+000    01267c0 m 2200027   45a 
+001    FRBNF444279820000006
+008    151006s 2015                 frfre     b  001 
+009    a  d   j           
+015    $a01565452       
+020    $a978-2-7459-7655-0 $brel. $d8,90 EUR 
+038    $a9782745976550 
+044    $cd20150923          
+100    $313738334 $w.0..b..... $aLabbé $mBrigitte $d1960-.... $40070 
+245 1  $aLes images et les mots $dTexte imprimé $fBrigitte Labbé, P.-F. Dupont-Beurier $gillustrations de Jacques Azam 
+260    $aToulouse $cMilan $dDL 2015 
+270    $a85-Luçon $cImpr. Pollina 
+280    $a1 vol. (43 p.) $cill. en coul. $d19 cm 
+295 1  $aLes goûters philo $v43 
+410    $337579934 $tLes Goûters philo $v43 
+676    $313647403 $i108.3 $v22 
+680 0  $a100 $b100 
+690    $aUnivJeun0 
+700    $315098263 $w.0..b..... $aDupont-Beurier $mPierre-François $40070 
+700    $313077806 $w.0..b..... $aAzam $mJacques $d1961-.... $40440 
+833    $lJnDHuma $mJAg0999 $nAviC4 $aLes images et les mots sont riches de sens, ils peuvent suggérer des idées, des contenus, mais doivent être lus et interprétés avec prudence, car ils peuvent aussi être trompeurs, voire dangereux. Ces thèmes sont illustrés dans ce court volume par le biais d'histoires inspirées de la vie réelle et racontées de manière vivante, puis explicités de manière plus philosophique. De quoi développer la réflexion des jeunes lecteurs.  $d20160201    $fHD $t1RLPE $v287 
+950    $a101917 $bC1 
+
+000    00824c0 m 2200027   45a 
+001    FRBNF444206870000004
+008    150924s 2015                 frfre     b  001 
+009    a  d               
+015    $a01555541       
+020    $a978-2-7459-7160-9 $brel. $d32,50 EUR 
+038    $a9782745971609 
+041 1  $afre $ceng 
+044    $cd20150923          
+100    $312057170 $w 0  b..... $aCarter $mDavid A. $d1957-.... $40070 
+142 10 $aThe elements of pop-up $mfrançais 
+245 1  $aPop-up $dTexte imprimé $eart et technique $ecréez vous-même des pop-up $fDavid A. Carter et James Diaz 
+250    $aNouvelle éd. 
+260    $aToulouse $cMilan et demi $dDL 2015 
+270    $aimpr. en Thaïlande 
+280    $a1 vol. (non paginé [18] p.) $cill. en coul. $d32 cm 
+300    $aGlossaire 
+606    $316505187 $aPop-up $gtravail du papier $311976167 $xManuels d'amateurs 
+606    $312343080 $aLivres animés 
+676    $313638337 $i745.540 28 $v22 
+680 0  $a740 $b740 
+700    $313627331 $w.0..b..... $aDiaz $mJames $40070 
+950    $a101918 $bC1 
+
+000    00761c0 m 2200027   45a 
+001    FRBNF444206270000006
+008    150924s 2015                 frfre     b  001 
+009    a  d   j           
+015    $a01565468       
+020    $a978-2-7459-7732-8 $brel. $d8,90 EUR 
+038    $a9782745977328 
+044    $cd20150923          
+100    $312541108 $w 0  b..... $aVaillant $mEmmanuel $d1965-.... $40070 
+245 1  $aLa liberté $dTexte imprimé $ftextes d'Emmanuel Vaillant $gillustrations de Mélanie Allag 
+260    $aToulouse $cMilan $dDL 2015 
+270    $aimpr. en Espagne 
+280    $a1 vol. (37 p.) $cill. en coul. $d22 cm 
+295 1  $aMes p'tites questions $e6-8 ans 
+410    $342226968 $tMes p'tites questions $x2109-814X $d2015 
+606    $311932245 $aLiberté $312042408 $xOuvrages pour la jeunesse 
+676    $313765039 $i123.508 3 $v22 
+680 0  $a100 $b100 
+700    $315817027 $w 0  b      $aAllag $mMélanie $d1981-.... $40440 
+950    $a101919 $bC1 
+
+000    00686c0 m 2200027   45a 
+001    FRBNF444201580000005
+008    150923s 2015                 frfre     b  001 
+009    a  f   j           
+015    $a01562571       
+020    $a978-2-7459-7002-2 $bbr. $d5,20 EUR 
+038    $a9782745970022 
+044    $cd20150923          
+100    $312953988 $w.0..b..... $aHédelin $mPascale $40070 
+245 1  $aPongo Bongo et la course au cadeau $dTexte imprimé $fPascale Hédelin $gillustrations d'Amélie Falière 
+260    $aToulouse $cMilan $dDL 2015 
+270    $a85-Luçon $cImpr. Pollina 
+280    $a1 vol. (23 p.) $cill. en coul. $d18 cm 
+295 1  $aMilan poche benjamin $equelle aventure ! $v139 
+410    $337124999 $tMilan poche benjamin $x1621-7233 $v139 
+680 0  $a809 $b809 
+700    $316590346 $w.0..b..... $aFalière $mAmélie $d1985-.... $40440 
+950    $a101920 $bC1 
+
+000    00993c0 m 2200027   45a 
+001    FRBNF444279770000006
+008    151006s 2015                 frfre     b  001 
+009    a  d   j           
+015    $a01603634       
+020    $a978-2-7459-7499-0 $bbr. $d8,90 EUR 
+038    $a9782745974990 
+044    $cd20150923          
+245 1  $aL'écologie $dTexte imprimé $fprésenté par Gilles Halais $gillustré par Jacques Azam 
+260    $aToulouse $cMilan $dDL 2015 
+270    $aimpr. en Slovénie 
+280    $a1 vol. (93 p.) $cill. en coul. $d17 cm 
+290 1  $aÀ nous ! 
+300    $aReprend 21 épisodes du programme "Un jour, une question" diffusés sur France Info junior 
+460    $344489048 $tÀ nous ! $d2015 
+606    $311931930 $aÉcologie $312042408 $xOuvrages pour la jeunesse 
+606    $311931256 $aEnvironnement $xProtection $312042408 $xOuvrages pour la jeunesse 
+676    $313779105 $i363.700 83 $v22 
+680 0  $a360 $b360 
+690    $aUnivJeun0 
+700    $316997660 $w.0..b..... $aHalais $mGilles $40550 
+700    $313077806 $w.0..b..... $aAzam $mJacques $d1961-.... $40440 
+710    $313320884 $w20 .b..... $aFrance-Info $40360 
+750    $aÀ nous ! L'écologie 
+833    $lJnDScT $mJAg1199 $nAviC4 
+950    $a101921 $bC1 
+
+000    01666c0 m 2200027   45a 
+001    FRBNF444201610000000
+008    150923s 2015                 frfre     b  001 
+009    a  d   j           
+015    $a01603487       
+020    $a978-2-7459-7610-9 $bbr. $d8,90 EUR 
+038    $a9782745976109 
+044    $cd20150923          
+245 1  $aLa politique $dTexte imprimé $fprésenté par Gilles Halais $gillustré par Jacques Azam 
+260    $aToulouse $cMilan $dDL 2015 
+270    $aimpr. en Slovénie 
+280    $a1 vol. (93 p.) $cill. en coul. $d17 cm 
+290 1  $aÀ nous ! 
+300    $aReprend 21 épisodes du programme "Un jour, une question" diffusé sur France Info junior 
+460    $344489048 $tÀ nous ! $d2015 
+606    $313319064 $aScience politique $312042408 $xOuvrages pour la jeunesse 
+606    $313553871 $aPratiques politiques $312042408 $xOuvrages pour la jeunesse 
+676    $313633664 $i320.083 $v22 
+680 0  $a320 $b320 
+690    $aUnivJeun0 
+700    $316997660 $w.0..b..... $aHalais $mGilles $40360 
+700    $313077806 $w.0..b..... $aAzam $mJacques $d1961-.... $40440 
+710    $313320884 $w20 .b..... $aFrance-Info $40360 
+750    $aÀ nous ! La politique 
+833    $lJnDHuma $mJAg1199 $nAviC4 $aLes éditions Milan reprennent sur papier une série d'émissions pour jeunes créée par ces mêmes éditions, en collaboration avec France Télévisions. Ce volume sur la politique en France fait un large tour de la question : gouvernement, parlement, remaniement, maire, régions, département, élections, droit de vote, abstention, liberté d'expression, laïcité. Sans oublier l'Europe dont la France fait partie. Le ton des textes est vif et percutant, ils sont bien relayés par les illustrations pleines d'humour de Jacques Azam. Voilà une manière agréable et intelligente d'apprendre ou de compléter ses connaissances.  $d20160201    $fHD $t1RLPE $v287 
+909    $aTransmis aux coll. 
+950    $a101922 $bC1 
+
+000    00914c0 m 2200027   45a 
+001    FRBNF444203200000009
+008    150923s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01564812       
+020    $a978-2-7316-8548-0 $brel. $d16 EUR 
+038    $a9782731685480 
+100    $312089344 $w.0..b..... $aGalliano $mPatrick $d1952-.... $40070 
+245 1  $aHorlemonde $dTexte imprimé $eintégrale $fscénario, Patrick Galliano $gdessin, Cédric Peyravernay et Bazal $gcouleur, Cédric Peyravernay, Iban &amp; Makma-Marc Sintès $gd'après l'oeuvre originale de Julia Verlanger 
+250    $aNouvelle éd. 40 ans 
+260    $a[Paris] $cHumanoïdes associés $dDL 2015 
+270    $aimpr. en Chine 
+280    $a1 vol. (110 p.) $cill. en coul. $d27 cm 
+300    $aRéunit : "Les voies d'Almagiel" ; "Les hydres d'Argolide" 
+680 0  $a805 $b805 
+700    $316756416 $w.0..b..... $aPeyravernay $mCédric $40440 
+700    $316718260 $w.0.2b..... $aBazal $40440 
+700    $316203687 $w.0.2b..... $aVerlanger $mJulia $d1929-1985 $40072 
+748    $aLes voies d'Almagiel 
+748    $aLes hydres d'Argolide 
+
+000    00720c0 m 2200027   45a 
+001    FRBNF444206360000005
+008    150924s 2015                 frfre     b  001 
+009    a  fb              
+015    $a01564790       
+020    $a978-2-7316-8402-5 $brel. $d18 EUR 
+038    $a9782731684025 
+041 1  $afre $ceng 
+044    $cd20150923          
+100    $313072539 $w.0..b..... $aBusiek $mKurt $40070 
+245 1  $aRedhand $dTexte imprimé $ele crépuscule des dieux $f[scénario de] Kurt Busiek et Sam Timel $g[dessins de] Mario Alberti et Bazal 
+260    $a[Paris] $cles Humanoïdes associés $dDL 2015 
+270    $aimpr. en Chine 
+280    $a1 vol. (138 p.) $cill. en coul. $d27 cm 
+300    $aTrad. de l'anglais 
+680 0  $a805 $b805 
+700    $316166868 $w.0..b..... $aTimel $mSam $40070 
+700    $314507287 $w.0..b..... $aAlberti $mMario $d1965-.... $40440 
+700    $316718260 $w.0.2b..... $aBazal $40440 
+
