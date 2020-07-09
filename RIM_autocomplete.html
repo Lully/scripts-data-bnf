@@ -1,5 +1,5 @@
 <html>
-<head>
+<head><base href="https://raw.githubusercontent.com/Lully/scripts-data-bnf/master/RIM_autocomplete.html">
 <meta charset="UTF-8"/>
 <title>RIM : Liste des zones / sous-zones</title>
 </head>
@@ -8,11 +8,8 @@
 display: none;
 }
 </style>
-<body>
-
-<h1 id="RIM_B">Bibliographique : Liste des zones / sous-zones du format Intermarc (B)</h1>
-
-<form action="http://consrim.bnf.fr/visualiserZone.do" method="get" target="blank">
+<body><h1 id="RIM_B">Bibliographique : Liste des zones / sous-zones du format Intermarc (B)</h1>
+    <form action="http://consrim.bnf.fr/visualiserZone.do" method="get" target="blank">
 <input name="groupeZoneOid" type="hidden" value="-1"/>
 <input name="zoneOid" type="hidden" value="48589"/>
 <input name="positionZoneOid" type="hidden" value=""/>
@@ -59,10 +56,31 @@ display: none;
 <input type="search" list="intermarcB" name="etiquetteZone" placeholder="Format Intermarc Biblio : Indiquer une zone ou un libellé" size="60">
 
 <datalist id="intermarcB">
+    <option value="000" label="000 GUIDE"/>
+<option value="001" label="001 NUMERO D'IDENTIFICATION DE LA NOTICE"/>
+<option value="003" label="003 URL pérenne"/>
+<option value="004" label="004 NUMERO D'IDENTIFICATION DE LA NOTICE D'EXEMPLAIRE LIEE"/>
+<option value="008" label="008 Zone d'informations générales codées"/>
+<option value="009" label="009a ZONE D'INFORMATIONS CODEES - TEXTE IMPRIME"/>
+<option value="009" label="009b ZONE D'INFORMATIONS CODEES - MANUSCRIT ANCIEN"/>
+<option value="009" label="009c Zone d'informations codées - Musique notée"/>
+<option value="009" label="009e ZONE D'INFORMATIONS CODEES - RESSOURCES CARTOGRAPHIQUES"/>
+<option value="009" label="009g ZONE D'INFORMATIONS CODEES - ENREGISTREMENTS SONORES"/>
+<option value="009" label="009h ZONE D'INFORMATIONS CODEES - IMAGE ANIMEE"/>
+<option value="009" label="009i ZONE D'INFORMATIONS CODEES - IMAGE FIXE"/>
+<option value="009" label="009m ZONE D'INFORMATIONS CODEES - MICROFORME"/>
+<option value="009" label="009o ZONE D'INFORMATIONS CODEES - OBJETS NUMISMATIQUES"/>
+<option value="009" label="009p Zone d'informations codées - Objet"/>
+<option value="009" label="009s ZONE D'INFORMATIONS CODEES - RESSOURCES ELECTRONIQUES"/>
+<option value="009" label="009t ZONE D'INFORMATIONS CODEES - MANUSCRIT MODERNE OU DOCUMENT D'ARCHIVES"/>
+<option value="009" label="009v ZONE D'INFORMATIONS CODEES - SPECTACLE"/>
 <option value="010" label="010 Sous-type de notice"/>
 <option value="010" label="010$a Code du sous-type de notice"/>
-<option value="015" label="015 Numero de la publication de la notice dans la Bibliographie nationale francaise"/>
-<option value="015" label="015$a Numero de la notice publiee"/>
+<option value="015" label="015 Numéro de la publication de la notice dans la Bibliographie nationale francaise"/>
+<option value="015" label="015$a Numéro de la notice publiée"/>
+<option value="015" label="015$d Date de publication dans la Bibliographie nationale française"/>
+<option value="015" label="015$n Numéro du lot"/>
+<option value="015" label="015$z Précision"/>
 <option value="016" label="016 NUMERO DE VISA"/>
 <option value="016" label="016$a Numero de visa"/>
 <option value="016" label="016$b Qualificatif"/>
@@ -131,6 +149,8 @@ display: none;
 <option value="028" label="028$e Source du numero"/>
 <option value="028" label="028$t Type d'etiquette"/>
 <option value="028" label="028$u Numéro normalisé"/>
+<option value="029" label="029 GRid (Global Release Identifier)"/>
+<option value="029" label="029$a GRid"/>
 <option value="030" label="030 ISRC"/>
 <option value="030" label="030$a ISRC"/>
 <option value="030" label="030$b Qualificatif"/>
@@ -141,21 +161,22 @@ display: none;
 <option value="038" label="038$b Qualificatif"/>
 <option value="040" label="040 PAYS D'EDITION OU DE PRODUCTION"/>
 <option value="040" label="040$a Pays contemporain"/>
+<option value="040" label="040$b Pays non actuel"/>
 <option value="040" label="040$d Entite historique ayant une codification AFNOR (a partir de 1815)"/>
 <option value="040" label="040$m Pays ancien - Occident medieval"/>
 <option value="040" label="040$n Pays ancien - Occident a l'epoque moderne (jusqu'en 1815)"/>
 <option value="040" label="040$o Pays ancien - Orient (jusqu'en 1815)"/>
 <option value="040" label="040$s Pays ancien - Antiquite"/>
-<option value="041" label="041 LANGUES DU DOCUMENT"/>
+<option value="041" label="041 LANGUES DE LA RESSOURCE"/>
 <option value="041" label="041$a Langue du texte"/>
-<option value="041" label="041$b Langue intermediaire"/>
+<option value="041" label="041$b Langue intermédiaire"/>
 <option value="041" label="041$c Langue originale"/>
-<option value="041" label="041$d Langue des resumes"/>
+<option value="041" label="041$d Langue des résumés"/>
 <option value="041" label="041$e Langue des sous-titres"/>
-<option value="041" label="041$f Langue du materiel d'accompagnement"/>
+<option value="041" label="041$f Langue du matériel d'accompagnement"/>
 <option value="041" label="041$g Langue du livret"/>
 <option value="041" label="041$h Langue du commentaire"/>
-<option value="041" label="041$i Langue des parties annexes codées (preface, sommaire, table des matieres)"/>
+<option value="041" label="041$i Langue des parties annexes codées (préface, sommaire, table des matières)"/>
 <option value="042" label="042 DONNEES"/>
 <option value="042" label="042$a Type d'echelle"/>
 <option value="042" label="042$b Échelle horizontale"/>
@@ -195,9 +216,9 @@ display: none;
 <option value="046" label="046 DUREE"/>
 <option value="046" label="046$a Duree totale du document"/>
 <option value="046" label="046$b Duree d'un element contenu dans le document"/>
-<option value="047" label="047 ECRITURES DU DOCUMENT"/>
+<option value="047" label="047 ECRITURES DE LA RESSOURCE"/>
 <option value="047" label="047$a Ecriture relevant de la norme ISO 10646"/>
-<option value="047" label="047$b Autre ecriture"/>
+<option value="047" label="047$b Autre écriture"/>
 <option value="047" label="047$c Transcription des nombres"/>
 <option value="048" label="048 Nombre d'instruments ou de voix"/>
 <option value="048" label="048$a Exécutant ou ensemble"/>
@@ -217,9 +238,9 @@ display: none;
 <option value="072" label="072$a Cadre de classement actuel"/>
 <option value="072" label="072$b Cadre de classement historique"/>
 <option value="078" label="078 Distribution musicale"/>
-<option value="078" label="078$a Exécutant ou ensemble"/>
-<option value="078" label="078$b Soliste"/>
-<option value="078" label="078$c Détail d'un ensemble"/>
+<option value="078" label="078$a Instrument/voix, ensemble, chef, autre exécutant ou dispositif"/>
+<option value="078" label="078$b Soliste (s)"/>
+<option value="078" label="078$c Détail de l'ensemble"/>
 <option value="082" label="082 IDENTIFIANT DE LA SOUS-NOTICE"/>
 <option value="082" label="082$n Localisation de l'element decrit"/>
 <option value="082" label="082$v Numero d'ordre de la sous-notice"/>
@@ -245,45 +266,45 @@ display: none;
 <option value="100" label="100$w Informations codées (10 positions)"/>
 <option value="101" label="101 VEDETTE PRINCIPALE INTERPRETE PERSONNE PHYSIQUE"/>
 <option value="101" label="101$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
-<option value="101" label="101$3 Numero de la notice d'autorite nom de personne liee"/>
+<option value="101" label="101$3 Numéro de la notice d'autorité nom de personne liée"/>
 <option value="101" label="101$4 Code de fonction"/>
-<option value="101" label="101$9 Role d'opéra ou de théâtre"/>
-<option value="101" label="101$a Element d'entree"/>
+<option value="101" label="101$9 Rôle d'opéra ou de théâtre"/>
+<option value="101" label="101$a Elément d'entrée"/>
 <option value="101" label="101$d Dates biographiques"/>
 <option value="101" label="101$e Qualificatif"/>
-<option value="101" label="101$h Numerotation ? sous-zone de transcription"/>
-<option value="101" label="101$m Element(s) du nom rejete(s)"/>
-<option value="101" label="101$u Numerotation ? sous-zone de classement"/>
-<option value="101" label="101$w Informations codees (10 positions)"/>
+<option value="101" label="101$h Numérotation - sous-zone de transcription"/>
+<option value="101" label="101$m Elément(s) du nom rejeté(s)"/>
+<option value="101" label="101$u Numérotation - sous-zone de classement"/>
+<option value="101" label="101$w Informations codées (10 positions)"/>
 <option value="110" label="110 VEDETTE PRINCIPALE AUTEUR COLLECTIVITE"/>
 <option value="110" label="110$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
-<option value="110" label="110$3 Numero de la notice d'autorite collectivite liee"/>
+<option value="110" label="110$3 Numéro de la notice d'autorité collectivité liée"/>
 <option value="110" label="110$4 Code de fonction"/>
 <option value="110" label="110$6 Lien avec une autre zone de la notice"/>
-<option value="110" label="110$7 Complement a la vedette"/>
-<option value="110" label="110$a Element d'entree"/>
+<option value="110" label="110$7 Complément à la vedette"/>
+<option value="110" label="110$a Elément d'entrée"/>
 <option value="110" label="110$b Sous-vedette"/>
 <option value="110" label="110$c Lieu"/>
-<option value="110" label="110$d Annee du congres"/>
-<option value="110" label="110$i Numero du congres"/>
-<option value="110" label="110$j Jour du congres"/>
-<option value="110" label="110$k Mois du congres"/>
-<option value="110" label="110$l Lieu du congres"/>
-<option value="110" label="110$p Element rejete"/>
+<option value="110" label="110$d Année du congrès"/>
+<option value="110" label="110$i Numéro du congrès"/>
+<option value="110" label="110$j Jour du congrès"/>
+<option value="110" label="110$k Mois du congrès"/>
+<option value="110" label="110$l Lieu du congrès"/>
+<option value="110" label="110$p Elément rejeté"/>
 <option value="110" label="110$q Autre qualificatif"/>
-<option value="110" label="110$t Date(s) de l'autorite politique"/>
-<option value="110" label="110$w Informations codees (10 positions)"/>
+<option value="110" label="110$t Date(s) de l'autorité politique"/>
+<option value="110" label="110$w Informations codées (10 positions)"/>
 <option value="111" label="111 VEDETTE PRINCIPALE INTERPRETE COLLECTIVITE"/>
 <option value="111" label="111$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
-<option value="111" label="111$3 Numero de la notice d'autorite collectivite liee"/>
+<option value="111" label="111$3 Numéro de la notice d'autorité collectivité liée"/>
 <option value="111" label="111$4 Code de fonction"/>
-<option value="111" label="111$7 Complement a la vedette"/>
-<option value="111" label="111$9 Role d'opera ou de theatre"/>
-<option value="111" label="111$a Element d'entree"/>
+<option value="111" label="111$7 Complément à la vedette"/>
+<option value="111" label="111$9 Rôle d'opéra ou de théâtre"/>
+<option value="111" label="111$a Elément d'entrée"/>
 <option value="111" label="111$b Sous-vedette"/>
 <option value="111" label="111$c Lieu"/>
 <option value="111" label="111$q Autre qualificatif"/>
-<option value="111" label="111$w Informations codees (10 positions)"/>
+<option value="111" label="111$w Informations codées (10 positions)"/>
 <option value="140" label="140 RUBRIQUE DE CLASSEMENT"/>
 <option value="140" label="140$a Rubrique de classement"/>
 <option value="140" label="140$b Titre de partie ou de subdivision"/>
@@ -294,13 +315,16 @@ display: none;
 <option value="141" label="141 TITRE UNIFORME TEXTUEL"/>
 <option value="141" label="141$3 Numéro de la notice d'autorité titre uniforme textuel liée"/>
 <option value="141" label="141$a Titre uniforme"/>
+<option value="141" label="141$d Date de l'oeuvre"/>
 <option value="141" label="141$e Qualificatif"/>
+<option value="141" label="141$f Forme de l'oeuvre"/>
 <option value="141" label="141$h Numéro de partie - sous-zone de transcription"/>
 <option value="141" label="141$i Titre de partie"/>
 <option value="141" label="141$j Année"/>
 <option value="141" label="141$k Numéro de classement"/>
 <option value="141" label="141$l Mention d'extrait ou d'adaptation"/>
 <option value="141" label="141$m Langue(s) en clair"/>
+<option value="141" label="141$n Date de l'expression"/>
 <option value="141" label="141$o Inversion"/>
 <option value="141" label="141$q Version"/>
 <option value="141" label="141$u Numéro de partie - sous-zone de classement"/>
@@ -357,13 +381,16 @@ display: none;
 <option value="145" label="145$3 Numéro de la notice d'autorité titre conventionnel liée"/>
 <option value="145" label="145$8 Provenance"/>
 <option value="145" label="145$a Titre"/>
+<option value="145" label="145$d Date de l'oeuvre"/>
 <option value="145" label="145$e Qualificatif"/>
+<option value="145" label="145$f Forme de l'oeuvre"/>
 <option value="145" label="145$h Numéro de partie - sous-zone de transcription"/>
 <option value="145" label="145$i Titre de partie"/>
 <option value="145" label="145$j Année"/>
 <option value="145" label="145$k Numéro de classement"/>
 <option value="145" label="145$l Mention d'extrait ou d'adaptation"/>
 <option value="145" label="145$m Langue(s) en clair"/>
+<option value="145" label="145$n Date de l'expression"/>
 <option value="145" label="145$o Inversion"/>
 <option value="145" label="145$q Version"/>
 <option value="145" label="145$u Numéro de partie - sous-zone de classement"/>
@@ -519,12 +546,14 @@ display: none;
 <option value="260" label="260$f Nom d'imprimeur-libraire réel - forme normalisée"/>
 <option value="260" label="260$g Lieu d'édition prétendu ou imaginaire - forme normalisée"/>
 <option value="260" label="260$h Nom d'imprimeur-libraire prétendu ou imaginaire - forme normalisée"/>
+<option value="260" label="260$i Date de copyright"/>
+<option value="260" label="260$j Date de protection"/>
 <option value="260" label="260$n Nom du directeur d'atelier"/>
 <option value="260" label="260$r Adresse entière"/>
 <option value="260" label="260$w Informations codées (10 positions)"/>
-<option value="261" label="261 ADRESSE BIBLIOGRAPHIQUE - DOCUMENTS D'ARCHIVES"/>
+<option value="261" label="261 Adresse bibliographique - Ressources non publiées"/>
 <option value="261" label="261$a Lieu"/>
-<option value="261" label="261$c None"/>
+<option value="261" label="261$c Nom du producteur"/>
 <option value="261" label="261$d Date"/>
 <option value="261" label="261$e Lieu - forme normalisée"/>
 <option value="261" label="261$r Adresse entière"/>
@@ -563,7 +592,7 @@ display: none;
 <option value="270" label="270$h Nom d'imprimeur-libraire pretendu ou imaginaire - forme normalisee"/>
 <option value="270" label="270$r Adresse entiere"/>
 <option value="270" label="270$w Informations codees (10 positions)"/>
-<option value="280" label="280 DESCRIPTION MATERIELLE DU DOCUMENT"/>
+<option value="280" label="280 DESCRIPTION MATERIELLE DE LA RESSOURCE"/>
 <option value="280" label="280$a Indication spécifique du type de document et importance matérielle"/>
 <option value="280" label="280$c Autres caractéristiques matérielles"/>
 <option value="280" label="280$d Format"/>
@@ -573,17 +602,31 @@ display: none;
 <option value="280" label="280$t Tranche d'une monnaie"/>
 <option value="280" label="280$w Informations codées (10 positions)"/>
 <option value="280" label="280$x Axe"/>
-<option value="281" label="281 DESCRIPTION MATERIELLE DU DOCUMENT ORIGINAL (SUPPORT DE CREATION)"/>
-<option value="281" label="281$a Indication specifique du type de document et importance materielle"/>
-<option value="281" label="281$c Autres caracteristiques materielles"/>
+<option value="281" label="281 DESCRIPTION MATERIELLE DE LA RESSOURCE ORIGINALE"/>
+<option value="281" label="281$a Indication spécifique du type de document et importance matérielle"/>
+<option value="281" label="281$c Autres caractéristiques matérielles"/>
 <option value="281" label="281$d Format"/>
-<option value="281" label="281$e Materiel d'accompagnement"/>
+<option value="281" label="281$e Matériel d'accompagnement"/>
+<option value="282" label="282 Importance matérielle"/>
+<option value="282" label="282$a Type d'unités"/>
+<option value="282" label="282$b Type de sous-unités (sans médiation)"/>
+<option value="282" label="282$f Forme"/>
+<option value="282" label="282$i Type de sous-unités (électroniques)"/>
+<option value="282" label="282$k Catégorie"/>
+<option value="282" label="282$l Durée"/>
+<option value="282" label="282$m Nombre d'unités"/>
+<option value="282" label="282$n Nombre de sous-unités"/>
+<option value="282" label="282$p Poids (d'une monnaie, etc.)"/>
+<option value="282" label="282$t Tranche d'une monnaie"/>
+<option value="282" label="282$w Informations codées (10 positions)"/>
+<option value="282" label="282$x Axe"/>
+<option value="282" label="282$z Précision"/>
 <option value="285" label="285 Technique de l'image"/>
 <option value="285" label="285$f Catégorie technique"/>
 <option value="285" label="285$g Matériau du document"/>
 <option value="285" label="285$j Technique [plus précise par rapport à sa catégorie]"/>
 <option value="285" label="285$k Matériau de la matrice"/>
-<option value="286" label="286 MATIERE (OU SUPPORT) DU DOCUMENT"/>
+<option value="286" label="286 MATIERE (OU SUPPORT) DE LA RESSOURCE"/>
 <option value="286" label="286$c Composant d'un alliage"/>
 <option value="286" label="286$f Type de l'objet"/>
 <option value="286" label="286$g Matière (ou support) primaire"/>
@@ -702,12 +745,13 @@ display: none;
 <option value="313" label="313$a Texte"/>
 <option value="313" label="313$k Formule introductive"/>
 <option value="313" label="313$w Informations codées (10 positions)"/>
-<option value="314" label="314 Note sur la réalisation du document"/>
+<option value="314" label="314 Circonstances de la captation"/>
 <option value="314" label="314$a Ville"/>
 <option value="314" label="314$c Lieu"/>
 <option value="314" label="314$d Date"/>
 <option value="314" label="314$i Instrument historique"/>
-<option value="314" label="314$p Pays contemporains"/>
+<option value="314" label="314$p Pays contemporain"/>
+<option value="314" label="314$q Pays non actuel"/>
 <option value="314" label="314$w Informations codées (10 positions)"/>
 <option value="315" label="315 NOTE SUR LA CREATION D'UN SPECTACLE"/>
 <option value="315" label="315$a Ville"/>
@@ -720,9 +764,11 @@ display: none;
 <option value="316" label="316$d Date"/>
 <option value="316" label="316$h Heure"/>
 <option value="316" label="316$p Pays"/>
+<option value="316" label="316$q Pays non actuel"/>
 <option value="317" label="317 NOTE SUR L'HISTORIQUE"/>
-<option value="317" label="317$a Historique de l'o euvre"/>
+<option value="317" label="317$a Historique de l'oeuvre"/>
 <option value="317" label="317$d Provenance archéologique"/>
+<option value="317" label="317$p Prix décerné à l'oeuvre"/>
 <option value="317" label="317$x Lieu"/>
 <option value="319" label="319 NOTE SUR l'EDITION DU TEXTE"/>
 <option value="319" label="319$a Reference sous forme textuelle"/>
@@ -730,6 +776,7 @@ display: none;
 <option value="319" label="319$v Localisation dans l'edition (tome, pages, etc.)"/>
 <option value="321" label="321 NOTE SUR LES BIBLIOGRAPHIES INDEXANT LA PUBLICATION EN SERIE"/>
 <option value="321" label="321$t Titre"/>
+<option value="321" label="321$u URL du titre"/>
 <option value="321" label="321$x ISSN"/>
 <option value="322" label="322 COMPTE-RENDU CRITIQUE"/>
 <option value="322" label="322$a Texte du compte-rendu"/>
@@ -783,7 +830,7 @@ display: none;
 <option value="330" label="330 RESUME"/>
 <option value="330" label="330$a Texte"/>
 <option value="330" label="330$w Informations codées (10 positions)"/>
-<option value="331" label="331 Structure interne du document (ou du recueil)"/>
+<option value="331" label="331 Structure interne de la ressource"/>
 <option value="331" label="331$a Titre de partie"/>
 <option value="331" label="331$d Incipit"/>
 <option value="331" label="331$e Complément du titre de partie"/>
@@ -813,8 +860,10 @@ display: none;
 <option value="340" label="340$a Numérotation"/>
 <option value="340" label="340$d Date"/>
 <option value="340" label="340$u Adresse"/>
-<option value="341" label="341 Dernier numéro reçu au titre du dépôt légal"/>
+<option value="341" label="341 Dernier numéro"/>
 <option value="341" label="341$a Numérotation"/>
+<option value="341" label="341$d Date"/>
+<option value="341" label="341$u Adresse"/>
 <option value="350" label="350 NOTE SUR LE TITRE ET LES MENTIONS DE RESPONSABILITE"/>
 <option value="350" label="350$a Texte"/>
 <option value="350" label="350$w Informations codées (10 positions)"/>
@@ -841,19 +890,16 @@ display: none;
 <option value="357" label="357 NOTE SUR LA DEDICACE"/>
 <option value="357" label="357$a Texte de la note"/>
 <option value="358" label="358 NOTE SUR LE DECOR"/>
-<option value="358" label="358$3 Numero de la notice d'autorite matiere subdivision chronologique liee"/>
 <option value="358" label="358$3 Numero de la notice d'autorite matiere nom geographique liee"/>
 <option value="358" label="358$a Texte de la note"/>
 <option value="358" label="358$c Style ou ecole"/>
 <option value="358" label="358$d Type de decor"/>
 <option value="358" label="358$e Element decoratif"/>
 <option value="358" label="358$g Precision"/>
-<option value="358" label="358$g Precision"/>
 <option value="358" label="358$l Precisions"/>
 <option value="358" label="358$n Localisation dans le document"/>
 <option value="358" label="358$o Inversion"/>
 <option value="358" label="358$s Reste de l'element"/>
-<option value="358" label="358$w Informations codees (10 positions)"/>
 <option value="358" label="358$w Informations codees (10 positions)"/>
 <option value="358" label="358$y Subdivision geographique"/>
 <option value="358" label="358$z Subdivision chronologique"/>
@@ -865,7 +911,7 @@ display: none;
 <option value="359" label="359$r Reste de la zone"/>
 <option value="368" label="368 ANCIENNES NOTICES BIBLIOGRAPHIQUES"/>
 <option value="368" label="368$a Texte de la note"/>
-<option value="369" label="369 Public destinataire indiqué par le document ou par l'éditeur"/>
+<option value="369" label="369 Public destinataire indiqué par la ressource ou par l'éditeur"/>
 <option value="369" label="369$2 Source de la zone (zone rapportée)"/>
 <option value="369" label="369$a Note en texte libre"/>
 <option value="369" label="369$d Âge de début donné simplement par un nombre"/>
@@ -894,7 +940,7 @@ display: none;
 <option value="377" label="377$r Code de région"/>
 <option value="377" label="377$t Débit binaire"/>
 <option value="377" label="377$y ISBN"/>
-<option value="385" label="385 Titre de l'ensemble d'où provient le document"/>
+<option value="385" label="385 Titre de l'ensemble d'où provient la ressource"/>
 <option value="385" label="385$a Titre de l'ensemble concerné"/>
 <option value="385" label="385$b Ville et lieu d'édition (correspond au 260 $a $c / $r)"/>
 <option value="385" label="385$d Date de publication du document"/>
@@ -954,9 +1000,11 @@ display: none;
 <option value="423" label="423$t Titre cle / titre de reference dans le catalogue de la publication en serie"/>
 <option value="423" label="423$x ISSN de la publication en serie"/>
 <option value="430" label="430 ZONE DE LIEN - AUTRE EDITION"/>
-<option value="430" label="430$3 Numéro de la notice liee"/>
-<option value="430" label="430$s Numero commercial de la monographie"/>
-<option value="430" label="430$t Titre et eventuellement premiere mention de responsabilite de la monographie"/>
+<option value="430" label="430$1 EAN d'une autre édition dématérialisée"/>
+<option value="430" label="430$3 Numéro de la notice liée"/>
+<option value="430" label="430$k Précision sur le type de relation"/>
+<option value="430" label="430$s Numéro commercial de la monographie"/>
+<option value="430" label="430$t Titre et éventuellement première mention de responsabilité de la monographie"/>
 <option value="430" label="430$y ISBN de la monographie"/>
 <option value="430" label="430$z ISMN de la monographie"/>
 <option value="431" label="431 Zone de lien - Autre état dans la même catégorie technique"/>
@@ -965,11 +1013,11 @@ display: none;
 <option value="432" label="432 Zone de lien - Édition dans une catégorie technique différente"/>
 <option value="432" label="432$1 Autre numéro devant permettre de retrouver un $3"/>
 <option value="432" label="432$3 Numéro de la notice liée"/>
-<option value="432" label="432$d Indication generale du type de document"/>
-<option value="432" label="432$f Categorie technique"/>
+<option value="432" label="432$d Indication générale du type de document"/>
+<option value="432" label="432$f Catégorie technique"/>
 <option value="432" label="432$k Précision sur le type de relation"/>
-<option value="432" label="432$s Numero commercial de la monographie"/>
-<option value="432" label="432$t Titre et eventuellement premiere mention de responsabilite de la monographie"/>
+<option value="432" label="432$s Numéro commercial de la monographie"/>
+<option value="432" label="432$t Titre et éventuellement première mention de responsabilité de la monographie"/>
 <option value="432" label="432$y ISBN de la monographie"/>
 <option value="432" label="432$z ISMN de la monographie"/>
 <option value="433" label="433 ZONE DE LIEN - A POUR CONTREFACON"/>
@@ -1020,10 +1068,10 @@ display: none;
 <option value="450" label="450$t Titre et éventuellement première mention de responsabilité du recueil"/>
 <option value="450" label="450$v Numéro d'ordre"/>
 <option value="455" label="455 ZONE DE LIEN ENTRE ENSEMBLES FACTICES"/>
-<option value="455" label="455$3 Numero de la notice liee"/>
+<option value="455" label="455$3 Numéro de la notice liée"/>
 <option value="455" label="455$n Localisation dans l'ensemble factice"/>
-<option value="455" label="455$t Titre et eventuellement premiere mention de responsabilite du recueil"/>
-<option value="455" label="455$v Numerotation du sous-ensemble"/>
+<option value="455" label="455$t Titre et éventuellement première mention de responsabilité du recueil"/>
+<option value="455" label="455$v Numérotation du sous-ensemble"/>
 <option value="460" label="460 ZONE DE LIEN - MONOGRAPHIE APPARTENANT A UN ENSEMBLE MONOGRAPHIQUE"/>
 <option value="460" label="460$3 Numero de la notice liee"/>
 <option value="460" label="460$d Date d'edition de la monographie"/>
@@ -1059,10 +1107,10 @@ display: none;
 <option value="470" label="470$v Numérotation du fascicule de périodique"/>
 <option value="470" label="470$x ISSN du périodique"/>
 <option value="480" label="480 ZONE DE LIEN ENTRE DOCUMENTS DE TYPES DIFFERENTS - LIEN ENTRE DEUX NOTICES DE MONOGRAPHIE"/>
-<option value="480" label="480$3 Numero de la notice liee"/>
-<option value="480" label="480$d Indication generale du type de document"/>
+<option value="480" label="480$3 Numéro de la notice liée"/>
+<option value="480" label="480$d Indication générale du type de document"/>
 <option value="480" label="480$r Formule explicative"/>
-<option value="480" label="480$t Titre et eventuellement premiere mention de responsabilite de la monographie"/>
+<option value="480" label="480$t Titre et éventuellement première mention de responsabilité de la monographie"/>
 <option value="480" label="480$v Localisation"/>
 <option value="480" label="480$y ISBN de la monographie"/>
 <option value="480" label="480$z ISMN de la monographie"/>
@@ -1131,7 +1179,7 @@ display: none;
 <option value="489" label="489$v Localisation"/>
 <option value="489" label="489$y ISBN de la monographie"/>
 <option value="489" label="489$z ISMN de la monographie"/>
-<option value="490" label="490 Zone de lien entre documents de type différent : MON dépouillant une autre MON"/>
+<option value="490" label="490 Zone de lien entre MON : MON dépouillant une autre MON"/>
 <option value="490" label="490$3 Numéro de la notice bibliographique liée"/>
 <option value="490" label="490$t Report de forme : titre de la monographie liée"/>
 <option value="490" label="490$v Numéro d'ordre"/>
@@ -1263,7 +1311,11 @@ display: none;
 <option value="601" label="601$3z Numero de la notice d'autorite matiere subdivision chronologique liee (168)"/>
 <option value="601" label="601$7 Complement a la vedette"/>
 <option value="601" label="601$a Titre uniforme"/>
+<option value="601" label="601$d Date de l'oeuvre"/>
+<option value="601" label="601$dx $dx date pour report"/>
 <option value="601" label="601$e Qualificatif"/>
+<option value="601" label="601$f Forme de l'oeuvre"/>
+<option value="601" label="601$fx $fx Forme pour report"/>
 <option value="601" label="601$g Precision"/>
 <option value="601" label="601$gx Precision"/>
 <option value="601" label="601$gy Precision"/>
@@ -1321,6 +1373,7 @@ display: none;
 <option value="603" label="603$a Titre de l'oeuvre anonyme"/>
 <option value="603" label="603$b Distribution musicale (en clair)"/>
 <option value="603" label="603$c Titre original de l'oeuvre adaptée"/>
+<option value="603" label="603$d Date de l'o euvre"/>
 <option value="603" label="603$e Qualificatif"/>
 <option value="603" label="603$f Langue (en clair)"/>
 <option value="603" label="603$g Auteur du thème adapté / Précision"/>
@@ -1331,7 +1384,6 @@ display: none;
 <option value="603" label="603$i Titre de partie"/>
 <option value="603" label="603$j Année"/>
 <option value="603" label="603$k Numéro de catalogue thématique"/>
-<option value="603" label="603$n Localisation dans le document"/>
 <option value="603" label="603$n Numéro d'ordre"/>
 <option value="603" label="603$o Inversion"/>
 <option value="603" label="603$ox Inversion"/>
@@ -1403,7 +1455,10 @@ display: none;
 <option value="605" label="605$b Sous-vedette"/>
 <option value="605" label="605$c Lieu"/>
 <option value="605" label="605$d Date (dates biographiques d'une personne / annee d'un congres)"/>
+<option value="605" label="605$dx $dx Date dans report"/>
 <option value="605" label="605$e Qualificatif"/>
+<option value="605" label="605$f Forme"/>
+<option value="605" label="605$fx $fx Forme dans report"/>
 <option value="605" label="605$g Precision"/>
 <option value="605" label="605$gx Precision"/>
 <option value="605" label="605$gy Precision"/>
@@ -1486,6 +1541,33 @@ display: none;
 <option value="607" label="607$z Subdivision chronologique"/>
 <option value="607" label="607$zx Subdivision chronologique"/>
 <option value="607" label="607$zz Subdivision chronologique"/>
+<option value="608" label="608 Vedette de genre, forme et fonction"/>
+<option value="608" label="608$3 Numéro de la notice d'autorité matière nom commun liée (166)"/>
+<option value="608" label="608$3x Numéro de la notice d'autorité matière nom commun genre forme liée (166)"/>
+<option value="608" label="608$3y Numéro de la notice d'autorité matière nom géographique liée (167)"/>
+<option value="608" label="608$3z Numéro de la notice d'autorité matière subdivision chronologique liée (168)"/>
+<option value="608" label="608$7 Complément à la vedette"/>
+<option value="608" label="608$a Elément d'entrée"/>
+<option value="608" label="608$b Sous-vedette"/>
+<option value="608" label="608$g Précision"/>
+<option value="608" label="608$gx Précision"/>
+<option value="608" label="608$gy Précision"/>
+<option value="608" label="608$gz Précision"/>
+<option value="608" label="608$n Localisation dans le document"/>
+<option value="608" label="608$o Inversion"/>
+<option value="608" label="608$ox Inversion"/>
+<option value="608" label="608$oy Inversion"/>
+<option value="608" label="608$s Reste de l'élément"/>
+<option value="608" label="608$sx Reste de l'élément"/>
+<option value="608" label="608$sy Reste de l'élément"/>
+<option value="608" label="608$x Subdivision de sujet ou de forme"/>
+<option value="608" label="608$xx Subdivision de forme"/>
+<option value="608" label="608$xy Subdivision de forme"/>
+<option value="608" label="608$y Subdivision géographique"/>
+<option value="608" label="608$yy Subdivision géographique"/>
+<option value="608" label="608$z Subdivision chronologique"/>
+<option value="608" label="608$zx Subdivision chronologique"/>
+<option value="608" label="608$zz Subdivision chronologique"/>
 <option value="609" label="609 VEDETTE MATIERE MARQUE"/>
 <option value="609" label="609$3 Numéro de la notice d'autorité marque liée (123)"/>
 <option value="609" label="609$3x Numero de la notice d'autorite matiere nom commun liee (166)"/>
@@ -1654,10 +1736,12 @@ display: none;
 <option value="675" label="675$v Edition de la table utilisee"/>
 <option value="676" label="676 INDICE DEWEY (CDD)"/>
 <option value="676" label="676$2 Source de la zone"/>
-<option value="676" label="676$3 Numero de la notice d'autorite indice Dewey liee"/>
-<option value="676" label="676$g Precision"/>
+<option value="676" label="676$3 Numéro de la notice d'autorité indice Dewey liée"/>
+<option value="676" label="676$a Libellé"/>
+<option value="676" label="676$g Précision"/>
 <option value="676" label="676$i Indice"/>
-<option value="676" label="676$v Reference de la table utilisee"/>
+<option value="676" label="676$o Inversion"/>
+<option value="676" label="676$v Référence de la table utilisée"/>
 <option value="680" label="680 CADRE DE CLASSEMENT"/>
 <option value="680" label="680$a Indice de classement"/>
 <option value="680" label="680$b BNF - Livres"/>
@@ -1667,6 +1751,10 @@ display: none;
 <option value="680" label="680$f BNF - Cartographie"/>
 <option value="680" label="680$g BNF - Documents audiovisuels"/>
 <option value="680" label="680$h BNF - Ressources continues en ligne avec ISSN"/>
+<option value="680" label="680$i BNF - Livres - 1970-1984"/>
+<option value="680" label="680$j BNF - Livres - 1985-2001"/>
+<option value="680" label="680$k BNF - Publications en série - 2012-2019"/>
+<option value="680" label="680$l BNF - Documents audiovisuels - Jusqu'en 2019"/>
 <option value="681" label="681 INDICE DE L'HISTOIRE DE FRANCE"/>
 <option value="681" label="681$3 Numero de la notice d'autorite nom de personne liee"/>
 <option value="681" label="681$a Nom de personne"/>
@@ -1734,18 +1822,18 @@ display: none;
 <option value="701" label="701 VEDETTE SECONDAIRE INTERPRETE PERSONNE PHYSIQUE"/>
 <option value="701" label="701$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
 <option value="701" label="701$2 Conversion $1 de la source CRA"/>
-<option value="701" label="701$3 Numero de la notice d'autorite nom de personne liee"/>
+<option value="701" label="701$3 Numéro de la notice d'autorité nom de personne liée"/>
 <option value="701" label="701$4 Code de fonction"/>
-<option value="701" label="701$7 Complement a la vedette"/>
-<option value="701" label="701$9 Role d'opera ou de theatre"/>
-<option value="701" label="701$a Element d'entree"/>
+<option value="701" label="701$7 Complément à la vedette"/>
+<option value="701" label="701$9 Rôle d'opéra ou de théâtre"/>
+<option value="701" label="701$a Elément d'entrée"/>
 <option value="701" label="701$d Dates biographiques"/>
 <option value="701" label="701$e Qualificatif"/>
-<option value="701" label="701$h Numerotation ?sous-zone de transcription"/>
+<option value="701" label="701$h Numérotation - sous-zone de transcription"/>
 <option value="701" label="701$i Reste de la zone"/>
-<option value="701" label="701$m Element(s) du nom rejete(s)"/>
-<option value="701" label="701$u Numerotation ? sous-zone de classement"/>
-<option value="701" label="701$w Informations codees (10 positions)"/>
+<option value="701" label="701$m Elément(s) du nom rejeté(s)"/>
+<option value="701" label="701$u Numérotation - sous-zone de classement"/>
+<option value="701" label="701$w Informations codées (10 positions)"/>
 <option value="702" label="702 VEDETTE SECONDAIRE COLLABORATEUR TECHNICO-ARTISTIQUE PERSONNE PHYSIQUE"/>
 <option value="702" label="702$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
 <option value="702" label="702$3 Numéro de la notice d'autorité nom de personne liée"/>
@@ -1812,16 +1900,16 @@ display: none;
 <option value="711" label="711 VEDETTE SECONDAIRE INTERPRETE COLLECTIVITE"/>
 <option value="711" label="711$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
 <option value="711" label="711$2 Conversion $1 de la source CRA"/>
-<option value="711" label="711$3 Numero de la notice d'autorite collectivite liee"/>
+<option value="711" label="711$3 Numéro de la notice d'autorité collectivité liée"/>
 <option value="711" label="711$4 Code de fonction"/>
-<option value="711" label="711$7 Complement a la vedette"/>
-<option value="711" label="711$9 Role d'opera ou de theatre"/>
-<option value="711" label="711$a Element d'entree"/>
+<option value="711" label="711$7 Complément à la vedette"/>
+<option value="711" label="711$9 Rôle d'opéra ou de théâtre"/>
+<option value="711" label="711$a Elément d'entrée"/>
 <option value="711" label="711$b Sous-vedette"/>
 <option value="711" label="711$c Lieu"/>
-<option value="711" label="711$p Element rejete"/>
+<option value="711" label="711$p Elément rejeté"/>
 <option value="711" label="711$q Autre qualificatif"/>
-<option value="711" label="711$w Informations codees (10 positions)"/>
+<option value="711" label="711$w Informations codées (10 positions)"/>
 <option value="712" label="712 VEDETTE SECONDAIRE COLLABORATEUR TECHNICO-ARTISTIQUE COLLECTIVITE"/>
 <option value="712" label="712$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
 <option value="712" label="712$3 Numéro de la notice d'autorité collectivité liée"/>
@@ -1887,19 +1975,19 @@ display: none;
 <option value="721" label="721$r Reste de la zone"/>
 <option value="721" label="721$u Numerotation ? sous-zone de classement"/>
 <option value="721" label="721$w Informations codees (10 positions)"/>
-<option value="722" label="722 PRODUCTEUR DE DOCUMENTS SONORES PERSONNE PHYSIQUE"/>
+<option value="722" label="722 PRODUCTEUR PHONOGRAPHIQUE PERSONNE PHYSIQUE"/>
 <option value="722" label="722$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
-<option value="722" label="722$3 Numero de la notice d'autorite nom de personne liee"/>
+<option value="722" label="722$3 Numéro de la notice d'autorité nom de personne liée"/>
 <option value="722" label="722$4 Code de fonction"/>
-<option value="722" label="722$7 Complement a la vedette"/>
-<option value="722" label="722$a Element d'entree"/>
+<option value="722" label="722$7 Complément à la vedette"/>
+<option value="722" label="722$a Elément d'entrée"/>
 <option value="722" label="722$d Dates biographiques"/>
 <option value="722" label="722$e Qualificatif"/>
-<option value="722" label="722$h Numerotation ?sous-zone de transcription"/>
-<option value="722" label="722$m Element(s) du nom rejete(s)"/>
+<option value="722" label="722$h Numérotation - sous-zone de transcription"/>
+<option value="722" label="722$m Elément(s) du nom rejeté(s)"/>
 <option value="722" label="722$r Reste de la zone"/>
-<option value="722" label="722$u Numerotation ? sous-zone de classement"/>
-<option value="722" label="722$w Informations codees (10 positions)"/>
+<option value="722" label="722$u Numérotation - sous-zone de classement"/>
+<option value="722" label="722$w Informations codées (10 positions)"/>
 <option value="723" label="723 MARQUE"/>
 <option value="723" label="723$3 Numero de la notice d'autorite marque liee"/>
 <option value="723" label="723$a Marque"/>
@@ -1920,19 +2008,19 @@ display: none;
 <option value="725" label="725$r Reste de la zone"/>
 <option value="725" label="725$u Numerotation ? sous-zone de classement"/>
 <option value="725" label="725$w Informations codees (10 positions)"/>
-<option value="726" label="726 PRODUCTEUR DE DOCUMENTS AUDIO-VISUELS PERSONNE PHYSIQUE"/>
+<option value="726" label="726 PRODUCTEUR AUDIOVISUEL PERSONNE PHYSIQUE"/>
 <option value="726" label="726$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
-<option value="726" label="726$3 Numero de la notice d'autorite nom de personne liee"/>
+<option value="726" label="726$3 Numéro de la notice d'autorité nom de personne liée"/>
 <option value="726" label="726$4 Code de fonction"/>
-<option value="726" label="726$7 Complement a la vedette"/>
-<option value="726" label="726$a Element d'entree"/>
+<option value="726" label="726$7 Complément à la vedette"/>
+<option value="726" label="726$a Elément d'entrée"/>
 <option value="726" label="726$d Dates biographiques"/>
 <option value="726" label="726$e Qualificatif"/>
-<option value="726" label="726$h Numerotation ?sous-zone de transcription"/>
-<option value="726" label="726$m Element(s) du nom rejete(s)"/>
+<option value="726" label="726$h Numérotation - sous-zone de transcription"/>
+<option value="726" label="726$m Elément(s) du nom rejeté(s)"/>
 <option value="726" label="726$r Reste de la zone"/>
-<option value="726" label="726$u Numerotation ? sous-zone de classement"/>
-<option value="726" label="726$w Informations codees (10 positions)"/>
+<option value="726" label="726$u Numérotation - sous-zone de classement"/>
+<option value="726" label="726$w Informations codées (10 positions)"/>
 <option value="727" label="727 FABRICANT (OU PRESTATAIRE) PERSONNE PHYSIQUE"/>
 <option value="727" label="727$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
 <option value="727" label="727$3 Numero de la notice d'autorite nom de personne liee"/>
@@ -1969,17 +2057,17 @@ display: none;
 <option value="731" label="731$p Element rejete"/>
 <option value="731" label="731$q Autre qualificatif"/>
 <option value="731" label="731$w Informations codées (10 positions)"/>
-<option value="732" label="732 PRODUCTEUR DE DOCUMENTS SONORES COLLECTIVITE"/>
+<option value="732" label="732 PRODUCTEUR PHONOGRAPHIQUE COLLECTIVITE"/>
 <option value="732" label="732$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
-<option value="732" label="732$3 Numero de la notice d'autorite collectivite liee"/>
+<option value="732" label="732$3 Numéro de la notice d'autorité collectivité liée"/>
 <option value="732" label="732$4 Code de fonction"/>
-<option value="732" label="732$7 Complement a la vedette"/>
-<option value="732" label="732$a Element d'entree"/>
+<option value="732" label="732$7 Complément à la vedette"/>
+<option value="732" label="732$a Elément d'entrée"/>
 <option value="732" label="732$b Sous-vedette"/>
 <option value="732" label="732$c Lieu"/>
-<option value="732" label="732$p Element rejete"/>
+<option value="732" label="732$p Elément rejeté"/>
 <option value="732" label="732$q Autre qualificatif"/>
-<option value="732" label="732$w Informations codees (10 positions)"/>
+<option value="732" label="732$w Informations codées (10 positions)"/>
 <option value="735" label="735 PRODUCTEUR COLLECTIVITE"/>
 <option value="735" label="735$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
 <option value="735" label="735$3 Numero de la notice d'autorite collectivite liee"/>
@@ -1991,17 +2079,17 @@ display: none;
 <option value="735" label="735$p Element rejete"/>
 <option value="735" label="735$q Autre qualificatif"/>
 <option value="735" label="735$w Informations codees (10 positions)"/>
-<option value="736" label="736 PRODUCTEUR DE DOCUMENTS AUDIO-VISUELS COLLECTIVITE"/>
+<option value="736" label="736 PRODUCTEUR AUDIOVISUEL COLLECTIVITE"/>
 <option value="736" label="736$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
-<option value="736" label="736$3 Numero de la notice d'autorite collectivite liee"/>
+<option value="736" label="736$3 Numéro de la notice d'autorité collectivité liée"/>
 <option value="736" label="736$4 Code de fonction"/>
-<option value="736" label="736$7 Complement a la vedette"/>
-<option value="736" label="736$a Element d'entree"/>
+<option value="736" label="736$7 Complément à la vedette"/>
+<option value="736" label="736$a Elément d'entrée"/>
 <option value="736" label="736$b Sous-vedette"/>
 <option value="736" label="736$c Lieu"/>
-<option value="736" label="736$p Element rejete"/>
+<option value="736" label="736$p Elément rejeté"/>
 <option value="736" label="736$q Autre qualificatif"/>
-<option value="736" label="736$w Informations codees (10 positions)"/>
+<option value="736" label="736$w Informations codées (10 positions)"/>
 <option value="737" label="737 FABRICANT (OU PRESTATAIRE) COLLECTIVITE"/>
 <option value="737" label="737$1 Autre numéro attribué à l'entité (numéro de notice dans une ancienne base, ISNI, etc.)"/>
 <option value="737" label="737$3 Numero de la notice d'autorite collectivite liee"/>
@@ -2014,18 +2102,21 @@ display: none;
 <option value="737" label="737$q Autre qualificatif"/>
 <option value="737" label="737$w Informations codees (10 positions)"/>
 <option value="741" label="741 VEDETTE SECONDAIRE TITRE UNIFORME TEXTUEL"/>
-<option value="741" label="741$3 Numero de la notice d'autorite titre uniforme textuel liee"/>
+<option value="741" label="741$3 Numéro de la notice d'autorité titre uniforme textuel liée"/>
 <option value="741" label="741$a Titre uniforme"/>
+<option value="741" label="741$d Date de l'oeuvre"/>
 <option value="741" label="741$e Qualificatif"/>
-<option value="741" label="741$h Numero de partie - sous-zone de transcription"/>
+<option value="741" label="741$f Forme de l'oeuvre"/>
+<option value="741" label="741$h Numéro de partie - sous-zone de transcription"/>
 <option value="741" label="741$i Titre de partie"/>
-<option value="741" label="741$j Annee"/>
+<option value="741" label="741$j Année"/>
 <option value="741" label="741$l Mention d'extrait ou d'adaptation"/>
 <option value="741" label="741$m Langue(s) en clair"/>
+<option value="741" label="741$n Date de l'expression"/>
 <option value="741" label="741$o Inversion"/>
 <option value="741" label="741$q Version"/>
-<option value="741" label="741$u Numero de partie - sous-zone de classement"/>
-<option value="741" label="741$w Informations codees (10 positions)"/>
+<option value="741" label="741$u Numéro de partie - sous-zone de classement"/>
+<option value="741" label="741$w Informations codées (10 positions)"/>
 <option value="743" label="743 VEDETTE SECONDAIRE TITRE DE FORME"/>
 <option value="743" label="743$3 Numero de la notice d'autorite nom de personne ou collectivite liee"/>
 <option value="743" label="743$a Titre de forme"/>
@@ -2073,12 +2164,15 @@ display: none;
 <option value="745" label="745$3 Numero de la notice d'autorite liee"/>
 <option value="745" label="745$8 Provenance"/>
 <option value="745" label="745$a Titre"/>
+<option value="745" label="745$d Date de l'oeuvre"/>
 <option value="745" label="745$e Qualificatif"/>
+<option value="745" label="745$f Forme de l'oeuvre"/>
 <option value="745" label="745$h Numero de partie - sous-zone de transcription"/>
 <option value="745" label="745$i Titre de partie"/>
 <option value="745" label="745$j Annee"/>
 <option value="745" label="745$l Mention d'extrait ou d'adaptation"/>
 <option value="745" label="745$m Langue(s) en clair"/>
+<option value="745" label="745$n Date de l'expression"/>
 <option value="745" label="745$o Inversion"/>
 <option value="745" label="745$q Version"/>
 <option value="745" label="745$u Numero de partie - sous-zone de classement"/>
@@ -2094,7 +2188,7 @@ display: none;
 <option value="749" label="749 TITRE D'UN VOLUME D'UNE MONOGRAPHIE EN PLUSIEURS VOLUMES"/>
 <option value="749" label="749$a Titre du volume"/>
 <option value="749" label="749$w Informations codées (10 positions)"/>
-<option value="750" label="750 Variante du titre du document"/>
+<option value="750" label="750 Variante du titre de la ressource"/>
 <option value="750" label="750$a Titre"/>
 <option value="750" label="750$b Eléments additionnels"/>
 <option value="750" label="750$e Complément du titre"/>
@@ -2206,6 +2300,19 @@ display: none;
 <option value="796" label="796$d Report : 260 ou 261 $c$d$r"/>
 <option value="796" label="796$e Report : 250 $a ou $z"/>
 <option value="796" label="796$k Formule introductive"/>
+<option value="821" label="821 ZONE DE LIEN HIERARCHIQUE AVEC UNE SOUS-NOTICE - LIEN D'UNE SOUS-NOTICE ANALYTIQUE VERS UNE NOTICE DE MONOGRAPHIE"/>
+<option value="821" label="821$3 Numero de la notice liee"/>
+<option value="823" label="823 ZONE DE LIEN HIERARCHIQUE AVEC UNE SOUS-NOTICE - LIEN D'UNE NOTICE DE MONOGRAPHIE VERS UNE SOUS-NOTICE ANALYTIQUE"/>
+<option value="823" label="823$3 Numero de la notice liee"/>
+<option value="823" label="823$n Localisation de l'element faisant l'objet de la sous-notice"/>
+<option value="825" label="825 ZONE DE LIEN HIERARCHIQUE AVEC UNE SOUS-NOTICE -ZONE DE LIEN ENTRE SOUS-NOTICES ANALYTIQUES"/>
+<option value="825" label="825$3 Numero de la sous-notice liee"/>
+<option value="825" label="825$n Localisation de l'element faisant l'objet de la sous-notice"/>
+<option value="826" label="826 ZONE DE LIEN HIERARCHIQUE AVEC UNE SOUS-NOTICE - LIEN D'UNE SOUS-NOTICE ANALYTIQUE VERS UNE NOTICE DE RECUEIL"/>
+<option value="826" label="826$3 Numero de la notice liee"/>
+<option value="828" label="828 ZONE DE LIEN HIERARCHIQUE AVEC UNE SOUS-NOTICE - LIEN D'UNE NOTICE DE RECUEIL VERS UNE SOUS-NOTICE ANALYTIQUE"/>
+<option value="828" label="828$3 Numero de la notice liee"/>
+<option value="828" label="828$n Localisation de l'element faisant l'objet de la sous-notice"/>
 <option value="829" label="829 Tables des matières"/>
 <option value="829" label="829$a Table des matières non structurée"/>
 <option value="829" label="829$f Mention de responsabilité"/>
@@ -2239,9 +2346,12 @@ display: none;
 <option value="856" label="856$f Format de diffusion (cf. zone 306)"/>
 <option value="856" label="856$m Conditions d'accès aux données (cf. zone 338)"/>
 <option value="856" label="856$n Note précisant les conditions d'accès (cf. zone 300)"/>
+<option value="856" label="856$q Qualificatif de l'URL"/>
 <option value="856" label="856$u URL (Uniform Resource Locator)"/>
 <option value="856" label="856$x Codage ROAD (Répertoire des ressources scientifiques et universitaires en libre accès)"/>
 <option value="856" label="856$z Date où l'invalidité a été constatée"/>
+<option value="857" label="857 Adresse éléctronique d'archivage"/>
+<option value="857" label="857$u URL"/>
 <option value="890" label="890 Note biographique (ZONE DE STOCKAGE DE DONNEES)"/>
 <option value="890" label="890$2 Source de la zone"/>
 <option value="890" label="890$a Données sur la personne"/>
@@ -2253,8 +2363,13 @@ display: none;
 <option value="900" label="900$m Element(s) du nom rejete(s)"/>
 <option value="901" label="901 VEDETTE PRINCIPALE  AUTEUR PERSONNE PHYSIQUE  (ZONE DE STOCKAGE MIGRATION)"/>
 <option value="901" label="901$z Contenu de l'etiquette stockee (1XX)"/>
+<option value="905" label="905 Motif de non attribution d'ISSN"/>
+<option value="905" label="905$a Code du motif de non attribution d'ISSN"/>
+<option value="905" label="905$n Précision sur le motif de non attribution"/>
 <option value="907" label="907 VEDETTE SECONDAIRE  AUTEUR PERSONNE PHYSIQUE  (ZONE DE STOCKAGE MIGRATION)"/>
-<option value="907" label="907$z Contenu de l'etiquette stockee (7XX)"/>
+<option value="907" label="907$4 Fonction codée"/>
+<option value="907" label="907$a Nom non structuré"/>
+<option value="907" label="907$z Contenu de l'étiquette stockée (7XX)"/>
 <option value="908" label="908 Adresse électronique de l'éditeur"/>
 <option value="908" label="908$b Caractéristiques du publipostage"/>
 <option value="908" label="908$d Date de saisie de l'adresse électronique"/>
@@ -2318,12 +2433,13 @@ display: none;
 <option value="934" label="934 Exemplaire hors BnF (note à afficher)"/>
 <option value="934" label="934$a Cote"/>
 <option value="934" label="934$b Qualificatif"/>
-<option value="934" label="934$c Établissement"/>
+<option value="934" label="934$c Établissement associé à un référentiel (RLR)"/>
 <option value="934" label="934$d Département, section"/>
 <option value="934" label="934$e État de la collection (pour un périodique)"/>
 <option value="934" label="934$f Particularités de l'exemplaire"/>
 <option value="934" label="934$i Microfilm de consultation dans l'établissement"/>
 <option value="934" label="934$j Date de consultation de l'adresse URL"/>
+<option value="934" label="934$p Etablissement partenaire (sans référentiel)"/>
 <option value="934" label="934$u Adresse URL de l'édition numérisée"/>
 <option value="934" label="934$v Mode d'entrée dans l'établissement"/>
 <option value="936" label="936 NUMERO ET/OU MODE D'ENTREE"/>
@@ -2358,6 +2474,17 @@ display: none;
 <option value="991" label="991$a Intitulé du chantier"/>
 <option value="991" label="991$b Sous-chantier"/>
 <option value="991" label="991$d Date de la correction (forme AAAAMMJJ)"/>
+<option value="995" label="995 DONNEES DE GESTION - RESERVEE AU DSI"/>
+<option value="995" label="995$a Degre (ou niveau) de la notice"/>
+<option value="995" label="995$b Code de la section"/>
+<option value="995" label="995$c Nom de la section"/>
+<option value="995" label="995$d Date de premiere validation de la notice"/>
+<option value="995" label="995$e Date de creation de la notice"/>
+<option value="995" label="995$f Code du catalogueur createur de la notice"/>
+<option value="995" label="995$g Nom du catalogueur createur de la notice"/>
+<option value="995" label="995$h Date de derniere mise a jour de la notice"/>
+<option value="995" label="995$i Code du catalogueur ayant modifie la notice"/>
+<option value="995" label="995$j Nom du catalogueur ayant modifie la notice"/>
 <option value="996" label="996 Numéro de la notice fusionnée au sein de BnF catalogue général"/>
 <option value="996" label="996$a Numéro dans la source"/>
 <option value="996" label="996$d Date de la fusion (forme AAAAMMJJ)"/>
@@ -2401,6 +2528,8 @@ display: none;
 <option value="999" label="999$x Étiquette de la source / sous-zone $x de la source"/>
 <option value="999" label="999$y Sous-zone $y de la source"/>
 <option value="999" label="999$z Sous-zone $z de la source"/>
+<option value="WWW" label="WWW Zone fictive"/>
+<option value="WWW" label="WWW$w Sous-zone $w de reference"/>
 </datalist>
 <input type="submit" value="Ouvrir la page" id="acces_rim_b" class="acces_rim"/>
 </form>
@@ -2452,6 +2581,10 @@ display: none;
 <input type="search" name="etiquetteZone" list="intermarcA" placeholder="Format Intermarc Autorités : Indiquer une zone ou un libellé" size="60">
 
 <datalist id="intermarcA">
+<option value="000" label="000 Guide"/>
+<option value="001" label="001 Numéro d'identification de la notice"/>
+<option value="003" label="003 URL pérenne"/>
+<option value="008" label="008 Zone d'informations générales codées"/>
 <option value="017" label="017 Numéro de notice dans un système extérieur"/>
 <option value="017" label="017$a Numéro de la notice dans le système extérieur"/>
 <option value="017" label="017$b Numéro supprimé ou invalide"/>
@@ -2466,12 +2599,13 @@ display: none;
 <option value="031" label="031$a ISNI"/>
 <option value="031" label="031$d Date (forme AAAAMMJJ)"/>
 <option value="031" label="031$e ISNI erroné"/>
-<option value="031" label="031$z ISNI annulé"/>
+<option value="031" label="031$z ISNI obsolète"/>
 <option value="032" label="032 ISAN"/>
 <option value="032" label="032$a ISAN"/>
 <option value="032" label="032$b Qualificatif"/>
 <option value="040" label="040 Pays"/>
 <option value="040" label="040$a Pays contemporain"/>
+<option value="040" label="040$b Pays non actuel"/>
 <option value="040" label="040$d Entité historique ayant une codification AFNOR (à partir de 1815)"/>
 <option value="040" label="040$m Pays ancien - Occident médiéval"/>
 <option value="040" label="040$n Pays ancien - Occident à l'époque moderne (jusqu'en 1815)"/>
@@ -2486,11 +2620,12 @@ display: none;
 <option value="042" label="042$e Longitude Est"/>
 <option value="042" label="042$f Latitude Nord"/>
 <option value="042" label="042$g Latitude Sud"/>
-<option value="043" label="043 Précisions sur le titre"/>
-<option value="043" label="043$a Nature de l'o euvre"/>
-<option value="043" label="043$b Précision sur la nature de l'o euvre"/>
-<option value="043" label="043$c O euvres et expressions académiques"/>
+<option value="043" label="043 Catégorie de l'oeuvre"/>
+<option value="043" label="043$a Nature de l'oeuvre"/>
+<option value="043" label="043$b Précision sur la nature de l'oeuvre"/>
+<option value="043" label="043$c Oeuvres académiques"/>
 <option value="043" label="043$g Niveau de granularité"/>
+<option value="043" label="043$o Catégorie de l'oeuvre - nouvelle version"/>
 <option value="045" label="045 Activités"/>
 <option value="045" label="045$a Responsabilité intellectuelle ou artistique"/>
 <option value="045" label="045$c Responsabilité commerciale"/>
@@ -2498,10 +2633,50 @@ display: none;
 <option value="048" label="048 Distribution musicale"/>
 <option value="048" label="048$a Exécutant ou ensemble"/>
 <option value="048" label="048$b Soliste"/>
-<option value="050" label="050 Nature de l'identité publique"/>
-<option value="050" label="050$a Nature de l'indentité publique"/>
+<option value="049" label="049 Genre, forme et fonction"/>
+<option value="049" label="049$j Genre, forme ou fonction"/>
+<option value="049" label="049$k Précision sur genre, forme ou fonction"/>
 <option value="051" label="051 Précision codée"/>
 <option value="051" label="051$a Mort pour la France ?"/>
+<option value="060" label="060 O euvres textuelles : forme ou genre"/>
+<option value="060" label="060$a Domaine de l'o euvre"/>
+<option value="060" label="060$b Fonction de l'o euvre"/>
+<option value="060" label="060$c O euvre littéraire : forme ou genre"/>
+<option value="060" label="060$d Public destinataire"/>
+<option value="060" label="060$e O euvre juridique : forme ou genre"/>
+<option value="060" label="060$f O euvre religieuse : forme ou genre"/>
+<option value="060" label="060$g Contexte religieux"/>
+<option value="061" label="061 Oeuvres audiovisuelles : forme ou genre"/>
+<option value="061" label="061$a Forme de l'oeuvre"/>
+<option value="061" label="061$b Film ou téléfilm : genre général"/>
+<option value="061" label="061$c Film ou téléfilm de fiction : genre précis"/>
+<option value="061" label="061$d Emission télévisée : genre général"/>
+<option value="061" label="061$e Emission télévisée : genre précis"/>
+<option value="061" label="061$f Série télévisée : genre général"/>
+<option value="061" label="061$g Série télévisée : genre précis"/>
+<option value="061" label="061$h Emission radiophonique : genre précis"/>
+<option value="061" label="061$i Série radiophonique : genre précis"/>
+<option value="061" label="061$j Captation sonore : forme ou genre"/>
+<option value="061" label="061$k Métrage"/>
+<option value="061" label="061$l Catégorie technique"/>
+<option value="061" label="061$m Public destinaire"/>
+<option value="062" label="062 Oeuvres logicielles ou multimédia : forme ou genre"/>
+<option value="062" label="062$a Forme de l'oeuvre"/>
+<option value="062" label="062$b Jeu vidéo : genre précis"/>
+<option value="062" label="062$c Logiciels : genre précis"/>
+<option value="063" label="063 Oeuvres des beaux-arts et des arts décoratifs : forme ou genre"/>
+<option value="063" label="063$a Domaine de l'oeuvre"/>
+<option value="063" label="063$b Genre iconographique"/>
+<option value="064" label="064 Oeuvres iconographiques : forme ou genre"/>
+<option value="064" label="064$a Domaine de l'oeuvre"/>
+<option value="064" label="064$b Genre iconographique"/>
+<option value="064" label="064$c Fonction de l'oeuvre"/>
+<option value="065" label="065 O euvres mixtes : forme ou genre"/>
+<option value="065" label="065$a O euvre mixte : genre général"/>
+<option value="065" label="065$b Domaine de l'o euvre"/>
+<option value="065" label="065$c Fonction de l'o euvre"/>
+<option value="065" label="065$d Genre littéraire"/>
+<option value="065" label="065$e Public destinataire"/>
 <option value="072" label="072 Cadre de classement géographique"/>
 <option value="072" label="072$a Cadre de classement"/>
 <option value="072" label="072$b Cadre de classement historique"/>
@@ -2540,7 +2715,9 @@ display: none;
 <option value="123" label="123$w Informations codées (10 caractères)"/>
 <option value="141" label="141 Titre uniforme textuel - forme retenue"/>
 <option value="141" label="141$a Titre uniforme"/>
+<option value="141" label="141$d Date de l'oeuvre"/>
 <option value="141" label="141$e Qualificatif"/>
+<option value="141" label="141$f Forme de l'oeuvre"/>
 <option value="141" label="141$h Numéro de partie - sous-zone de transcription"/>
 <option value="141" label="141$i Titre de partie"/>
 <option value="141" label="141$o Inversion"/>
@@ -2564,7 +2741,9 @@ display: none;
 <option value="144" label="144$w Informations codées (10 caractères)"/>
 <option value="145" label="145 Titre conventionnel - forme retenue"/>
 <option value="145" label="145$a Titre"/>
+<option value="145" label="145$d Date de l'oeuvre"/>
 <option value="145" label="145$e Qualificatif"/>
+<option value="145" label="145$f Forme de l'oeuvre"/>
 <option value="145" label="145$h Numéro de partie - sous-zone de transcription"/>
 <option value="145" label="145$i Titre de partie"/>
 <option value="145" label="145$o Inversion"/>
@@ -2697,42 +2876,16 @@ display: none;
 <option value="200" label="200 Renvoi général d'exclusion"/>
 <option value="200" label="200$b Citation d'une vedette"/>
 <option value="200" label="200$r Texte"/>
-<option value="202" label="202 Note publique sur le champ d¿application de la vedette"/>
+<option value="202" label="202 Note publique sur le champ d'application de la vedette"/>
 <option value="202" label="202$a Texte"/>
 <option value="202" label="202$b Citation d'une vedette"/>
+<option value="202" label="202$r Note non issue des tables"/>
 <option value="203" label="203 Note confidentielle sur le champ d¿application de la vedette"/>
 <option value="203" label="203$a Texte"/>
 <option value="203" label="203$b Citation d'une vedette"/>
 <option value="206" label="206 Note publique sur la forme retenue comme vedette matière"/>
 <option value="206" label="206$a Texte"/>
 <option value="206" label="206$b Citation d'une vedette"/>
-<option value="231" label="231 XXXXXXXXXXXLien avec une notice créée pour une autre identité de la même entité"/>
-<option value="231" label="231$3 Lien"/>
-<option value="231" label="231$a None"/>
-<option value="231" label="231$b None"/>
-<option value="231" label="231$c None"/>
-<option value="231" label="231$d None"/>
-<option value="231" label="231$e None"/>
-<option value="231" label="231$f None"/>
-<option value="231" label="231$g None"/>
-<option value="231" label="231$h None"/>
-<option value="231" label="231$i None"/>
-<option value="231" label="231$j None"/>
-<option value="231" label="231$k None"/>
-<option value="231" label="231$l None"/>
-<option value="231" label="231$m None"/>
-<option value="231" label="231$n None"/>
-<option value="231" label="231$o None"/>
-<option value="231" label="231$p None"/>
-<option value="231" label="231$q None"/>
-<option value="231" label="231$s None"/>
-<option value="231" label="231$t None"/>
-<option value="231" label="231$u None"/>
-<option value="231" label="231$v None"/>
-<option value="231" label="231$w None"/>
-<option value="231" label="231$x None"/>
-<option value="231" label="231$y None"/>
-<option value="231" label="231$z None"/>
 <option value="300" label="300 Renvoi général d¿orientation"/>
 <option value="300" label="300$b Citation d'une vedette"/>
 <option value="300" label="300$r Texte"/>
@@ -2909,7 +3062,7 @@ display: none;
 <option value="320" label="320$x None"/>
 <option value="320" label="320$y None"/>
 <option value="320" label="320$z None"/>
-<option value="321" label="321 Renvoi d¿orientation entre une ¿uvre (anonyme ou non) et un auteur personne physique ou collectivité"/>
+<option value="321" label="321 Renvoi d'orientation entre une oeuvre (anonyme ou non) et un auteur personne physique ou collectivité"/>
 <option value="321" label="321$3 Numéro de la notice d'autorité liée"/>
 <option value="321" label="321$9 Etiquette de la zone vedette de la notice liée"/>
 <option value="321" label="321$a None"/>
@@ -2926,7 +3079,7 @@ display: none;
 <option value="321" label="321$o None"/>
 <option value="321" label="321$p None"/>
 <option value="321" label="321$q None"/>
-<option value="321" label="321$r Formule explicative"/>
+<option value="321" label="321$r Précision"/>
 <option value="321" label="321$t None"/>
 <option value="321" label="321$u None"/>
 <option value="321" label="321$w None"/>
@@ -3007,7 +3160,7 @@ display: none;
 <option value="326" label="326$x None"/>
 <option value="326" label="326$y None"/>
 <option value="326" label="326$z None"/>
-<option value="331" label="331 Lien avec une notice créée pour une autre identité de la même entité"/>
+<option value="331" label="331 Lien vers une autre identité de la même entité"/>
 <option value="331" label="331$3 Numéro de la notice d'autorité liée"/>
 <option value="331" label="331$a None"/>
 <option value="331" label="331$b None"/>
@@ -3058,6 +3211,34 @@ display: none;
 <option value="364" label="364$r Formule d'introduction"/>
 <option value="364" label="364$t OK"/>
 <option value="364" label="364$u OK"/>
+<option value="393" label="393 Renvoi vers une notice de remplacement"/>
+<option value="393" label="393$3 Numéro de la notice d'autorité liée"/>
+<option value="393" label="393$a None"/>
+<option value="393" label="393$b None"/>
+<option value="393" label="393$c None"/>
+<option value="393" label="393$d None"/>
+<option value="393" label="393$e None"/>
+<option value="393" label="393$f None"/>
+<option value="393" label="393$g None"/>
+<option value="393" label="393$h None"/>
+<option value="393" label="393$i None"/>
+<option value="393" label="393$j None"/>
+<option value="393" label="393$k None"/>
+<option value="393" label="393$l None"/>
+<option value="393" label="393$m None"/>
+<option value="393" label="393$n None"/>
+<option value="393" label="393$o None"/>
+<option value="393" label="393$p None"/>
+<option value="393" label="393$q None"/>
+<option value="393" label="393$r None"/>
+<option value="393" label="393$s None"/>
+<option value="393" label="393$t None"/>
+<option value="393" label="393$u None"/>
+<option value="393" label="393$v None"/>
+<option value="393" label="393$w None"/>
+<option value="393" label="393$x None"/>
+<option value="393" label="393$y None"/>
+<option value="393" label="393$z None"/>
 <option value="400" label="400 Nom de personne physique - forme rejetée"/>
 <option value="400" label="400$a Elément d'entrée"/>
 <option value="400" label="400$d Dates biographiques"/>
@@ -3088,7 +3269,9 @@ display: none;
 <option value="423" label="423$w Informations codées (10 caractères)"/>
 <option value="441" label="441 Titre uniforme textuel ¿ forme rejetée"/>
 <option value="441" label="441$a Titre uniforme"/>
+<option value="441" label="441$d Date de l'oeuvre"/>
 <option value="441" label="441$e Qualificatif"/>
+<option value="441" label="441$f Forme de l'oeuvre"/>
 <option value="441" label="441$h Numéro de partie - sous-zone de transcription"/>
 <option value="441" label="441$i Titre de partie"/>
 <option value="441" label="441$o Inversion"/>
@@ -3112,7 +3295,9 @@ display: none;
 <option value="444" label="444$w Informations codées (10 caractères)"/>
 <option value="445" label="445 Titre conventionnel ¿ forme rejetée"/>
 <option value="445" label="445$a Titre"/>
+<option value="445" label="445$d Date de l'oeuvre"/>
 <option value="445" label="445$e Qualificatif"/>
+<option value="445" label="445$f Forme de l'oeuvre"/>
 <option value="445" label="445$h Numéro de partie - sous-zone de transcription"/>
 <option value="445" label="445$i Titre de partie"/>
 <option value="445" label="445$o Inversion"/>
@@ -3358,6 +3543,34 @@ display: none;
 <option value="515" label="515$r Formule explicative"/>
 <option value="515" label="515$s Dates"/>
 <option value="515" label="515$w None"/>
+<option value="593" label="593 Rappel de la notice remplacée"/>
+<option value="593" label="593$3 Numéro de la notice d'autorité liée"/>
+<option value="593" label="593$a None"/>
+<option value="593" label="593$b None"/>
+<option value="593" label="593$c None"/>
+<option value="593" label="593$d None"/>
+<option value="593" label="593$e None"/>
+<option value="593" label="593$f None"/>
+<option value="593" label="593$g None"/>
+<option value="593" label="593$h None"/>
+<option value="593" label="593$i None"/>
+<option value="593" label="593$j None"/>
+<option value="593" label="593$k None"/>
+<option value="593" label="593$l None"/>
+<option value="593" label="593$m None"/>
+<option value="593" label="593$n None"/>
+<option value="593" label="593$o None"/>
+<option value="593" label="593$p None"/>
+<option value="593" label="593$q None"/>
+<option value="593" label="593$r None"/>
+<option value="593" label="593$s None"/>
+<option value="593" label="593$t None"/>
+<option value="593" label="593$u None"/>
+<option value="593" label="593$v None"/>
+<option value="593" label="593$w None"/>
+<option value="593" label="593$x None"/>
+<option value="593" label="593$y None"/>
+<option value="593" label="593$z None"/>
 <option value="599" label="599 Dates"/>
 <option value="599" label="599$d Mois et jour"/>
 <option value="599" label="599$j Année"/>
@@ -3379,6 +3592,7 @@ display: none;
 <option value="604" label="604$d Dates d'activité dans la ville"/>
 <option value="604" label="604$e Enseigne(s)"/>
 <option value="604" label="604$j Dates d'utilisation des adresses successives"/>
+<option value="604" label="604$k Dates d'utilisation des enseignes successives"/>
 <option value="604" label="604$l Adresse(s) dans la ville"/>
 <option value="605" label="605 Note publique sur l'adresse"/>
 <option value="605" label="605$a Information sur l'adresse"/>
@@ -3403,6 +3617,7 @@ display: none;
 <option value="609" label="609$d Date ou date de début"/>
 <option value="609" label="609$e Date de fin"/>
 <option value="609" label="609$p Pays"/>
+<option value="609" label="609$q Pays non actuel"/>
 <option value="609" label="609$r Nature de la date ou des dates"/>
 <option value="609" label="609$t Complément d'information"/>
 <option value="610" label="610 Note publique sur les sources consultées avec profit"/>
@@ -3453,16 +3668,7 @@ display: none;
 <option value="625" label="625 Note de regroupement catégoriel"/>
 <option value="625" label="625$a Terme générique"/>
 <option value="625" label="625$g Précision"/>
-<option value="625" label="625$g Précision"/>
-<option value="625" label="625$g Précision"/>
-<option value="625" label="625$g Précision"/>
 <option value="625" label="625$o Inversion"/>
-<option value="625" label="625$o Inversion"/>
-<option value="625" label="625$o Inversion"/>
-<option value="625" label="625$o Inversion"/>
-<option value="625" label="625$s Reste de l'élément"/>
-<option value="625" label="625$s Reste de l'élément"/>
-<option value="625" label="625$s Reste de l'élément"/>
 <option value="625" label="625$s Reste de l'élément"/>
 <option value="625" label="625$x Subdivision de sujet ou de forme"/>
 <option value="625" label="625$y Subdivision géographique"/>
@@ -3481,6 +3687,12 @@ display: none;
 <option value="629" label="629$c Cote"/>
 <option value="629" label="629$l Localisation"/>
 <option value="629" label="629$t Texte"/>
+<option value="630" label="630 Historique de l'oeuvre"/>
+<option value="630" label="630$a Texte"/>
+<option value="631" label="631 Nature du contenu de l'oeuvre"/>
+<option value="631" label="631$a Texte"/>
+<option value="632" label="632 Couverture du contenu de l'oeuvre"/>
+<option value="632" label="632$a Texte"/>
 <option value="639" label="639 Cotes BnF de certaines de ses ¿uvres"/>
 <option value="639" label="639$a Cote"/>
 <option value="639" label="639$b Mode d'entrée"/>
@@ -3523,6 +3735,7 @@ display: none;
 <option value="653" label="653$a Influence"/>
 <option value="654" label="654 Note sur la (ou les) devise(s)"/>
 <option value="654" label="654$a Texte"/>
+<option value="654" label="654$w Informations codées (10 caractères)"/>
 <option value="656" label="656 Coordonnées géographiques"/>
 <option value="656" label="656$c Mention des coordonnées"/>
 <option value="657" label="657 Coordonnées Lambert"/>
@@ -3543,8 +3756,9 @@ display: none;
 <option value="661" label="661$n Établissement"/>
 <option value="661" label="661$t Titre"/>
 <option value="662" label="662 Référence dans une autre source"/>
-<option value="662" label="662$a Source"/>
+<option value="662" label="662$a Source figurant dans le référentiel (A622za)"/>
 <option value="662" label="662$b Référence"/>
+<option value="662" label="662$c Source hors référentiel (A662za)"/>
 <option value="662" label="662$d Date de consultation"/>
 <option value="662" label="662$e Précision"/>
 <option value="662" label="662$u URL"/>
@@ -3629,6 +3843,17 @@ display: none;
 <option value="991" label="991$a Intitulé du chantier"/>
 <option value="991" label="991$b Intitulé du sous-chantier"/>
 <option value="991" label="991$d Date de correction (forme AAAAMMJJ)"/>
+<option value="995" label="995 Données de gestion - RESERVEE AU DSI"/>
+<option value="995" label="995$a Degré (ou niveau) de la notice"/>
+<option value="995" label="995$b Code de la section"/>
+<option value="995" label="995$c Nom de la section"/>
+<option value="995" label="995$d Date de première validation de la notice"/>
+<option value="995" label="995$e Date de création de la notice"/>
+<option value="995" label="995$f Code du catalogueur créateur de la notice"/>
+<option value="995" label="995$g Nom du catalogueur créateur de la notice"/>
+<option value="995" label="995$h Date de dernière mise à jour de la notice"/>
+<option value="995" label="995$i Code du catalogueur ayant modifié la notice"/>
+<option value="995" label="995$j Nom du catalogueur ayant modifié la notice"/>
 <option value="996" label="996 Numéro de notice fusionnée au sein de BN-Opale Plus"/>
 <option value="996" label="996$a Numéro"/>
 <option value="996" label="996$d Date de disparition de la notice fusionnée"/>
@@ -3636,8 +3861,9 @@ display: none;
 <option value="999" label="999 Zone de gestion de la migration des données vers le SI - ZONE RESERVEE AU DSI"/>
 <option value="999" label="999$a Zone migrée ajoutée par le DSI"/>
 <option value="999" label="999$x Zone et contenu des données mises en erreur lors du passage du programme de conversion"/>
+<option value="WWW" label="WWW Zone fictive"/>
+<option value="WWW" label="WWW$w Sous-zone $w de référence"/>
 </datalist>
-
 <input type="submit" value="Ouvrir la page" id="acces_rim_a" class="acces_rim"/>
 </form>
 </body>

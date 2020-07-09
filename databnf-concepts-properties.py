@@ -7,7 +7,7 @@ import csv as csv
 from lxml import etree
 import io
 
-sparqlEndpoint = "http://data.bnf.fr/sparql"
+sparqlEndpoint = "https://data.bnf.fr/sparql"
 
 # Requête SPARQL qui récupère la liste des classes dans data.bnf.fr
 # et compte le nombre d'instances pour ces classes.
@@ -15,9 +15,15 @@ sparqlEndpoint = "http://data.bnf.fr/sparql"
 # permet de générer du GEXF (importable dans Gephi)
 
 directory = input("Repertoire de destination : ")
-nomStr = input("Nom du fichier")
+nomStr = input("Nom du fichier : ")
 
-
+def query2json(wrapper, query):
+    print(query)
+    wrapper.setReturnFormat(JSON)
+    wrapper.setQuery(query)
+    results = sparql.query().convert()
+    results = results["results"]["bindings"]
+    return results
 
 #Correction sur la valeur du directory : ajout d'un antislash à la fin s'il n'y en a pas deja un
 if (directory[len(directory)-1] == "\\" or directory[len(directory)-1] == "/"):
@@ -30,13 +36,10 @@ else:
 
 
 sparql = SPARQLWrapper(sparqlEndpoint)
-
-sparql.setQuery("""
+conceptsQuery = """
 select distinct ?Concept where {[] a ?Concept.}
-""")
-sparql.setReturnFormat(JSON)
-results = sparql.query().convert()
-datasetConcepts = results["results"]["bindings"]
+"""
+datasetConcepts = query2json(sparql, conceptsQuery)
 
 ListeConcepts = []
 
@@ -57,17 +60,15 @@ ListesConceptsProprietes4 = []
 
 for Concept in ListeConcepts:
     sparql = SPARQLWrapper(sparqlEndpoint)
-    sparql.setQuery("""
+    concQuery = """
     PREFIX owl: <http://www.w3.org/2002/07/owl#>
     select distinct ?prop (count(?prop) as ?NbProp) ?typeRange where {
     ?item a <""" + Concept + """>.
     ?item ?prop ?val.
     OPTIONAL  {?val a ?typeRange.}
     }
-    """)
-    sparql.setReturnFormat(JSON)
-    results = sparql.query().convert()
-    datasetProprietes = results["results"]["bindings"]
+    """
+    datasetProprietes = query2json(sparql, concQuery)
     for el in datasetProprietes:
         ListesConceptsProprietes1.append(Concept)
         ListesConceptsProprietes2.append(el.get("prop").get("value"))
@@ -103,7 +104,7 @@ listeProp = ['http://purl.org/dc/terms/contributor','http://data.bnf.fr/vocabula
 
 for prop in listeProp:
     sparql = SPARQLWrapper(sparqlEndpoint)
-    sparql.setQuery("""
+    propQuery = """
     PREFIX foaf: <http://xmlns.com/foaf/0.1/>
     PREFIX frbr-rda: <http://rdvocab.info/uri/schema/FRBRentitiesRDA/>
     PREFIX owl: <http://www.w3.org/2002/07/owl#>
@@ -116,10 +117,8 @@ for prop in listeProp:
       ?Expression ?prop ?val.
         ?val a foaf:Person.
     }
-    """)
-    sparql.setReturnFormat(JSON)
-    results = sparql.query().convert()
-    datasetProprietes = results["results"]["bindings"]
+    """
+    datasetProprietes = query2json(sparql, propQuery)
     for el in datasetProprietes:
         ListesConceptsProprietes1.append("Expression")
         ListesConceptsProprietes2.append(prop)
@@ -142,7 +141,6 @@ for prop in listeProp:
         ?val a foaf:Organization.
     }
     """)
-    sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
     datasetProprietes = results["results"]["bindings"]
     for el in datasetProprietes:
